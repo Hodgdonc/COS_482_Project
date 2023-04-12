@@ -1,31 +1,1351 @@
 ,title,critic_score,audience_score
-0,Cocaine Bear,,
-1,Operation Fortune: Ruse de guerre,,
-2,Children of the Corn,,
-3,Wildflower,,
-4,Magic Mike's Last Dance,,
-5,Followers,,
-6,Last Sentinel,,
-7,88,,
-8,Reggie,,
-9,Jack,,
-10,Infinite Sea,,
-11,Everything Everywhere All at Once,,
-12,The Whale,,
-13,Boston Strangler,,
-14,Dragged Across Concrete,,
-15,Cocaine Bear,,
-16,Operation Fortune: Ruse de guerre,,
-17,Children of the Corn,,
-18,Wildflower,,
-19,Magic Mike's Last Dance,,
-20,Followers,,
-21,Last Sentinel,,
-22,88,,
-23,Reggie,,
-24,Jack,,
-25,Infinite Sea,,
-26,Everything Everywhere All at Once,,
-27,The Whale,,
-28,Boston Strangler,,
-29,Dragged Across Concrete,,
+0,'Twas the Fight Before Christmas,100,56
+1,...And God Spoke,100,72
+2,100 Days,100,73
+3,100 Days to Live,100,85
+4,100 Years of Men in Love: The Accidental Collection,100,50
+5,11:55,100,80
+6,12 Angry Men,100,97
+7,16 Acres,100,73
+8,17 Blocks,100,
+9,2 in the Bush: A Love Story,100,
+10,2040,100,47
+11,27: El club de los malditos,100,0
+12,"3 1/2 Minutes, Ten Bullets",100,86
+13,3 Idiots,100,93
+14,32 Pills: My Sister's Suicide,100,48
+15,32 Weeks,100,95
+16,36,100,81
+17,4 Little Girls,100,89
+18,42 Grams,100,69
+19,4x4,100,60
+20,5-25-77,100,88
+21,500 Years,100,
+22,537 Votes,100,70
+23,5B,100,97
+24,7 Days in September,100,80
+25,76 Days,100,84
+26,7:19,100,53
+27,808,100,68
+28,99 River Street,100,81
+29,9to5: The Story of A Movement,100,90
+30,'Twas the Fight Before Christmas,100,56
+31,...And God Spoke,100,72
+32,100 Days,100,73
+33,100 Days to Live,100,85
+34,100 Years of Men in Love: The Accidental Collection,100,50
+35,11:55,100,80
+36,12 Angry Men,100,97
+37,16 Acres,100,73
+38,17 Blocks,100,
+39,2 in the Bush: A Love Story,100,
+40,2040,100,47
+41,27: El club de los malditos,100,0
+42,"3 1/2 Minutes, Ten Bullets",100,86
+43,3 Idiots,100,93
+44,32 Pills: My Sister's Suicide,100,48
+45,32 Weeks,100,95
+46,36,100,81
+47,4 Little Girls,100,89
+48,42 Grams,100,69
+49,4x4,100,60
+50,5-25-77,100,88
+51,500 Years,100,
+52,537 Votes,100,70
+53,5B,100,97
+54,7 Days in September,100,80
+55,76 Days,100,84
+56,7:19,100,53
+57,808,100,68
+58,99 River Street,100,81
+59,9to5: The Story of A Movement,100,90
+60,A Beautiful Planet,100,78
+61,A Bigger Splash,100,42
+62,A Bittersweet Life,100,90
+63,A Brighter Summer Day,100,94
+64,A Brother's Kiss,100,67
+65,A Christmas Carol,100,74
+66,A Conspiracy of Faith,100,67
+67,A Crime on the Bayou,100,80
+68,A Day in the Country,100,87
+69,A Deal With the Universe,100,
+70,A Foreign Affair,100,78
+71,"A Good Day to Die, Hoka Hey",100,
+72,A Gray State,100,58
+73,A Huey P. Newton Story,100,85
+74,A Kid From Coney Island,100,69
+75,A Kiss Before Dying,100,49
+76,A Lesson in Love,100,77
+77,A Lion in the House,100,97
+78,A Love Song for Latasha,100,76
+79,A Man Escaped,100,93
+80,A Man Vanishes,100,81
+81,A Mermaid in Paris,100,64
+82,A Midsummer Night's Dream,100,67
+83,A Million Colours,100,72
+84,A Most Beautiful Thing,100,96
+85,A Night to Remember,100,90
+86,A Pebble in the Pond,100,100
+87,A Peloton of One,100,
+88,A People Uncounted,100,75
+89,A Picture of You,100,75
+90,'Twas the Fight Before Christmas,100,56
+91,...And God Spoke,100,72
+92,100 Days,100,73
+93,100 Days to Live,100,85
+94,100 Years of Men in Love: The Accidental Collection,100,50
+95,11:55,100,80
+96,12 Angry Men,100,97
+97,16 Acres,100,73
+98,17 Blocks,100,
+99,2 in the Bush: A Love Story,100,
+100,2040,100,47
+101,27: El club de los malditos,100,0
+102,"3 1/2 Minutes, Ten Bullets",100,86
+103,3 Idiots,100,93
+104,32 Pills: My Sister's Suicide,100,48
+105,32 Weeks,100,95
+106,36,100,81
+107,4 Little Girls,100,89
+108,42 Grams,100,69
+109,4x4,100,60
+110,5-25-77,100,88
+111,500 Years,100,
+112,537 Votes,100,70
+113,5B,100,97
+114,7 Days in September,100,80
+115,76 Days,100,84
+116,7:19,100,53
+117,808,100,68
+118,99 River Street,100,81
+119,9to5: The Story of A Movement,100,90
+120,A Beautiful Planet,100,78
+121,A Bigger Splash,100,42
+122,A Bittersweet Life,100,90
+123,A Brighter Summer Day,100,94
+124,A Brother's Kiss,100,67
+125,A Christmas Carol,100,74
+126,A Conspiracy of Faith,100,67
+127,A Crime on the Bayou,100,80
+128,A Day in the Country,100,87
+129,A Deal With the Universe,100,
+130,A Foreign Affair,100,78
+131,"A Good Day to Die, Hoka Hey",100,
+132,A Gray State,100,58
+133,A Huey P. Newton Story,100,85
+134,A Kid From Coney Island,100,69
+135,A Kiss Before Dying,100,49
+136,A Lesson in Love,100,77
+137,A Lion in the House,100,97
+138,A Love Song for Latasha,100,76
+139,A Man Escaped,100,93
+140,A Man Vanishes,100,81
+141,A Mermaid in Paris,100,64
+142,A Midsummer Night's Dream,100,67
+143,A Million Colours,100,72
+144,A Most Beautiful Thing,100,96
+145,A Night to Remember,100,90
+146,A Pebble in the Pond,100,100
+147,A Peloton of One,100,
+148,A People Uncounted,100,75
+149,A Picture of You,100,75
+150,A Quiet Place in the Country,100,54
+151,A River Below,100,83
+152,A Room With a View,100,85
+153,A Secret Love,100,90
+154,A Small Measure of Justice,100,
+155,A Special Day,100,92
+156,A Star Is Born,100,79
+157,A Stray,100,75
+158,A Tale of Love and Desire,100,
+159,A Thousand Cuts,100,79
+160,A Throw of Dice,100,47
+161,"A Time to Live, a Time to Die",100,82
+162,A Tree of Life: The Pittsburgh Synagogue Shooting,100,75
+163,A Trip to the Moon,100,90
+164,A Tuba to Cuba,100,82
+165,A Wedding,100,100
+166,A Werewolf Boy,100,85
+167,A Whisper to a Roar,100,82
+168,A Woman's Face,100,83
+169,A.K.A. Doc Pomus,100,
+170,A.rtificial I.mmortality,100,
+171,AVA: A Twist in the Road,100,94
+172,Abortion: Stories Women Tell,100,65
+173,About Pie,100,91
+174,About a Teacher,100,
+175,Abracadabra,100,43
+176,"Acasa, My Home",100,83
+177,Accattone,100,88
+178,Act & Punishment,100,
+179,Adjust Your Tracking: The Untold Story of the VHS Collector,100,85
+180,'Twas the Fight Before Christmas,100,56
+181,...And God Spoke,100,72
+182,100 Days,100,73
+183,100 Days to Live,100,85
+184,100 Years of Men in Love: The Accidental Collection,100,50
+185,11:55,100,80
+186,12 Angry Men,100,97
+187,16 Acres,100,73
+188,17 Blocks,100,
+189,2 in the Bush: A Love Story,100,
+190,2040,100,47
+191,27: El club de los malditos,100,0
+192,"3 1/2 Minutes, Ten Bullets",100,86
+193,3 Idiots,100,93
+194,32 Pills: My Sister's Suicide,100,48
+195,32 Weeks,100,95
+196,36,100,81
+197,4 Little Girls,100,89
+198,42 Grams,100,69
+199,4x4,100,60
+200,5-25-77,100,88
+201,500 Years,100,
+202,537 Votes,100,70
+203,5B,100,97
+204,7 Days in September,100,80
+205,76 Days,100,84
+206,7:19,100,53
+207,808,100,68
+208,99 River Street,100,81
+209,9to5: The Story of A Movement,100,90
+210,A Beautiful Planet,100,78
+211,A Bigger Splash,100,42
+212,A Bittersweet Life,100,90
+213,A Brighter Summer Day,100,94
+214,A Brother's Kiss,100,67
+215,A Christmas Carol,100,74
+216,A Conspiracy of Faith,100,67
+217,A Crime on the Bayou,100,80
+218,A Day in the Country,100,87
+219,A Deal With the Universe,100,
+220,A Foreign Affair,100,78
+221,"A Good Day to Die, Hoka Hey",100,
+222,A Gray State,100,58
+223,A Huey P. Newton Story,100,85
+224,A Kid From Coney Island,100,69
+225,A Kiss Before Dying,100,49
+226,A Lesson in Love,100,77
+227,A Lion in the House,100,97
+228,A Love Song for Latasha,100,76
+229,A Man Escaped,100,93
+230,A Man Vanishes,100,81
+231,A Mermaid in Paris,100,64
+232,A Midsummer Night's Dream,100,67
+233,A Million Colours,100,72
+234,A Most Beautiful Thing,100,96
+235,A Night to Remember,100,90
+236,A Pebble in the Pond,100,100
+237,A Peloton of One,100,
+238,A People Uncounted,100,75
+239,A Picture of You,100,75
+240,A Quiet Place in the Country,100,54
+241,A River Below,100,83
+242,A Room With a View,100,85
+243,A Secret Love,100,90
+244,A Small Measure of Justice,100,
+245,A Special Day,100,92
+246,A Star Is Born,100,79
+247,A Stray,100,75
+248,A Tale of Love and Desire,100,
+249,A Thousand Cuts,100,79
+250,A Throw of Dice,100,47
+251,"A Time to Live, a Time to Die",100,82
+252,A Tree of Life: The Pittsburgh Synagogue Shooting,100,75
+253,A Trip to the Moon,100,90
+254,A Tuba to Cuba,100,82
+255,A Wedding,100,100
+256,A Werewolf Boy,100,85
+257,A Whisper to a Roar,100,82
+258,A Woman's Face,100,83
+259,A.K.A. Doc Pomus,100,
+260,A.rtificial I.mmortality,100,
+261,AVA: A Twist in the Road,100,94
+262,Abortion: Stories Women Tell,100,65
+263,About Pie,100,91
+264,About a Teacher,100,
+265,Abracadabra,100,43
+266,"Acasa, My Home",100,83
+267,Accattone,100,88
+268,Act & Punishment,100,
+269,Adjust Your Tracking: The Untold Story of the VHS Collector,100,85
+270,Adoption,100,88
+271,Adrienne,100,
+272,Advocate,100,71
+273,Aelita: Queen of Mars,100,58
+274,Afghan Cycles,100,83
+275,Afghan Star,100,77
+276,Africa: The Serengeti,100,70
+277,After Auschwitz,100,83
+278,After Parkland,100,61
+279,After Stonewall,100,76
+280,After Truth: Disinformation and the Cost of Fake News,100,60
+281,After the Thin Man,100,90
+282,Aftershock,100,52
+283,Against the Law,100,71
+284,Age of Consent,100,50
+285,Aida's Secrets,100,79
+286,Aileen Wuornos: The Selling of a Serial Killer,100,66
+287,Ainu Mosir,100,67
+288,Ajeeb Daastaans,100,60
+289,Ala Vaikunthapurramuloo,100,76
+290,Alanis,100,59
+291,Algren,100,
+292,Ali Wong: Baby Cobra,100,74
+293,Ali Wong: Hard Knock Wife,100,67
+294,Ali: Fear Eats the Soul,100,91
+295,Alice Is Still Dead,100,
+296,Alice in the Cities,100,91
+297,Alien Boy: The Life and Death of James Chasse,100,90
+298,Alien Raiders,100,34
+299,Alien Xmas,100,66
+300,'Twas the Fight Before Christmas,100,56
+301,...And God Spoke,100,72
+302,100 Days,100,73
+303,100 Days to Live,100,85
+304,100 Years of Men in Love: The Accidental Collection,100,50
+305,11:55,100,80
+306,12 Angry Men,100,97
+307,16 Acres,100,73
+308,17 Blocks,100,
+309,2 in the Bush: A Love Story,100,
+310,2040,100,47
+311,27: El club de los malditos,100,0
+312,"3 1/2 Minutes, Ten Bullets",100,86
+313,3 Idiots,100,93
+314,32 Pills: My Sister's Suicide,100,48
+315,32 Weeks,100,95
+316,36,100,81
+317,4 Little Girls,100,89
+318,42 Grams,100,69
+319,4x4,100,60
+320,5-25-77,100,88
+321,500 Years,100,
+322,537 Votes,100,70
+323,5B,100,97
+324,7 Days in September,100,80
+325,76 Days,100,84
+326,7:19,100,53
+327,808,100,68
+328,99 River Street,100,81
+329,9to5: The Story of A Movement,100,90
+330,A Beautiful Planet,100,78
+331,A Bigger Splash,100,42
+332,A Bittersweet Life,100,90
+333,A Brighter Summer Day,100,94
+334,A Brother's Kiss,100,67
+335,A Christmas Carol,100,74
+336,A Conspiracy of Faith,100,67
+337,A Crime on the Bayou,100,80
+338,A Day in the Country,100,87
+339,A Deal With the Universe,100,
+340,A Foreign Affair,100,78
+341,"A Good Day to Die, Hoka Hey",100,
+342,A Gray State,100,58
+343,A Huey P. Newton Story,100,85
+344,A Kid From Coney Island,100,69
+345,A Kiss Before Dying,100,49
+346,A Lesson in Love,100,77
+347,A Lion in the House,100,97
+348,A Love Song for Latasha,100,76
+349,A Man Escaped,100,93
+350,A Man Vanishes,100,81
+351,A Mermaid in Paris,100,64
+352,A Midsummer Night's Dream,100,67
+353,A Million Colours,100,72
+354,A Most Beautiful Thing,100,96
+355,A Night to Remember,100,90
+356,A Pebble in the Pond,100,100
+357,A Peloton of One,100,
+358,A People Uncounted,100,75
+359,A Picture of You,100,75
+360,A Quiet Place in the Country,100,54
+361,A River Below,100,83
+362,A Room With a View,100,85
+363,A Secret Love,100,90
+364,A Small Measure of Justice,100,
+365,A Special Day,100,92
+366,A Star Is Born,100,79
+367,A Stray,100,75
+368,A Tale of Love and Desire,100,
+369,A Thousand Cuts,100,79
+370,A Throw of Dice,100,47
+371,"A Time to Live, a Time to Die",100,82
+372,A Tree of Life: The Pittsburgh Synagogue Shooting,100,75
+373,A Trip to the Moon,100,90
+374,A Tuba to Cuba,100,82
+375,A Wedding,100,100
+376,A Werewolf Boy,100,85
+377,A Whisper to a Roar,100,82
+378,A Woman's Face,100,83
+379,A.K.A. Doc Pomus,100,
+380,A.rtificial I.mmortality,100,
+381,AVA: A Twist in the Road,100,94
+382,Abortion: Stories Women Tell,100,65
+383,About Pie,100,91
+384,About a Teacher,100,
+385,Abracadabra,100,43
+386,"Acasa, My Home",100,83
+387,Accattone,100,88
+388,Act & Punishment,100,
+389,Adjust Your Tracking: The Untold Story of the VHS Collector,100,85
+390,Adoption,100,88
+391,Adrienne,100,
+392,Advocate,100,71
+393,Aelita: Queen of Mars,100,58
+394,Afghan Cycles,100,83
+395,Afghan Star,100,77
+396,Africa: The Serengeti,100,70
+397,After Auschwitz,100,83
+398,After Parkland,100,61
+399,After Stonewall,100,76
+400,After Truth: Disinformation and the Cost of Fake News,100,60
+401,After the Thin Man,100,90
+402,Aftershock,100,52
+403,Against the Law,100,71
+404,Age of Consent,100,50
+405,Aida's Secrets,100,79
+406,Aileen Wuornos: The Selling of a Serial Killer,100,66
+407,Ainu Mosir,100,67
+408,Ajeeb Daastaans,100,60
+409,Ala Vaikunthapurramuloo,100,76
+410,Alanis,100,59
+411,Algren,100,
+412,Ali Wong: Baby Cobra,100,74
+413,Ali Wong: Hard Knock Wife,100,67
+414,Ali: Fear Eats the Soul,100,91
+415,Alice Is Still Dead,100,
+416,Alice in the Cities,100,91
+417,Alien Boy: The Life and Death of James Chasse,100,90
+418,Alien Raiders,100,34
+419,Alien Xmas,100,66
+420,Aligarh,100,85
+421,Alive and Kicking,100,93
+422,All About Them,100,55
+423,All Hands on Deck,100,68
+424,All In: The Fight for Democracy,100,67
+425,All Is Good,100,63
+426,All Out,100,68
+427,All Quiet on the Western Front,100,69
+428,All This Mayhem,100,89
+429,All Through the Night,100,70
+430,All of Me,100,100
+431,All the Wild Horses,100,83
+432,All the World Is Sleeping,100,100
+433,Alleluia! The Devil's Carnival,100,84
+434,Alone With Her Dreams,100,80
+435,AlphaGo,100,99
+436,Amal,100,90
+437,Ambulance,100,
+438,American Harmony,100,97
+439,American Heretics: The Politics of the Gospel,100,
+440,American Interior,100,95
+441,American Jihad,100,55
+442,American Radical: The Trials of Norman Finkelstein,100,87
+443,American Relapse,100,84
+444,American Son,100,51
+445,Among Wolves,100,92
+446,América,100,
+447,An Accidental Studio: The Story of HandMade Films,100,
+448,An African Election,100,82
+449,"Ana, mon amour",100,80
+450,'Twas the Fight Before Christmas,100,56
+451,...And God Spoke,100,72
+452,100 Days,100,73
+453,100 Days to Live,100,85
+454,100 Years of Men in Love: The Accidental Collection,100,50
+455,11:55,100,80
+456,12 Angry Men,100,97
+457,16 Acres,100,73
+458,17 Blocks,100,
+459,2 in the Bush: A Love Story,100,
+460,2040,100,47
+461,27: El club de los malditos,100,0
+462,"3 1/2 Minutes, Ten Bullets",100,86
+463,3 Idiots,100,93
+464,32 Pills: My Sister's Suicide,100,48
+465,32 Weeks,100,95
+466,36,100,81
+467,4 Little Girls,100,89
+468,42 Grams,100,69
+469,4x4,100,60
+470,5-25-77,100,88
+471,500 Years,100,
+472,537 Votes,100,70
+473,5B,100,97
+474,7 Days in September,100,80
+475,76 Days,100,84
+476,7:19,100,53
+477,808,100,68
+478,99 River Street,100,81
+479,9to5: The Story of A Movement,100,90
+480,A Beautiful Planet,100,78
+481,A Bigger Splash,100,42
+482,A Bittersweet Life,100,90
+483,A Brighter Summer Day,100,94
+484,A Brother's Kiss,100,67
+485,A Christmas Carol,100,74
+486,A Conspiracy of Faith,100,67
+487,A Crime on the Bayou,100,80
+488,A Day in the Country,100,87
+489,A Deal With the Universe,100,
+490,A Foreign Affair,100,78
+491,"A Good Day to Die, Hoka Hey",100,
+492,A Gray State,100,58
+493,A Huey P. Newton Story,100,85
+494,A Kid From Coney Island,100,69
+495,A Kiss Before Dying,100,49
+496,A Lesson in Love,100,77
+497,A Lion in the House,100,97
+498,A Love Song for Latasha,100,76
+499,A Man Escaped,100,93
+500,A Man Vanishes,100,81
+501,A Mermaid in Paris,100,64
+502,A Midsummer Night's Dream,100,67
+503,A Million Colours,100,72
+504,A Most Beautiful Thing,100,96
+505,A Night to Remember,100,90
+506,A Pebble in the Pond,100,100
+507,A Peloton of One,100,
+508,A People Uncounted,100,75
+509,A Picture of You,100,75
+510,A Quiet Place in the Country,100,54
+511,A River Below,100,83
+512,A Room With a View,100,85
+513,A Secret Love,100,90
+514,A Small Measure of Justice,100,
+515,A Special Day,100,92
+516,A Star Is Born,100,79
+517,A Stray,100,75
+518,A Tale of Love and Desire,100,
+519,A Thousand Cuts,100,79
+520,A Throw of Dice,100,47
+521,"A Time to Live, a Time to Die",100,82
+522,A Tree of Life: The Pittsburgh Synagogue Shooting,100,75
+523,A Trip to the Moon,100,90
+524,A Tuba to Cuba,100,82
+525,A Wedding,100,100
+526,A Werewolf Boy,100,85
+527,A Whisper to a Roar,100,82
+528,A Woman's Face,100,83
+529,A.K.A. Doc Pomus,100,
+530,A.rtificial I.mmortality,100,
+531,AVA: A Twist in the Road,100,94
+532,Abortion: Stories Women Tell,100,65
+533,About Pie,100,91
+534,About a Teacher,100,
+535,Abracadabra,100,43
+536,"Acasa, My Home",100,83
+537,Accattone,100,88
+538,Act & Punishment,100,
+539,Adjust Your Tracking: The Untold Story of the VHS Collector,100,85
+540,Adoption,100,88
+541,Adrienne,100,
+542,Advocate,100,71
+543,Aelita: Queen of Mars,100,58
+544,Afghan Cycles,100,83
+545,Afghan Star,100,77
+546,Africa: The Serengeti,100,70
+547,After Auschwitz,100,83
+548,After Parkland,100,61
+549,After Stonewall,100,76
+550,After Truth: Disinformation and the Cost of Fake News,100,60
+551,After the Thin Man,100,90
+552,Aftershock,100,52
+553,Against the Law,100,71
+554,Age of Consent,100,50
+555,Aida's Secrets,100,79
+556,Aileen Wuornos: The Selling of a Serial Killer,100,66
+557,Ainu Mosir,100,67
+558,Ajeeb Daastaans,100,60
+559,Ala Vaikunthapurramuloo,100,76
+560,Alanis,100,59
+561,Algren,100,
+562,Ali Wong: Baby Cobra,100,74
+563,Ali Wong: Hard Knock Wife,100,67
+564,Ali: Fear Eats the Soul,100,91
+565,Alice Is Still Dead,100,
+566,Alice in the Cities,100,91
+567,Alien Boy: The Life and Death of James Chasse,100,90
+568,Alien Raiders,100,34
+569,Alien Xmas,100,66
+570,Aligarh,100,85
+571,Alive and Kicking,100,93
+572,All About Them,100,55
+573,All Hands on Deck,100,68
+574,All In: The Fight for Democracy,100,67
+575,All Is Good,100,63
+576,All Out,100,68
+577,All Quiet on the Western Front,100,69
+578,All This Mayhem,100,89
+579,All Through the Night,100,70
+580,All of Me,100,100
+581,All the Wild Horses,100,83
+582,All the World Is Sleeping,100,100
+583,Alleluia! The Devil's Carnival,100,84
+584,Alone With Her Dreams,100,80
+585,AlphaGo,100,99
+586,Amal,100,90
+587,Ambulance,100,
+588,American Harmony,100,97
+589,American Heretics: The Politics of the Gospel,100,
+590,American Interior,100,95
+591,American Jihad,100,55
+592,American Radical: The Trials of Norman Finkelstein,100,87
+593,American Relapse,100,84
+594,American Son,100,51
+595,Among Wolves,100,92
+596,América,100,
+597,An Accidental Studio: The Story of HandMade Films,100,
+598,An African Election,100,82
+599,"Ana, mon amour",100,80
+600,'Twas the Fight Before Christmas,100,56
+601,...And God Spoke,100,72
+602,100 Days,100,73
+603,100 Days to Live,100,85
+604,100 Years of Men in Love: The Accidental Collection,100,50
+605,11:55,100,80
+606,12 Angry Men,100,97
+607,16 Acres,100,73
+608,17 Blocks,100,
+609,2 in the Bush: A Love Story,100,
+610,2040,100,47
+611,27: El club de los malditos,100,0
+612,"3 1/2 Minutes, Ten Bullets",100,86
+613,3 Idiots,100,93
+614,32 Pills: My Sister's Suicide,100,48
+615,32 Weeks,100,95
+616,36,100,81
+617,4 Little Girls,100,89
+618,42 Grams,100,69
+619,4x4,100,60
+620,5-25-77,100,88
+621,500 Years,100,
+622,537 Votes,100,70
+623,5B,100,97
+624,7 Days in September,100,80
+625,76 Days,100,84
+626,7:19,100,53
+627,808,100,68
+628,99 River Street,100,81
+629,9to5: The Story of A Movement,100,90
+630,A Beautiful Planet,100,78
+631,A Bigger Splash,100,42
+632,A Bittersweet Life,100,90
+633,A Brighter Summer Day,100,94
+634,A Brother's Kiss,100,67
+635,A Christmas Carol,100,74
+636,A Conspiracy of Faith,100,67
+637,A Crime on the Bayou,100,80
+638,A Day in the Country,100,87
+639,A Deal With the Universe,100,
+640,A Foreign Affair,100,78
+641,"A Good Day to Die, Hoka Hey",100,
+642,A Gray State,100,58
+643,A Huey P. Newton Story,100,85
+644,A Kid From Coney Island,100,69
+645,A Kiss Before Dying,100,49
+646,A Lesson in Love,100,77
+647,A Lion in the House,100,97
+648,A Love Song for Latasha,100,76
+649,A Man Escaped,100,93
+650,A Man Vanishes,100,81
+651,A Mermaid in Paris,100,64
+652,A Midsummer Night's Dream,100,67
+653,A Million Colours,100,72
+654,A Most Beautiful Thing,100,96
+655,A Night to Remember,100,90
+656,A Pebble in the Pond,100,100
+657,A Peloton of One,100,
+658,A People Uncounted,100,75
+659,A Picture of You,100,75
+660,A Quiet Place in the Country,100,54
+661,A River Below,100,83
+662,A Room With a View,100,85
+663,A Secret Love,100,90
+664,A Small Measure of Justice,100,
+665,A Special Day,100,92
+666,A Star Is Born,100,79
+667,A Stray,100,75
+668,A Tale of Love and Desire,100,
+669,A Thousand Cuts,100,79
+670,A Throw of Dice,100,47
+671,"A Time to Live, a Time to Die",100,82
+672,A Tree of Life: The Pittsburgh Synagogue Shooting,100,75
+673,A Trip to the Moon,100,90
+674,A Tuba to Cuba,100,82
+675,A Wedding,100,100
+676,A Werewolf Boy,100,85
+677,A Whisper to a Roar,100,82
+678,A Woman's Face,100,83
+679,A.K.A. Doc Pomus,100,
+680,A.rtificial I.mmortality,100,
+681,AVA: A Twist in the Road,100,94
+682,Abortion: Stories Women Tell,100,65
+683,About Pie,100,91
+684,About a Teacher,100,
+685,Abracadabra,100,43
+686,"Acasa, My Home",100,83
+687,Accattone,100,88
+688,Act & Punishment,100,
+689,Adjust Your Tracking: The Untold Story of the VHS Collector,100,85
+690,Adoption,100,88
+691,Adrienne,100,
+692,Advocate,100,71
+693,Aelita: Queen of Mars,100,58
+694,Afghan Cycles,100,83
+695,Afghan Star,100,77
+696,Africa: The Serengeti,100,70
+697,After Auschwitz,100,83
+698,After Parkland,100,61
+699,After Stonewall,100,76
+700,After Truth: Disinformation and the Cost of Fake News,100,60
+701,After the Thin Man,100,90
+702,Aftershock,100,52
+703,Against the Law,100,71
+704,Age of Consent,100,50
+705,Aida's Secrets,100,79
+706,Aileen Wuornos: The Selling of a Serial Killer,100,66
+707,Ainu Mosir,100,67
+708,Ajeeb Daastaans,100,60
+709,Ala Vaikunthapurramuloo,100,76
+710,Alanis,100,59
+711,Algren,100,
+712,Ali Wong: Baby Cobra,100,74
+713,Ali Wong: Hard Knock Wife,100,67
+714,Ali: Fear Eats the Soul,100,91
+715,Alice Is Still Dead,100,
+716,Alice in the Cities,100,91
+717,Alien Boy: The Life and Death of James Chasse,100,90
+718,Alien Raiders,100,34
+719,Alien Xmas,100,66
+720,Aligarh,100,85
+721,Alive and Kicking,100,93
+722,All About Them,100,55
+723,All Hands on Deck,100,68
+724,All In: The Fight for Democracy,100,67
+725,All Is Good,100,63
+726,All Out,100,68
+727,All Quiet on the Western Front,100,69
+728,All This Mayhem,100,89
+729,All Through the Night,100,70
+730,All of Me,100,100
+731,All the Wild Horses,100,83
+732,All the World Is Sleeping,100,100
+733,Alleluia! The Devil's Carnival,100,84
+734,Alone With Her Dreams,100,80
+735,AlphaGo,100,99
+736,Amal,100,90
+737,Ambulance,100,
+738,American Harmony,100,97
+739,American Heretics: The Politics of the Gospel,100,
+740,American Interior,100,95
+741,American Jihad,100,55
+742,American Radical: The Trials of Norman Finkelstein,100,87
+743,American Relapse,100,84
+744,American Son,100,51
+745,Among Wolves,100,92
+746,América,100,
+747,An Accidental Studio: The Story of HandMade Films,100,
+748,An African Election,100,82
+749,"Ana, mon amour",100,80
+750,'Twas the Fight Before Christmas,100,56
+751,...And God Spoke,100,72
+752,100 Days,100,73
+753,100 Days to Live,100,85
+754,100 Years of Men in Love: The Accidental Collection,100,50
+755,11:55,100,80
+756,12 Angry Men,100,97
+757,16 Acres,100,73
+758,17 Blocks,100,
+759,2 in the Bush: A Love Story,100,
+760,2040,100,47
+761,27: El club de los malditos,100,0
+762,"3 1/2 Minutes, Ten Bullets",100,86
+763,3 Idiots,100,93
+764,32 Pills: My Sister's Suicide,100,48
+765,32 Weeks,100,95
+766,36,100,81
+767,4 Little Girls,100,89
+768,42 Grams,100,69
+769,4x4,100,60
+770,5-25-77,100,88
+771,500 Years,100,
+772,537 Votes,100,70
+773,5B,100,97
+774,7 Days in September,100,80
+775,76 Days,100,84
+776,7:19,100,53
+777,808,100,68
+778,99 River Street,100,81
+779,9to5: The Story of A Movement,100,90
+780,A Beautiful Planet,100,78
+781,A Bigger Splash,100,42
+782,A Bittersweet Life,100,90
+783,A Brighter Summer Day,100,94
+784,A Brother's Kiss,100,67
+785,A Christmas Carol,100,74
+786,A Conspiracy of Faith,100,67
+787,A Crime on the Bayou,100,80
+788,A Day in the Country,100,87
+789,A Deal With the Universe,100,
+790,A Foreign Affair,100,78
+791,"A Good Day to Die, Hoka Hey",100,
+792,A Gray State,100,58
+793,A Huey P. Newton Story,100,85
+794,A Kid From Coney Island,100,69
+795,A Kiss Before Dying,100,49
+796,A Lesson in Love,100,77
+797,A Lion in the House,100,97
+798,A Love Song for Latasha,100,76
+799,A Man Escaped,100,93
+800,A Man Vanishes,100,81
+801,A Mermaid in Paris,100,64
+802,A Midsummer Night's Dream,100,67
+803,A Million Colours,100,72
+804,A Most Beautiful Thing,100,96
+805,A Night to Remember,100,90
+806,A Pebble in the Pond,100,100
+807,A Peloton of One,100,
+808,A People Uncounted,100,75
+809,A Picture of You,100,75
+810,A Quiet Place in the Country,100,54
+811,A River Below,100,83
+812,A Room With a View,100,85
+813,A Secret Love,100,90
+814,A Small Measure of Justice,100,
+815,A Special Day,100,92
+816,A Star Is Born,100,79
+817,A Stray,100,75
+818,A Tale of Love and Desire,100,
+819,A Thousand Cuts,100,79
+820,A Throw of Dice,100,47
+821,"A Time to Live, a Time to Die",100,82
+822,A Tree of Life: The Pittsburgh Synagogue Shooting,100,75
+823,A Trip to the Moon,100,90
+824,A Tuba to Cuba,100,82
+825,A Wedding,100,100
+826,A Werewolf Boy,100,85
+827,A Whisper to a Roar,100,82
+828,A Woman's Face,100,83
+829,A.K.A. Doc Pomus,100,
+830,A.rtificial I.mmortality,100,
+831,AVA: A Twist in the Road,100,94
+832,Abortion: Stories Women Tell,100,65
+833,About Pie,100,91
+834,About a Teacher,100,
+835,Abracadabra,100,43
+836,"Acasa, My Home",100,83
+837,Accattone,100,88
+838,Act & Punishment,100,
+839,Adjust Your Tracking: The Untold Story of the VHS Collector,100,85
+840,Adoption,100,88
+841,Adrienne,100,
+842,Advocate,100,71
+843,Aelita: Queen of Mars,100,58
+844,Afghan Cycles,100,83
+845,Afghan Star,100,77
+846,Africa: The Serengeti,100,70
+847,After Auschwitz,100,83
+848,After Parkland,100,61
+849,After Stonewall,100,76
+850,After Truth: Disinformation and the Cost of Fake News,100,60
+851,After the Thin Man,100,90
+852,Aftershock,100,52
+853,Against the Law,100,71
+854,Age of Consent,100,50
+855,Aida's Secrets,100,79
+856,Aileen Wuornos: The Selling of a Serial Killer,100,66
+857,Ainu Mosir,100,67
+858,Ajeeb Daastaans,100,60
+859,Ala Vaikunthapurramuloo,100,76
+860,Alanis,100,59
+861,Algren,100,
+862,Ali Wong: Baby Cobra,100,74
+863,Ali Wong: Hard Knock Wife,100,67
+864,Ali: Fear Eats the Soul,100,91
+865,Alice Is Still Dead,100,
+866,Alice in the Cities,100,91
+867,Alien Boy: The Life and Death of James Chasse,100,90
+868,Alien Raiders,100,34
+869,Alien Xmas,100,66
+870,Aligarh,100,85
+871,Alive and Kicking,100,93
+872,All About Them,100,55
+873,All Hands on Deck,100,68
+874,All In: The Fight for Democracy,100,67
+875,All Is Good,100,63
+876,All Out,100,68
+877,All Quiet on the Western Front,100,69
+878,All This Mayhem,100,89
+879,All Through the Night,100,70
+880,All of Me,100,100
+881,All the Wild Horses,100,83
+882,All the World Is Sleeping,100,100
+883,Alleluia! The Devil's Carnival,100,84
+884,Alone With Her Dreams,100,80
+885,AlphaGo,100,99
+886,Amal,100,90
+887,Ambulance,100,
+888,American Harmony,100,97
+889,American Heretics: The Politics of the Gospel,100,
+890,American Interior,100,95
+891,American Jihad,100,55
+892,American Radical: The Trials of Norman Finkelstein,100,87
+893,American Relapse,100,84
+894,American Son,100,51
+895,Among Wolves,100,92
+896,América,100,
+897,An Accidental Studio: The Story of HandMade Films,100,
+898,An African Election,100,82
+899,"Ana, mon amour",100,80
+900,'Twas the Fight Before Christmas,100,56
+901,...And God Spoke,100,72
+902,100 Days,100,73
+903,100 Days to Live,100,85
+904,100 Years of Men in Love: The Accidental Collection,100,50
+905,11:55,100,80
+906,12 Angry Men,100,97
+907,16 Acres,100,73
+908,17 Blocks,100,
+909,2 in the Bush: A Love Story,100,
+910,2040,100,47
+911,27: El club de los malditos,100,0
+912,"3 1/2 Minutes, Ten Bullets",100,86
+913,3 Idiots,100,93
+914,32 Pills: My Sister's Suicide,100,48
+915,32 Weeks,100,95
+916,36,100,81
+917,4 Little Girls,100,89
+918,42 Grams,100,69
+919,4x4,100,60
+920,5-25-77,100,88
+921,500 Years,100,
+922,537 Votes,100,70
+923,5B,100,97
+924,7 Days in September,100,80
+925,76 Days,100,84
+926,7:19,100,53
+927,808,100,68
+928,99 River Street,100,81
+929,9to5: The Story of A Movement,100,90
+930,A Beautiful Planet,100,78
+931,A Bigger Splash,100,42
+932,A Bittersweet Life,100,90
+933,A Brighter Summer Day,100,94
+934,A Brother's Kiss,100,67
+935,A Christmas Carol,100,74
+936,A Conspiracy of Faith,100,67
+937,A Crime on the Bayou,100,80
+938,A Day in the Country,100,87
+939,A Deal With the Universe,100,
+940,A Foreign Affair,100,78
+941,"A Good Day to Die, Hoka Hey",100,
+942,A Gray State,100,58
+943,A Huey P. Newton Story,100,85
+944,A Kid From Coney Island,100,69
+945,A Kiss Before Dying,100,49
+946,A Lesson in Love,100,77
+947,A Lion in the House,100,97
+948,A Love Song for Latasha,100,76
+949,A Man Escaped,100,93
+950,A Man Vanishes,100,81
+951,A Mermaid in Paris,100,64
+952,A Midsummer Night's Dream,100,67
+953,A Million Colours,100,72
+954,A Most Beautiful Thing,100,96
+955,A Night to Remember,100,90
+956,A Pebble in the Pond,100,100
+957,A Peloton of One,100,
+958,A People Uncounted,100,75
+959,A Picture of You,100,75
+960,A Quiet Place in the Country,100,54
+961,A River Below,100,83
+962,A Room With a View,100,85
+963,A Secret Love,100,90
+964,A Small Measure of Justice,100,
+965,A Special Day,100,92
+966,A Star Is Born,100,79
+967,A Stray,100,75
+968,A Tale of Love and Desire,100,
+969,A Thousand Cuts,100,79
+970,A Throw of Dice,100,47
+971,"A Time to Live, a Time to Die",100,82
+972,A Tree of Life: The Pittsburgh Synagogue Shooting,100,75
+973,A Trip to the Moon,100,90
+974,A Tuba to Cuba,100,82
+975,A Wedding,100,100
+976,A Werewolf Boy,100,85
+977,A Whisper to a Roar,100,82
+978,A Woman's Face,100,83
+979,A.K.A. Doc Pomus,100,
+980,A.rtificial I.mmortality,100,
+981,AVA: A Twist in the Road,100,94
+982,Abortion: Stories Women Tell,100,65
+983,About Pie,100,91
+984,About a Teacher,100,
+985,Abracadabra,100,43
+986,"Acasa, My Home",100,83
+987,Accattone,100,88
+988,Act & Punishment,100,
+989,Adjust Your Tracking: The Untold Story of the VHS Collector,100,85
+990,Adoption,100,88
+991,Adrienne,100,
+992,Advocate,100,71
+993,Aelita: Queen of Mars,100,58
+994,Afghan Cycles,100,83
+995,Afghan Star,100,77
+996,Africa: The Serengeti,100,70
+997,After Auschwitz,100,83
+998,After Parkland,100,61
+999,After Stonewall,100,76
+1000,After Truth: Disinformation and the Cost of Fake News,100,60
+1001,After the Thin Man,100,90
+1002,Aftershock,100,52
+1003,Against the Law,100,71
+1004,Age of Consent,100,50
+1005,Aida's Secrets,100,79
+1006,Aileen Wuornos: The Selling of a Serial Killer,100,66
+1007,Ainu Mosir,100,67
+1008,Ajeeb Daastaans,100,60
+1009,Ala Vaikunthapurramuloo,100,76
+1010,Alanis,100,59
+1011,Algren,100,
+1012,Ali Wong: Baby Cobra,100,74
+1013,Ali Wong: Hard Knock Wife,100,67
+1014,Ali: Fear Eats the Soul,100,91
+1015,Alice Is Still Dead,100,
+1016,Alice in the Cities,100,91
+1017,Alien Boy: The Life and Death of James Chasse,100,90
+1018,Alien Raiders,100,34
+1019,Alien Xmas,100,66
+1020,Aligarh,100,85
+1021,Alive and Kicking,100,93
+1022,All About Them,100,55
+1023,All Hands on Deck,100,68
+1024,All In: The Fight for Democracy,100,67
+1025,All Is Good,100,63
+1026,All Out,100,68
+1027,All Quiet on the Western Front,100,69
+1028,All This Mayhem,100,89
+1029,All Through the Night,100,70
+1030,All of Me,100,100
+1031,All the Wild Horses,100,83
+1032,All the World Is Sleeping,100,100
+1033,Alleluia! The Devil's Carnival,100,84
+1034,Alone With Her Dreams,100,80
+1035,AlphaGo,100,99
+1036,Amal,100,90
+1037,Ambulance,100,
+1038,American Harmony,100,97
+1039,American Heretics: The Politics of the Gospel,100,
+1040,American Interior,100,95
+1041,American Jihad,100,55
+1042,American Radical: The Trials of Norman Finkelstein,100,87
+1043,American Relapse,100,84
+1044,American Son,100,51
+1045,Among Wolves,100,92
+1046,América,100,
+1047,An Accidental Studio: The Story of HandMade Films,100,
+1048,An African Election,100,82
+1049,"Ana, mon amour",100,80
+1050,'Twas the Fight Before Christmas,100,56
+1051,...And God Spoke,100,72
+1052,100 Days,100,73
+1053,100 Days to Live,100,85
+1054,100 Years of Men in Love: The Accidental Collection,100,50
+1055,11:55,100,80
+1056,12 Angry Men,100,97
+1057,16 Acres,100,73
+1058,17 Blocks,100,
+1059,2 in the Bush: A Love Story,100,
+1060,2040,100,47
+1061,27: El club de los malditos,100,0
+1062,"3 1/2 Minutes, Ten Bullets",100,86
+1063,3 Idiots,100,93
+1064,32 Pills: My Sister's Suicide,100,48
+1065,32 Weeks,100,95
+1066,36,100,81
+1067,4 Little Girls,100,89
+1068,42 Grams,100,69
+1069,4x4,100,60
+1070,5-25-77,100,88
+1071,500 Years,100,
+1072,537 Votes,100,70
+1073,5B,100,97
+1074,7 Days in September,100,80
+1075,76 Days,100,84
+1076,7:19,100,53
+1077,808,100,68
+1078,99 River Street,100,81
+1079,9to5: The Story of A Movement,100,90
+1080,A Beautiful Planet,100,78
+1081,A Bigger Splash,100,42
+1082,A Bittersweet Life,100,90
+1083,A Brighter Summer Day,100,94
+1084,A Brother's Kiss,100,67
+1085,A Christmas Carol,100,74
+1086,A Conspiracy of Faith,100,67
+1087,A Crime on the Bayou,100,80
+1088,A Day in the Country,100,87
+1089,A Deal With the Universe,100,
+1090,A Foreign Affair,100,78
+1091,"A Good Day to Die, Hoka Hey",100,
+1092,A Gray State,100,58
+1093,A Huey P. Newton Story,100,85
+1094,A Kid From Coney Island,100,69
+1095,A Kiss Before Dying,100,49
+1096,A Lesson in Love,100,77
+1097,A Lion in the House,100,97
+1098,A Love Song for Latasha,100,76
+1099,A Man Escaped,100,93
+1100,A Man Vanishes,100,81
+1101,A Mermaid in Paris,100,64
+1102,A Midsummer Night's Dream,100,67
+1103,A Million Colours,100,72
+1104,A Most Beautiful Thing,100,96
+1105,A Night to Remember,100,90
+1106,A Pebble in the Pond,100,100
+1107,A Peloton of One,100,
+1108,A People Uncounted,100,75
+1109,A Picture of You,100,75
+1110,A Quiet Place in the Country,100,54
+1111,A River Below,100,83
+1112,A Room With a View,100,85
+1113,A Secret Love,100,90
+1114,A Small Measure of Justice,100,
+1115,A Special Day,100,92
+1116,A Star Is Born,100,79
+1117,A Stray,100,75
+1118,A Tale of Love and Desire,100,
+1119,A Thousand Cuts,100,79
+1120,A Throw of Dice,100,47
+1121,"A Time to Live, a Time to Die",100,82
+1122,A Tree of Life: The Pittsburgh Synagogue Shooting,100,75
+1123,A Trip to the Moon,100,90
+1124,A Tuba to Cuba,100,82
+1125,A Wedding,100,100
+1126,A Werewolf Boy,100,85
+1127,A Whisper to a Roar,100,82
+1128,A Woman's Face,100,83
+1129,A.K.A. Doc Pomus,100,
+1130,A.rtificial I.mmortality,100,
+1131,AVA: A Twist in the Road,100,94
+1132,Abortion: Stories Women Tell,100,65
+1133,About Pie,100,91
+1134,About a Teacher,100,
+1135,Abracadabra,100,43
+1136,"Acasa, My Home",100,83
+1137,Accattone,100,88
+1138,Act & Punishment,100,
+1139,Adjust Your Tracking: The Untold Story of the VHS Collector,100,85
+1140,Adoption,100,88
+1141,Adrienne,100,
+1142,Advocate,100,71
+1143,Aelita: Queen of Mars,100,58
+1144,Afghan Cycles,100,83
+1145,Afghan Star,100,77
+1146,Africa: The Serengeti,100,70
+1147,After Auschwitz,100,83
+1148,After Parkland,100,61
+1149,After Stonewall,100,76
+1150,After Truth: Disinformation and the Cost of Fake News,100,60
+1151,After the Thin Man,100,90
+1152,Aftershock,100,52
+1153,Against the Law,100,71
+1154,Age of Consent,100,50
+1155,Aida's Secrets,100,79
+1156,Aileen Wuornos: The Selling of a Serial Killer,100,66
+1157,Ainu Mosir,100,67
+1158,Ajeeb Daastaans,100,60
+1159,Ala Vaikunthapurramuloo,100,76
+1160,Alanis,100,59
+1161,Algren,100,
+1162,Ali Wong: Baby Cobra,100,74
+1163,Ali Wong: Hard Knock Wife,100,67
+1164,Ali: Fear Eats the Soul,100,91
+1165,Alice Is Still Dead,100,
+1166,Alice in the Cities,100,91
+1167,Alien Boy: The Life and Death of James Chasse,100,90
+1168,Alien Raiders,100,34
+1169,Alien Xmas,100,66
+1170,Aligarh,100,85
+1171,Alive and Kicking,100,93
+1172,All About Them,100,55
+1173,All Hands on Deck,100,68
+1174,All In: The Fight for Democracy,100,67
+1175,All Is Good,100,63
+1176,All Out,100,68
+1177,All Quiet on the Western Front,100,69
+1178,All This Mayhem,100,89
+1179,All Through the Night,100,70
+1180,All of Me,100,100
+1181,All the Wild Horses,100,83
+1182,All the World Is Sleeping,100,100
+1183,Alleluia! The Devil's Carnival,100,84
+1184,Alone With Her Dreams,100,80
+1185,AlphaGo,100,99
+1186,Amal,100,90
+1187,Ambulance,100,
+1188,American Harmony,100,97
+1189,American Heretics: The Politics of the Gospel,100,
+1190,American Interior,100,95
+1191,American Jihad,100,55
+1192,American Radical: The Trials of Norman Finkelstein,100,87
+1193,American Relapse,100,84
+1194,American Son,100,51
+1195,Among Wolves,100,92
+1196,América,100,
+1197,An Accidental Studio: The Story of HandMade Films,100,
+1198,An African Election,100,82
+1199,"Ana, mon amour",100,80
+1200,'Twas the Fight Before Christmas,100,56
+1201,...And God Spoke,100,72
+1202,100 Days,100,73
+1203,100 Days to Live,100,85
+1204,100 Years of Men in Love: The Accidental Collection,100,50
+1205,11:55,100,80
+1206,12 Angry Men,100,97
+1207,16 Acres,100,73
+1208,17 Blocks,100,
+1209,2 in the Bush: A Love Story,100,
+1210,2040,100,47
+1211,27: El club de los malditos,100,0
+1212,"3 1/2 Minutes, Ten Bullets",100,86
+1213,3 Idiots,100,93
+1214,32 Pills: My Sister's Suicide,100,48
+1215,32 Weeks,100,95
+1216,36,100,81
+1217,4 Little Girls,100,89
+1218,42 Grams,100,69
+1219,4x4,100,60
+1220,5-25-77,100,88
+1221,500 Years,100,
+1222,537 Votes,100,70
+1223,5B,100,97
+1224,7 Days in September,100,80
+1225,76 Days,100,84
+1226,7:19,100,53
+1227,808,100,68
+1228,99 River Street,100,81
+1229,9to5: The Story of A Movement,100,90
+1230,A Beautiful Planet,100,78
+1231,A Bigger Splash,100,42
+1232,A Bittersweet Life,100,90
+1233,A Brighter Summer Day,100,94
+1234,A Brother's Kiss,100,67
+1235,A Christmas Carol,100,74
+1236,A Conspiracy of Faith,100,67
+1237,A Crime on the Bayou,100,80
+1238,A Day in the Country,100,87
+1239,A Deal With the Universe,100,
+1240,A Foreign Affair,100,78
+1241,"A Good Day to Die, Hoka Hey",100,
+1242,A Gray State,100,58
+1243,A Huey P. Newton Story,100,85
+1244,A Kid From Coney Island,100,69
+1245,A Kiss Before Dying,100,49
+1246,A Lesson in Love,100,77
+1247,A Lion in the House,100,97
+1248,A Love Song for Latasha,100,76
+1249,A Man Escaped,100,93
+1250,A Man Vanishes,100,81
+1251,A Mermaid in Paris,100,64
+1252,A Midsummer Night's Dream,100,67
+1253,A Million Colours,100,72
+1254,A Most Beautiful Thing,100,96
+1255,A Night to Remember,100,90
+1256,A Pebble in the Pond,100,100
+1257,A Peloton of One,100,
+1258,A People Uncounted,100,75
+1259,A Picture of You,100,75
+1260,A Quiet Place in the Country,100,54
+1261,A River Below,100,83
+1262,A Room With a View,100,85
+1263,A Secret Love,100,90
+1264,A Small Measure of Justice,100,
+1265,A Special Day,100,92
+1266,A Star Is Born,100,79
+1267,A Stray,100,75
+1268,A Tale of Love and Desire,100,
+1269,A Thousand Cuts,100,79
+1270,A Throw of Dice,100,47
+1271,"A Time to Live, a Time to Die",100,82
+1272,A Tree of Life: The Pittsburgh Synagogue Shooting,100,75
+1273,A Trip to the Moon,100,90
+1274,A Tuba to Cuba,100,82
+1275,A Wedding,100,100
+1276,A Werewolf Boy,100,85
+1277,A Whisper to a Roar,100,82
+1278,A Woman's Face,100,83
+1279,A.K.A. Doc Pomus,100,
+1280,A.rtificial I.mmortality,100,
+1281,AVA: A Twist in the Road,100,94
+1282,Abortion: Stories Women Tell,100,65
+1283,About Pie,100,91
+1284,About a Teacher,100,
+1285,Abracadabra,100,43
+1286,"Acasa, My Home",100,83
+1287,Accattone,100,88
+1288,Act & Punishment,100,
+1289,Adjust Your Tracking: The Untold Story of the VHS Collector,100,85
+1290,Adoption,100,88
+1291,Adrienne,100,
+1292,Advocate,100,71
+1293,Aelita: Queen of Mars,100,58
+1294,Afghan Cycles,100,83
+1295,Afghan Star,100,77
+1296,Africa: The Serengeti,100,70
+1297,After Auschwitz,100,83
+1298,After Parkland,100,61
+1299,After Stonewall,100,76
+1300,After Truth: Disinformation and the Cost of Fake News,100,60
+1301,After the Thin Man,100,90
+1302,Aftershock,100,52
+1303,Against the Law,100,71
+1304,Age of Consent,100,50
+1305,Aida's Secrets,100,79
+1306,Aileen Wuornos: The Selling of a Serial Killer,100,66
+1307,Ainu Mosir,100,67
+1308,Ajeeb Daastaans,100,60
+1309,Ala Vaikunthapurramuloo,100,76
+1310,Alanis,100,59
+1311,Algren,100,
+1312,Ali Wong: Baby Cobra,100,74
+1313,Ali Wong: Hard Knock Wife,100,67
+1314,Ali: Fear Eats the Soul,100,91
+1315,Alice Is Still Dead,100,
+1316,Alice in the Cities,100,91
+1317,Alien Boy: The Life and Death of James Chasse,100,90
+1318,Alien Raiders,100,34
+1319,Alien Xmas,100,66
+1320,Aligarh,100,85
+1321,Alive and Kicking,100,93
+1322,All About Them,100,55
+1323,All Hands on Deck,100,68
+1324,All In: The Fight for Democracy,100,67
+1325,All Is Good,100,63
+1326,All Out,100,68
+1327,All Quiet on the Western Front,100,69
+1328,All This Mayhem,100,89
+1329,All Through the Night,100,70
+1330,All of Me,100,100
+1331,All the Wild Horses,100,83
+1332,All the World Is Sleeping,100,100
+1333,Alleluia! The Devil's Carnival,100,84
+1334,Alone With Her Dreams,100,80
+1335,AlphaGo,100,99
+1336,Amal,100,90
+1337,Ambulance,100,
+1338,American Harmony,100,97
+1339,American Heretics: The Politics of the Gospel,100,
+1340,American Interior,100,95
+1341,American Jihad,100,55
+1342,American Radical: The Trials of Norman Finkelstein,100,87
+1343,American Relapse,100,84
+1344,American Son,100,51
+1345,Among Wolves,100,92
+1346,América,100,
+1347,An Accidental Studio: The Story of HandMade Films,100,
+1348,An African Election,100,82
+1349,"Ana, mon amour",100,80
