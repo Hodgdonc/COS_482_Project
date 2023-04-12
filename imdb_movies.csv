@@ -1,51 +1,1051 @@
-,title,director,release_year,length,genre,imdb_rating,gross
-0,The Shawshank Redemption,Frank Darabont,(1994),142 min,Drama,9.3,
-1,The Dark Knight,Christopher Nolan,(2008),152 min,"Action, Crime, Drama",9.0,
-2,Inception,Christopher Nolan,(2010),148 min,"Action, Adventure, Sci-Fi",8.8,
-3,Fight Club,David Fincher,(1999),139 min,Drama,8.8,
-4,Forrest Gump,Robert Zemeckis,(1994),142 min,"Drama, Romance",8.8,
-5,Pulp Fiction,Quentin Tarantino,(1994),154 min,"Crime, Drama",8.9,
-6,The Matrix,Lana Wachowski,(1999),136 min,"Action, Sci-Fi",8.7,
-7,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,(2001),178 min,"Action, Adventure, Drama",8.8,
-8,The Godfather,Francis Ford Coppola,(1972),175 min,"Crime, Drama",9.2,
-9,Interstellar,Christopher Nolan,(2014),169 min,"Adventure, Drama, Sci-Fi",8.6,
-10,The Lord of the Rings: The Return of the King,Peter Jackson,(2003),201 min,"Action, Adventure, Drama",9.0,
-11,The Dark Knight Rises,Christopher Nolan,(2012),164 min,"Action, Drama, Thriller",8.4,
-12,The Lord of the Rings: The Two Towers,Peter Jackson,(2002),179 min,"Action, Adventure, Drama",8.8,
-13,Se7en,David Fincher,(1995),127 min,"Crime, Drama, Mystery",8.6,
-14,Django Unchained,Quentin Tarantino,(2012),165 min,"Drama, Western",8.4,
-15,Gladiator,Ridley Scott,(2000),155 min,"Action, Adventure, Drama",8.5,
-16,Batman Begins,Christopher Nolan,(2005),140 min,"Action, Crime, Drama",8.2,
-17,Inglourious Basterds,Quentin Tarantino,(2009),153 min,"Adventure, Drama, War",8.3,
-18,The Silence of the Lambs,Jonathan Demme,(1991),118 min,"Crime, Drama, Thriller",8.6,
-19,The Wolf of Wall Street,Martin Scorsese,(2013),180 min,"Biography, Comedy, Crime",8.2,
-20,Saving Private Ryan,Steven Spielberg,(1998),169 min,"Drama, War",8.6,
-21,The Avengers,Joss Whedon,(2012),143 min,"Action, Sci-Fi",8.0,
-22,Star Wars,George Lucas,(1977),121 min,"Action, Adventure, Fantasy",8.6,
-23,Schindler's List,Steven Spielberg,(1993),195 min,"Biography, Drama, History",9.0,
-24,The Prestige,Christopher Nolan,(2006),130 min,"Drama, Mystery, Sci-Fi",8.5,
-25,The Departed,Martin Scorsese,(2006),151 min,"Crime, Drama, Thriller",8.5,
-26,Shutter Island,Martin Scorsese,(2010),138 min,"Mystery, Thriller",8.2,
-27,Avatar,James Cameron,(2009),162 min,"Action, Adventure, Fantasy",7.9,
-28,Joker,Todd Phillips,(I) (2019),122 min,"Crime, Drama, Thriller",8.4,
-29,The Green Mile,Frank Darabont,(1999),189 min,"Crime, Drama, Fantasy",8.6,
-30,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,(1980),124 min,"Action, Adventure, Fantasy",8.7,
-31,The Godfather Part II,Francis Ford Coppola,(1974),202 min,"Crime, Drama",9.0,
-32,Memento,Christopher Nolan,(2000),113 min,"Mystery, Thriller",8.4,
-33,Back to the Future,Robert Zemeckis,(1985),116 min,"Adventure, Comedy, Sci-Fi",8.5,
-34,Titanic,James Cameron,(1997),194 min,"Drama, Romance",7.9,
-35,Guardians of the Galaxy,James Gunn,(2014),121 min,"Action, Adventure, Comedy",8.0,
-36,Goodfellas,Martin Scorsese,(1990),145 min,"Biography, Crime, Drama",8.7,
-37,Léon: The Professional,Luc Besson,(1994),110 min,"Action, Crime, Drama",8.5,
-38,American Beauty,Sam Mendes,(1999),122 min,Drama,8.4,
-39,Avengers: Endgame,Anthony Russo,(2019),181 min,"Action, Adventure, Drama",8.4,
-40,Pirates of the Caribbean: The Curse of the Black Pearl,Gore Verbinski,(2003),143 min,"Action, Adventure, Fantasy",8.1,
-41,American History X,Tony Kaye,(1998),119 min,"Crime, Drama",8.5,
-42,V for Vendetta,James McTeigue,(2005),132 min,"Action, Drama, Sci-Fi",8.2,
-43,WALL·E,Andrew Stanton,(2008),98 min,"Animation, Adventure, Family",8.4,
-44,Kill Bill: Vol. 1,Quentin Tarantino,(2003),111 min,"Action, Crime, Drama",8.2,
-45,Terminator 2: Judgment Day,James Cameron,(1991),137 min,"Action, Sci-Fi",8.6,
-46,Avengers: Infinity War,Anthony Russo,(2018),149 min,"Action, Adventure, Sci-Fi",8.4,
-47,The Truman Show,Peter Weir,(1998),103 min,"Comedy, Drama",8.2,
-48,The Usual Suspects,Bryan Singer,(1995),106 min,"Crime, Drama, Mystery",8.5,
-49,The Lion King,Roger Allers,(1994),88 min,"Animation, Adventure, Drama",8.5,
+,title,director,release_year,length,genre,imdb_score,rating,gross_US_CA
+0,The Shawshank Redemption,Frank Darabont,(1994),142 min,Drama,9.3,R,$28.34M
+1,The Dark Knight,Christopher Nolan,(2008),152 min,"Action, Crime, Drama",9.0,PG-13,$534.86M
+2,Inception,Christopher Nolan,(2010),148 min,"Action, Adventure, Sci-Fi",8.8,PG-13,$292.58M
+3,Fight Club,David Fincher,(1999),139 min,Drama,8.8,R,$37.03M
+4,Forrest Gump,Robert Zemeckis,(1994),142 min,"Drama, Romance",8.8,PG-13,$330.25M
+5,Pulp Fiction,Quentin Tarantino,(1994),154 min,"Crime, Drama",8.9,R,$107.93M
+6,The Matrix,Lana Wachowski,(1999),136 min,"Action, Sci-Fi",8.7,R,$171.48M
+7,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,(2001),178 min,"Action, Adventure, Drama",8.8,PG-13,$315.54M
+8,The Godfather,Francis Ford Coppola,(1972),175 min,"Crime, Drama",9.2,R,$134.97M
+9,Interstellar,Christopher Nolan,(2014),169 min,"Adventure, Drama, Sci-Fi",8.6,PG-13,$188.02M
+10,The Lord of the Rings: The Return of the King,Peter Jackson,(2003),201 min,"Action, Adventure, Drama",9.0,PG-13,$377.85M
+11,The Dark Knight Rises,Christopher Nolan,(2012),164 min,"Action, Drama, Thriller",8.4,PG-13,$448.14M
+12,The Lord of the Rings: The Two Towers,Peter Jackson,(2002),179 min,"Action, Adventure, Drama",8.8,PG-13,$342.55M
+13,Se7en,David Fincher,(1995),127 min,"Crime, Drama, Mystery",8.6,R,$100.13M
+14,Django Unchained,Quentin Tarantino,(2012),165 min,"Drama, Western",8.4,R,$162.81M
+15,Gladiator,Ridley Scott,(2000),155 min,"Action, Adventure, Drama",8.5,R,$187.71M
+16,Batman Begins,Christopher Nolan,(2005),140 min,"Action, Crime, Drama",8.2,PG-13,$206.85M
+17,Inglourious Basterds,Quentin Tarantino,(2009),153 min,"Adventure, Drama, War",8.3,R,$120.54M
+18,The Silence of the Lambs,Jonathan Demme,(1991),118 min,"Crime, Drama, Thriller",8.6,R,$130.74M
+19,The Wolf of Wall Street,Martin Scorsese,(2013),180 min,"Biography, Comedy, Crime",8.2,R,$116.90M
+20,Saving Private Ryan,Steven Spielberg,(1998),169 min,"Drama, War",8.6,R,$216.54M
+21,The Avengers,Joss Whedon,(2012),143 min,"Action, Sci-Fi",8.0,PG-13,$623.28M
+22,Star Wars,George Lucas,(1977),121 min,"Action, Adventure, Fantasy",8.6,PG,$322.74M
+23,Schindler's List,Steven Spielberg,(1993),195 min,"Biography, Drama, History",9.0,R,$96.90M
+24,The Prestige,Christopher Nolan,(2006),130 min,"Drama, Mystery, Sci-Fi",8.5,PG-13,$53.09M
+25,Shutter Island,Martin Scorsese,(2010),138 min,"Mystery, Thriller",8.2,R,$128.01M
+26,The Departed,Martin Scorsese,(2006),151 min,"Crime, Drama, Thriller",8.5,R,$132.38M
+27,Joker,Todd Phillips,(I) (2019),122 min,"Crime, Drama, Thriller",8.4,R,$335.45M
+28,Avatar,James Cameron,(2009),162 min,"Action, Adventure, Fantasy",7.9,PG-13,$760.51M
+29,The Green Mile,Frank Darabont,(1999),189 min,"Crime, Drama, Fantasy",8.6,R,$136.80M
+30,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,(1980),124 min,"Action, Adventure, Fantasy",8.7,PG,$290.48M
+31,The Godfather Part II,Francis Ford Coppola,(1974),202 min,"Crime, Drama",9.0,R,$57.30M
+32,Memento,Christopher Nolan,(2000),113 min,"Mystery, Thriller",8.4,R,$25.54M
+33,Back to the Future,Robert Zemeckis,(1985),116 min,"Adventure, Comedy, Sci-Fi",8.5,PG,$210.61M
+34,Titanic,James Cameron,(1997),194 min,"Drama, Romance",7.9,PG-13,$659.33M
+35,Guardians of the Galaxy,James Gunn,(2014),121 min,"Action, Adventure, Comedy",8.0,PG-13,$333.18M
+36,Goodfellas,Martin Scorsese,(1990),145 min,"Biography, Crime, Drama",8.7,R,$46.84M
+37,Léon: The Professional,Luc Besson,(1994),110 min,"Action, Crime, Drama",8.5,R,$19.50M
+38,American Beauty,Sam Mendes,(1999),122 min,Drama,8.4,R,$130.10M
+39,Avengers: Endgame,Anthony Russo,(2019),181 min,"Action, Adventure, Drama",8.4,PG-13,$858.37M
+40,Pirates of the Caribbean: The Curse of the Black Pearl,Gore Verbinski,(2003),143 min,"Action, Adventure, Fantasy",8.1,PG-13,$305.41M
+41,American History X,Tony Kaye,(1998),119 min,"Crime, Drama",8.5,R,$6.72M
+42,V for Vendetta,James McTeigue,(2005),132 min,"Action, Drama, Sci-Fi",8.2,R,$70.51M
+43,WALL·E,Andrew Stanton,(2008),98 min,"Animation, Adventure, Family",8.4,G,$223.81M
+44,Kill Bill: Vol. 1,Quentin Tarantino,(2003),111 min,"Action, Crime, Drama",8.2,R,$70.10M
+45,Terminator 2: Judgment Day,James Cameron,(1991),137 min,"Action, Sci-Fi",8.6,R,$204.84M
+46,Avengers: Infinity War,Anthony Russo,(2018),149 min,"Action, Adventure, Sci-Fi",8.4,PG-13,$678.82M
+47,The Truman Show,Peter Weir,(1998),103 min,"Comedy, Drama",8.2,PG,$125.62M
+48,The Usual Suspects,Bryan Singer,(1995),106 min,"Crime, Drama, Mystery",8.5,R,$23.34M
+49,The Lion King,Roger Allers,(1994),88 min,"Animation, Adventure, Drama",8.5,G,$422.78M
+50,Iron Man,Jon Favreau,(2008),126 min,"Action, Adventure, Sci-Fi",7.9,PG-13,$318.41M
+51,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,(1983),131 min,"Action, Adventure, Fantasy",8.3,PG,$309.13M
+52,Up,Pete Docter,(2009),96 min,"Animation, Adventure, Comedy",8.3,PG,$293.00M
+53,Finding Nemo,Andrew Stanton,(2003),100 min,"Animation, Adventure, Comedy",8.2,G,$380.84M
+54,Deadpool,Tim Miller,(2016),108 min,"Action, Comedy",8.0,R,$363.07M
+55,Braveheart,Mel Gibson,(1995),178 min,"Biography, Drama, History",8.4,R,$75.60M
+56,The Shining,Stanley Kubrick,(1980),146 min,"Drama, Horror",8.4,R,$44.02M
+57,Reservoir Dogs,Quentin Tarantino,(1992),99 min,"Crime, Thriller",8.3,R,$2.83M
+58,Eternal Sunshine of the Spotless Mind,Michel Gondry,(2004),108 min,"Drama, Romance, Sci-Fi",8.3,R,$34.40M
+59,One Flew Over the Cuckoo's Nest,Milos Forman,(1975),133 min,Drama,8.7,R,$112.00M
+60,Mad Max: Fury Road,George Miller,(2015),120 min,"Action, Adventure, Sci-Fi",8.1,R,$154.06M
+61,Catch Me If You Can,Steven Spielberg,(2002),141 min,"Biography, Crime, Drama",8.1,PG-13,$164.62M
+62,Toy Story,John Lasseter,(1995),81 min,"Animation, Adventure, Comedy",8.3,G,$191.80M
+63,Jurassic Park,Steven Spielberg,(1993),127 min,"Action, Adventure, Sci-Fi",8.2,PG-13,$402.45M
+64,The Sixth Sense,M. Night Shyamalan,(1999),107 min,"Drama, Mystery, Thriller",8.2,PG-13,$293.51M
+65,Gone Girl,David Fincher,(2014),149 min,"Drama, Mystery, Thriller",8.1,R,$167.77M
+66,Good Will Hunting,Gus Van Sant,(1997),126 min,"Drama, Romance",8.3,R,$138.43M
+67,No Country for Old Men,Ethan Coen,(2007),122 min,"Crime, Drama, Thriller",8.2,R,$74.28M
+68,Raiders of the Lost Ark,Steven Spielberg,(1981),115 min,"Action, Adventure",8.4,PG,$248.16M
+69,A Beautiful Mind,Ron Howard,(2001),135 min,"Biography, Drama",8.2,PG-13,$170.74M
+70,Star Wars: Episode VII - The Force Awakens,J.J. Abrams,(2015),138 min,"Action, Adventure, Sci-Fi",7.8,PG-13,$936.66M
+71,The Hunger Games,Gary Ross,(2012),142 min,"Action, Adventure, Sci-Fi",7.2,PG-13,$408.01M
+72,"Monsters, Inc.",Pete Docter,(2001),92 min,"Animation, Adventure, Comedy",8.1,G,$289.92M
+73,Alien,Ridley Scott,(1979),117 min,"Horror, Sci-Fi",8.5,R,$78.90M
+74,Die Hard,John McTiernan,(1988),132 min,"Action, Thriller",8.2,R,$83.01M
+75,Harry Potter and the Deathly Hallows: Part 2,David Yates,(2011),130 min,"Adventure, Family, Fantasy",8.1,PG-13,$381.01M
+76,Whiplash,Damien Chazelle,(2014),106 min,"Drama, Music",8.5,R,$13.09M
+77,The Terminator,James Cameron,(1984),107 min,"Action, Sci-Fi",8.1,R,$38.40M
+78,Avengers: Age of Ultron,Joss Whedon,(2015),141 min,"Action, Adventure, Sci-Fi",7.3,PG-13,$459.01M
+79,The Intouchables,Olivier Nakache,(2011),112 min,"Biography, Comedy, Drama",8.5,R,$13.18M
+80,The Martian,Ridley Scott,(2015),144 min,"Adventure, Drama, Sci-Fi",8.0,PG-13,$228.43M
+81,Snatch,Guy Ritchie,(2000),102 min,"Comedy, Crime",8.2,R,$30.33M
+82,Iron Man Three,Shane Black,(2013),130 min,"Action, Adventure, Sci-Fi",7.1,PG-13,$409.01M
+83,Thor,Kenneth Branagh,(2011),115 min,"Action, Fantasy",7.0,PG-13,$181.03M
+84,Captain America: The Winter Soldier,Anthony Russo,(2014),136 min,"Action, Adventure, Sci-Fi",7.8,PG-13,$259.77M
+85,Captain America: The First Avenger,Joe Johnston,(2011),124 min,"Action, Adventure, Sci-Fi",6.9,PG-13,$176.65M
+86,Scarface,Brian De Palma,(1983),170 min,"Crime, Drama",8.3,R,$45.60M
+87,Requiem for a Dream,Darren Aronofsky,(2000),102 min,Drama,8.3,R,$3.64M
+88,Slumdog Millionaire,Danny Boyle,(2008),120 min,"Crime, Drama, Romance",8.0,R,$141.32M
+89,Taxi Driver,Martin Scorsese,(1976),114 min,"Crime, Drama",8.2,R,$28.26M
+90,Toy Story 3,Lee Unkrich,(2010),103 min,"Animation, Adventure, Comedy",8.3,G,$415.00M
+91,The Pianist,Roman Polanski,(2002),150 min,"Biography, Drama, Music",8.5,R,$32.57M
+92,A Clockwork Orange,Stanley Kubrick,(1971),136 min,"Crime, Sci-Fi",8.3,R,$6.21M
+93,Parasite,Bong Joon Ho,(2019),132 min,"Drama, Thriller",8.5,R,$53.37M
+94,The Hobbit: An Unexpected Journey,Peter Jackson,(2012),169 min,"Adventure, Fantasy",7.8,PG-13,$303.00M
+95,Gravity,Alfonso Cuarón,(2013),91 min,"Drama, Sci-Fi, Thriller",7.7,PG-13,$274.09M
+96,300,Zack Snyder,(2006),117 min,"Action, Drama",7.6,R,$210.61M
+97,Spider-Man,Sam Raimi,(2002),121 min,"Action, Adventure, Sci-Fi",7.4,PG-13,$403.71M
+98,Iron Man 2,Jon Favreau,(2010),124 min,"Action, Sci-Fi",6.9,PG-13,$312.43M
+99,The Grand Budapest Hotel,Wes Anderson,(2014),99 min,"Adventure, Comedy, Crime",8.1,R,$59.10M
+100,The Revenant,Alejandro G. Iñárritu,(2015),156 min,"Action, Adventure, Drama",8.0,R,$183.64M
+101,The Big Lebowski,Joel Coen,(1998),117 min,"Comedy, Crime",8.1,R,$17.50M
+102,Star Wars: Episode I - The Phantom Menace,George Lucas,(1999),136 min,"Action, Adventure, Fantasy",6.5,PG,$474.54M
+103,Donnie Darko,Richard Kelly,(2001),113 min,"Drama, Mystery, Sci-Fi",8.0,R,$1.48M
+104,12 Angry Men,Sidney Lumet,(1957),96 min,"Crime, Drama",9.0,Approved,$4.36M
+105,Star Wars: Episode III - Revenge of the Sith,George Lucas,(2005),140 min,"Action, Adventure, Fantasy",7.6,PG-13,$380.26M
+106,Captain America: Civil War,Anthony Russo,(2016),147 min,"Action, Sci-Fi",7.8,PG-13,$408.08M
+107,Harry Potter and the Sorcerer's Stone,Chris Columbus,(2001),152 min,"Adventure, Family, Fantasy",7.6,PG,$317.58M
+108,The Hangover,Todd Phillips,(2009),100 min,Comedy,7.7,R,$277.32M
+109,Black Panther,Ryan Coogler,(2018),134 min,"Action, Adventure, Sci-Fi",7.3,PG-13,$700.06M
+110,Gran Torino,Clint Eastwood,(2008),116 min,Drama,8.1,R,$148.10M
+111,Spider-Man: No Way Home,Jon Watts,(2021),148 min,"Action, Adventure, Fantasy",8.2,PG-13,$804.75M
+112,The Imitation Game,Morten Tyldum,(2014),114 min,"Biography, Drama, Thriller",8.0,PG-13,$91.13M
+113,Black Swan,Darren Aronofsky,(2010),108 min,"Drama, Thriller",8.0,R,$106.95M
+114,Blade Runner,Ridley Scott,(1982),117 min,"Action, Drama, Sci-Fi",8.1,R,$32.87M
+115,Man of Steel,Zack Snyder,(2013),143 min,"Action, Adventure, Sci-Fi",7.1,PG-13,$291.05M
+116,Spirited Away,Hayao Miyazaki,(2001),125 min,"Animation, Adventure, Family",8.6,PG,$10.06M
+117,Logan,James Mangold,(2017),137 min,"Action, Drama, Sci-Fi",8.1,R,$226.28M
+118,Sin City,Frank Miller,(2005),124 min,"Crime, Thriller",8.0,R,$74.10M
+119,I Am Legend,Francis Lawrence,(2007),101 min,"Action, Drama, Horror",7.2,PG-13,$256.39M
+120,"The Good, the Bad and the Ugly",Sergio Leone,(1966),178 min,"Adventure, Western",8.8,Approved,$6.10M
+121,Kill Bill: Vol. 2,Quentin Tarantino,(2004),137 min,"Action, Crime, Thriller",8.0,R,$66.21M
+122,Once Upon a Time in Hollywood,Quentin Tarantino,(2019),161 min,"Comedy, Drama",7.6,R,$142.50M
+123,Thor: Ragnarok,Taika Waititi,(2017),130 min,"Action, Adventure, Comedy",7.9,PG-13,$315.06M
+124,City of God,Fernando Meirelles,(2002),130 min,"Crime, Drama",8.6,R,$7.56M
+125,Indiana Jones and the Last Crusade,Steven Spielberg,(1989),127 min,"Action, Adventure",8.2,PG-13,$197.17M
+126,Amélie,Jean-Pierre Jeunet,(2001),122 min,"Comedy, Romance",8.3,R,$33.23M
+127,Doctor Strange,Scott Derrickson,(2016),115 min,"Action, Adventure, Fantasy",7.5,PG-13,$232.64M
+128,Ratatouille,Brad Bird,(2007),111 min,"Animation, Adventure, Comedy",8.1,G,$206.45M
+129,How to Train Your Dragon,Dean DeBlois,(2010),98 min,"Animation, Action, Adventure",8.1,PG,$217.58M
+130,The Incredibles,Brad Bird,(2004),115 min,"Animation, Action, Adventure",8.0,PG,$261.44M
+131,Full Metal Jacket,Stanley Kubrick,(1987),116 min,"Drama, War",8.3,R,$46.36M
+132,Prisoners,Denis Villeneuve,(2013),153 min,"Crime, Drama, Mystery",8.1,R,$61.00M
+133,Pirates of the Caribbean: Dead Man's Chest,Gore Verbinski,(2006),151 min,"Action, Adventure, Fantasy",7.3,PG-13,$423.32M
+134,Inside Out,Pete Docter,(I) (2015),95 min,"Animation, Adventure, Comedy",8.1,PG,$356.46M
+135,Aliens,James Cameron,(1986),137 min,"Action, Adventure, Sci-Fi",8.4,R,$85.16M
+136,Star Wars: Episode II - Attack of the Clones,George Lucas,(2002),142 min,"Action, Adventure, Fantasy",6.6,PG,$310.68M
+137,X-Men: Days of Future Past,Bryan Singer,(2014),132 min,"Action, Adventure, Sci-Fi",7.9,PG-13,$233.92M
+138,Knives Out,Rian Johnson,(2019),130 min,"Comedy, Crime, Drama",7.9,PG-13,$165.36M
+139,Silver Linings Playbook,David O. Russell,(2012),122 min,"Comedy, Drama, Romance",7.7,R,$132.09M
+140,The Social Network,David Fincher,(2010),120 min,"Biography, Drama",7.8,PG-13,$96.96M
+141,Arrival,Denis Villeneuve,(II) (2016),116 min,"Drama, Mystery, Sci-Fi",7.9,PG-13,$100.55M
+142,12 Years a Slave,Steve McQueen,(2013),134 min,"Biography, Drama, History",8.1,R,$56.67M
+143,Batman v Superman: Dawn of Justice,Zack Snyder,(2016),151 min,"Action, Adventure, Sci-Fi",6.4,PG-13,$330.36M
+144,Skyfall,Sam Mendes,(2012),143 min,"Action, Adventure, Thriller",7.8,PG-13,$304.36M
+145,Life Is Beautiful,Roberto Benigni,(1997),116 min,"Comedy, Drama, Romance",8.6,PG-13,$57.60M
+146,X: First Class,Matthew Vaughn,(2011),131 min,"Action, Sci-Fi",7.7,PG-13,$146.41M
+147,Guardians of the Galaxy Vol. 2,James Gunn,(2017),136 min,"Action, Adventure, Comedy",7.6,PG-13,$389.81M
+148,Trainspotting,Danny Boyle,(1996),93 min,Drama,8.1,R,$16.50M
+149,Million Dollar Baby,Clint Eastwood,(2004),132 min,"Drama, Sport",8.1,PG-13,$100.49M
+150,Suicide Squad,David Ayer,(2016),123 min,"Action, Adventure, Fantasy",5.9,PG-13,$325.10M
+151,Thor: The Dark World,Alan Taylor,(2013),112 min,"Action, Adventure, Fantasy",6.8,PG-13,$206.36M
+152,Edge of Tomorrow,Doug Liman,(2014),113 min,"Action, Adventure, Sci-Fi",7.9,PG-13,$100.21M
+153,Shrek,Andrew Adamson,(2001),90 min,"Animation, Adventure, Comedy",7.9,PG,$267.67M
+154,District 9,Neill Blomkamp,(2009),112 min,"Action, Sci-Fi, Thriller",7.9,R,$115.65M
+155,The Batman,Matt Reeves,(2022),176 min,"Action, Crime, Drama",7.8,PG-13,$369.35M
+156,The King's Speech,Tom Hooper,(2010),118 min,"Biography, Drama, History",8.0,R,$138.80M
+157,Fargo,Joel Coen,(1996),98 min,"Crime, Thriller",8.1,R,$24.61M
+158,Ant-Man,Peyton Reed,(2015),117 min,"Action, Comedy, Sci-Fi",7.3,PG-13,$180.20M
+159,World War Z,Marc Forster,(2013),116 min,"Action, Adventure, Horror",7.0,PG-13,$202.36M
+160,Psycho,Alfred Hitchcock,(1960),109 min,"Horror, Mystery, Thriller",8.5,R,$32.00M
+161,Kingsman: The Secret Service,Matthew Vaughn,(2014),129 min,"Action, Adventure, Comedy",7.7,R,$128.26M
+162,2001: A Space Odyssey,Stanley Kubrick,(1968),149 min,"Adventure, Sci-Fi",8.3,G,$56.95M
+163,The Hunger Games: Catching Fire,Francis Lawrence,(2013),146 min,"Action, Adventure, Sci-Fi",7.5,PG-13,$424.67M
+164,Apocalypse Now,Francis Ford Coppola,(1979),147 min,"Drama, Mystery, War",8.5,R,$83.47M
+165,Pan's Labyrinth,Guillermo del Toro,(2006),118 min,"Drama, Fantasy, War",8.2,R,$37.63M
+166,Dunkirk,Christopher Nolan,(2017),106 min,"Action, Drama, History",7.8,PG-13,$188.37M
+167,The Hobbit: The Desolation of Smaug,Peter Jackson,(2013),161 min,Fantasy,7.8,PG-13,$258.37M
+168,John Wick,Chad Stahelski,(2014),101 min,"Action, Crime, Thriller",7.4,R,$43.04M
+169,Now You See Me,Louis Leterrier,(I) (2013),115 min,"Crime, Mystery, Thriller",7.2,PG-13,$117.72M
+170,Spider-Man: Homecoming,Jon Watts,(2017),133 min,"Action, Adventure, Sci-Fi",7.4,PG-13,$334.20M
+171,Wonder Woman,Patty Jenkins,(2017),141 min,"Action, Adventure, Fantasy",7.4,PG-13,$412.56M
+172,Heat,Michael Mann,(1995),170 min,"Action, Crime, Drama",8.3,R,$67.44M
+173,The Amazing Spider-Man,Marc Webb,(2012),136 min,"Action, Adventure, Sci-Fi",6.9,PG-13,$262.03M
+174,Casino Royale,Martin Campbell,(2006),144 min,"Action, Adventure, Thriller",8.0,PG-13,$167.45M
+175,Spider-Man 2,Sam Raimi,(2004),127 min,"Action, Adventure, Sci-Fi",7.4,PG-13,$373.59M
+176,The Curious Case of Benjamin Button,David Fincher,(2008),166 min,"Drama, Fantasy, Romance",7.8,PG-13,$127.51M
+177,Pirates of the Caribbean: At World's End,Gore Verbinski,(2007),169 min,"Action, Adventure, Fantasy",7.1,PG-13,$309.42M
+178,Dune,Denis Villeneuve,(2021),155 min,"Action, Adventure, Drama",8.0,PG-13,$108.33M
+179,Drive,Nicolas Winding Refn,(I) (2011),100 min,"Action, Drama",7.8,R,$35.06M
+180,Jurassic World,Colin Trevorrow,(2015),124 min,"Action, Adventure, Sci-Fi",6.9,PG-13,$652.27M
+181,Rogue One: A Star Wars Story,Gareth Edwards,(2016),133 min,"Action, Adventure, Sci-Fi",7.8,PG-13,$532.18M
+182,Harry Potter and the Chamber of Secrets,Chris Columbus,(2002),161 min,"Adventure, Family, Fantasy",7.4,PG,$261.99M
+183,Harry Potter and the Prisoner of Azkaban,Alfonso Cuarón,(2004),142 min,"Adventure, Family, Fantasy",7.9,PG,$249.36M
+184,Transformers,Michael Bay,(2007),144 min,"Action, Adventure, Sci-Fi",7.0,PG-13,$319.25M
+185,American Psycho,Mary Harron,(2000),102 min,"Crime, Drama, Horror",7.6,R,$15.07M
+186,Groundhog Day,Harold Ramis,(1993),101 min,"Comedy, Drama, Fantasy",8.0,PG,$70.91M
+187,Sherlock Holmes,Guy Ritchie,(2009),128 min,"Action, Adventure, Mystery",7.6,PG-13,$209.03M
+188,Star Wars: Episode VIII - The Last Jedi,Rian Johnson,(2017),152 min,"Action, Adventure, Fantasy",6.9,PG-13,$620.18M
+189,Harry Potter and the Goblet of Fire,Mike Newell,(2005),157 min,"Adventure, Family, Fantasy",7.7,PG-13,$290.01M
+190,Birdman or (The Unexpected Virtue of Ignorance),Alejandro G. Iñárritu,(2014),119 min,"Comedy, Drama",7.7,R,$42.34M
+191,Life of Pi,Ang Lee,(2012),127 min,"Adventure, Drama, Fantasy",7.9,PG,$124.99M
+192,The Bourne Ultimatum,Paul Greengrass,(2007),115 min,"Action, Mystery, Thriller",8.0,PG-13,$227.47M
+193,Frozen,Chris Buck,(I) (2013),102 min,"Animation, Adventure, Comedy",7.4,PG,$400.74M
+194,Get Out,Jordan Peele,(I) (2017),104 min,"Horror, Mystery, Thriller",7.7,R,$176.04M
+195,Into the Wild,Sean Penn,(2007),148 min,"Adventure, Biography, Drama",8.1,R,$18.35M
+196,Her,Spike Jonze,(2013),126 min,"Drama, Romance, Sci-Fi",8.0,R,$25.57M
+197,12 Monkeys,Terry Gilliam,(1995),129 min,"Mystery, Sci-Fi, Thriller",8.0,R,$57.14M
+198,Ted,Seth MacFarlane,(2012),106 min,Comedy,6.9,R,$218.82M
+199,X-Men,Bryan Singer,(2000),104 min,"Action, Adventure, Sci-Fi",7.3,PG-13,$157.30M
+200,Argo,Ben Affleck,(2012),120 min,"Biography, Drama, Thriller",7.7,R,$136.03M
+201,Jaws,Steven Spielberg,(1975),124 min,"Adventure, Thriller",8.1,PG,$260.00M
+202,Prometheus,Ridley Scott,(I) (2012),124 min,"Adventure, Mystery, Sci-Fi",7.0,R,$126.48M
+203,The Hateful Eight,Quentin Tarantino,(2015),168 min,"Crime, Drama, Mystery",7.8,R,$54.12M
+204,1917,Sam Mendes,(2019),119 min,"Action, Drama, War",8.2,R,$159.23M
+205,Taken,Pierre Morel,(I) (2008),90 min,"Action, Crime, Thriller",7.8,PG-13,$145.00M
+206,La La Land,Damien Chazelle,(2016),128 min,"Comedy, Drama, Music",8.0,PG-13,$151.10M
+207,Star Trek,J.J. Abrams,(2009),127 min,"Action, Adventure, Sci-Fi",7.9,PG-13,$257.73M
+208,Cast Away,Robert Zemeckis,(2000),143 min,"Adventure, Drama, Romance",7.8,PG-13,$233.63M
+209,The Matrix Reloaded,Lana Wachowski,(2003),138 min,"Action, Sci-Fi",7.2,R,$281.49M
+210,Spider-Man 3,Sam Raimi,(2007),139 min,"Action, Adventure, Sci-Fi",6.3,PG-13,$336.53M
+211,Home Alone,Chris Columbus,(1990),103 min,"Comedy, Family",7.7,PG,$285.76M
+212,Deadpool 2,David Leitch,(2018),119 min,"Action, Adventure, Comedy",7.6,R,$324.59M
+213,There Will Be Blood,Paul Thomas Anderson,(2007),158 min,Drama,8.2,R,$40.22M
+214,Harry Potter and the Order of the Phoenix,David Yates,(2007),138 min,"Action, Adventure, Family",7.5,PG-13,$292.00M
+215,Blade Runner 2049,Denis Villeneuve,(2017),164 min,"Action, Drama, Mystery",8.0,R,$92.05M
+216,Superbad,Greg Mottola,(2007),113 min,Comedy,7.6,R,$121.46M
+217,Rocky,John G. Avildsen,(1976),120 min,"Drama, Sport",8.1,PG,$117.24M
+218,"Lock, Stock and Two Smoking Barrels",Guy Ritchie,(1998),107 min,"Action, Comedy, Crime",8.1,R,$3.90M
+219,Toy Story 2,John Lasseter,(1999),92 min,"Animation, Adventure, Comedy",7.9,G,$245.85M
+220,Oldboy,Park Chan-wook,(2003),120 min,"Action, Drama, Mystery",8.4,R,$0.71M
+221,Zombieland,Ruben Fleischer,(2009),88 min,"Action, Comedy, Horror",7.6,R,$75.59M
+222,L.A. Confidential,Curtis Hanson,(1997),138 min,"Crime, Drama, Mystery",8.2,R,$64.62M
+223,Ocean's Eleven,Steven Soderbergh,(2001),116 min,"Crime, Thriller",7.7,PG-13,$183.42M
+224,Limitless,Neil Burger,(I) (2011),105 min,"Sci-Fi, Thriller",7.4,PG-13,$79.25M
+225,Looper,Rian Johnson,(2012),119 min,"Action, Drama, Sci-Fi",7.4,R,$66.49M
+226,The Notebook,Nick Cassavetes,(2004),123 min,"Drama, Romance",7.8,PG-13,$81.00M
+227,Independence Day,Roland Emmerich,(1996),145 min,"Action, Adventure, Sci-Fi",7.0,PG-13,$306.17M
+228,Men in Black,Barry Sonnenfeld,(1997),98 min,"Action, Adventure, Comedy",7.3,PG-13,$250.69M
+229,Casablanca,Michael Curtiz,(1942),102 min,"Drama, Romance, War",8.5,PG,$1.02M
+230,Captain Marvel,Anna Boden,(2019),123 min,"Action, Adventure, Sci-Fi",6.8,PG-13,$426.83M
+231,Kick-Ass,Matthew Vaughn,(2010),117 min,"Action, Comedy, Crime",7.6,R,$48.07M
+232,21 Jump Street,Phil Lord,(2012),109 min,"Action, Comedy, Crime",7.2,R,$138.45M
+233,Shaun of the Dead,Edgar Wright,(2004),99 min,"Comedy, Horror",7.9,R,$13.54M
+234,Top Gun: Maverick,Joseph Kosinski,(2022),130 min,"Action, Drama",8.3,PG-13,$718.73M
+235,Nightcrawler,Dan Gilroy,(2014),117 min,"Crime, Drama, Thriller",7.8,R,$32.38M
+236,It,Andy Muschietti,(I) (2017),135 min,Horror,7.3,R,$327.48M
+237,Harry Potter and the Deathly Hallows: Part 1,David Yates,(2010),146 min,"Adventure, Family, Fantasy",7.7,PG-13,$295.98M
+238,The Kashmir Files,Vivek Agnihotri,(2022),170 min,Drama,8.7,,"563,825"
+239,Minority Report,Steven Spielberg,(2002),145 min,"Action, Crime, Mystery",7.6,PG-13,$132.07M
+240,The Great Gatsby,Baz Luhrmann,(2013),143 min,"Drama, Romance",7.2,PG-13,$144.84M
+241,Blood Diamond,Edward Zwick,(2006),143 min,"Adventure, Drama, Thriller",8.0,R,$57.37M
+242,Watchmen,Zack Snyder,(2009),162 min,"Action, Drama, Mystery",7.6,R,$107.51M
+243,Baby Driver,Edgar Wright,(2017),113 min,"Action, Crime, Drama",7.6,R,$107.83M
+244,Harry Potter and the Half-Blood Prince,David Yates,(2009),153 min,"Action, Adventure, Family",7.6,PG,$301.96M
+245,X2: X-Men United,Bryan Singer,(2003),134 min,"Action, Sci-Fi, Thriller",7.4,PG-13,$214.95M
+246,Despicable Me,Pierre Coffin,(2010),95 min,"Animation, Adventure, Comedy",7.6,PG,$251.51M
+247,Ex Machina,Alex Garland,(2014),108 min,"Drama, Sci-Fi, Thriller",7.7,R,$25.44M
+248,Zodiac,David Fincher,(2007),157 min,"Crime, Drama, Mystery",7.7,R,$33.08M
+249,The Bourne Identity,Doug Liman,(2002),119 min,"Action, Mystery, Thriller",7.9,PG-13,$121.66M
+250,Spider-Man: Into the Spider-Verse,Bob Persichetti,(2018),117 min,"Animation, Action, Adventure",8.4,PG,$190.24M
+251,Don't Look Up,Adam McKay,(2021),138 min,"Comedy, Drama, Sci-Fi",7.2,R,"552,702"
+252,Bohemian Rhapsody,Bryan Singer,(2018),134 min,"Biography, Drama, Music",7.9,PG-13,$216.43M
+253,"I, Robot",Alex Proyas,(2004),115 min,"Action, Mystery, Sci-Fi",7.1,PG-13,$144.80M
+254,Monty Python and the Holy Grail,Terry Gilliam,(1975),91 min,"Adventure, Comedy, Fantasy",8.2,PG,$1.23M
+255,Troy,Wolfgang Petersen,(2004),163 min,Drama,7.3,R,$133.38M
+256,A Quiet Place,John Krasinski,(2018),90 min,"Drama, Horror, Sci-Fi",7.5,PG-13,$188.02M
+257,Back to the Future Part II,Robert Zemeckis,(1989),108 min,"Adventure, Comedy, Sci-Fi",7.8,PG,$118.50M
+258,The Hobbit: The Battle of the Five Armies,Peter Jackson,(2014),144 min,"Adventure, Fantasy",7.4,PG-13,$255.12M
+259,Hacksaw Ridge,Mel Gibson,(2016),139 min,"Biography, Drama, History",8.1,R,$67.21M
+260,Pirates of the Caribbean: On Stranger Tides,Rob Marshall,(2011),136 min,"Action, Adventure, Fantasy",6.6,PG-13,$241.06M
+261,Rise of the Planet of the Apes,Rupert Wyatt,(2011),105 min,"Action, Drama, Sci-Fi",7.6,PG-13,$176.76M
+262,Oblivion,Joseph Kosinski,(I) (2013),124 min,"Action, Adventure, Sci-Fi",7.0,PG-13,$89.02M
+263,Casino,Martin Scorsese,(1995),178 min,"Crime, Drama",8.2,R,$42.44M
+264,"Crazy, Stupid, Love.",Glenn Ficarra,(2011),118 min,"Comedy, Drama, Romance",7.4,PG-13,$84.35M
+265,Juno,Jason Reitman,(2007),96 min,"Comedy, Drama",7.5,PG-13,$143.50M
+266,Source Code,Duncan Jones,(2011),93 min,"Action, Drama, Mystery",7.5,PG-13,$54.71M
+267,500 Days of Summer,Marc Webb,(2009),95 min,"Comedy, Drama, Romance",7.7,PG-13,$32.39M
+268,Coco,Lee Unkrich,(I) (2017),105 min,"Animation, Adventure, Comedy",8.4,PG,$209.73M
+269,The Pursuit of Happyness,Gabriele Muccino,(2006),117 min,"Biography, Drama",8.0,PG-13,$163.57M
+270,X-Men: The Last Stand,Brett Ratner,(2006),104 min,"Action, Adventure, Sci-Fi",6.6,PG-13,$234.36M
+271,Tenet,Christopher Nolan,(2020),150 min,"Action, Sci-Fi, Thriller",7.3,PG-13,$58.46M
+272,Rain Man,Barry Levinson,(1988),133 min,Drama,8.0,R,$178.80M
+273,The Perks of Being a Wallflower,Stephen Chbosky,(2012),103 min,Drama,7.9,PG-13,$17.74M
+274,The Matrix Revolutions,Lana Wachowski,(2003),129 min,"Action, Sci-Fi",6.7,R,$139.31M
+275,"Three Billboards Outside Ebbing, Missouri",Martin McDonagh,(2017),115 min,"Comedy, Crime, Drama",8.1,R,$54.51M
+276,The Conjuring,James Wan,(2013),112 min,"Horror, Mystery, Thriller",7.5,R,$137.40M
+277,Hot Fuzz,Edgar Wright,(2007),121 min,"Action, Comedy, Mystery",7.8,R,$23.64M
+278,Split,M. Night Shyamalan,(IX) (2016),117 min,"Horror, Thriller",7.3,PG-13,$138.29M
+279,X-Men Origins: Wolverine,Gavin Hood,(2009),107 min,"Action, Sci-Fi",6.5,PG-13,$179.88M
+280,Green Book,Peter Farrelly,(2018),130 min,"Biography, Comedy, Drama",8.2,PG-13,$85.08M
+281,Zootopia,Byron Howard,(2016),108 min,"Animation, Adventure, Comedy",8.0,PG,$341.27M
+282,The Hangover Part II,Todd Phillips,(2011),102 min,Comedy,6.5,R,$254.46M
+283,Pacific Rim,Guillermo del Toro,(2013),131 min,"Action, Adventure, Sci-Fi",6.9,PG-13,$101.80M
+284,Spider-Man: Far from Home,Jon Watts,(2019),129 min,"Action, Adventure, Comedy",7.4,PG-13,$390.53M
+285,The Amazing Spider-Man 2,Marc Webb,(2014),142 min,"Action, Adventure, Sci-Fi",6.6,PG-13,$202.85M
+286,Children of Men,Alfonso Cuarón,(2006),109 min,"Action, Drama, Sci-Fi",7.9,R,$35.55M
+287,Mr. & Mrs. Smith,Doug Liman,(2005),120 min,"Action, Comedy, Crime",6.5,PG-13,$186.34M
+288,Lucy,Luc Besson,(I) (2014),89 min,"Action, Sci-Fi, Thriller",6.4,R,$126.66M
+289,Fury,David Ayer,(2014),134 min,"Action, Drama, War",7.5,R,$85.82M
+290,Dead Poets Society,Peter Weir,(1989),128 min,"Comedy, Drama",8.1,PG,$95.86M
+291,The Incredible Hulk,Louis Leterrier,(2008),112 min,"Action, Adventure, Sci-Fi",6.6,PG-13,$134.52M
+292,Love Actually,Richard Curtis,(2003),135 min,"Comedy, Drama, Romance",7.6,R,$59.70M
+293,Indiana Jones and the Temple of Doom,Steven Spielberg,(1984),118 min,"Action, Adventure",7.5,PG,$179.87M
+294,Edward Scissorhands,Tim Burton,(1990),105 min,"Drama, Fantasy, Romance",7.9,PG-13,$56.36M
+295,Venom,Ruben Fleischer,(2018),112 min,"Action, Adventure, Sci-Fi",6.6,PG-13,$213.52M
+296,Rear Window,Alfred Hitchcock,(1954),112 min,"Mystery, Thriller",8.5,PG,$36.76M
+297,American Sniper,Clint Eastwood,(2014),133 min,"Action, Biography, Drama",7.3,R,$350.13M
+298,Mission: Impossible - Ghost Protocol,Brad Bird,(2011),132 min,"Action, Adventure, Thriller",7.4,PG-13,$209.40M
+299,The Butterfly Effect,Eric Bress,(2004),113 min,"Drama, Sci-Fi, Thriller",7.6,R,$57.94M
+300,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Stanley Kubrick,(1964),95 min,"Comedy, War",8.4,PG,$0.28M
+301,Dallas Buyers Club,Jean-Marc Vallée,(2013),117 min,"Biography, Drama",7.9,R,$27.30M
+302,Charlie and the Chocolate Factory,Tim Burton,(2005),115 min,"Adventure, Comedy, Family",6.7,PG,$206.46M
+303,Ice Age,Chris Wedge,(2002),81 min,"Animation, Adventure, Comedy",7.5,PG,$176.39M
+304,Hancock,Peter Berg,(2008),92 min,"Action, Comedy, Drama",6.4,PG-13,$227.95M
+305,Little Miss Sunshine,Jonathan Dayton,(2006),101 min,"Comedy, Drama",7.8,R,$59.89M
+306,Rush,Ron Howard,(I) (2013),123 min,"Action, Biography, Drama",8.1,R,$26.95M
+307,Star Trek Into Darkness,J.J. Abrams,(2013),132 min,"Action, Adventure, Sci-Fi",7.7,PG-13,$228.78M
+308,Aquaman,James Wan,(2018),143 min,"Action, Adventure, Fantasy",6.8,PG-13,$335.06M
+309,American Hustle,David O. Russell,(2013),138 min,"Crime, Drama",7.2,R,$150.12M
+310,Fantastic Beasts and Where to Find Them,David Yates,(2016),132 min,"Adventure, Family, Fantasy",7.2,PG-13,$234.04M
+311,Kung Fu Panda,Mark Osborne,(2008),92 min,"Animation, Action, Adventure",7.6,PG,$215.43M
+312,The Fifth Element,Luc Besson,(1997),126 min,"Action, Adventure, Sci-Fi",7.6,PG-13,$63.54M
+313,The Maze Runner,Wes Ball,(2014),113 min,"Action, Mystery, Sci-Fi",6.8,PG-13,$102.43M
+314,Warrior,Gavin O'Connor,(2011),140 min,"Action, Drama, Sport",8.2,PG-13,$13.66M
+315,Spotlight,Tom McCarthy,(I) (2015),129 min,"Biography, Crime, Drama",8.1,R,$45.06M
+316,Shrek 2,Andrew Adamson,(2004),93 min,"Animation, Adventure, Comedy",7.3,PG,$436.47M
+317,The Wolverine,James Mangold,(2013),126 min,"Action, Sci-Fi",6.7,PG-13,$132.56M
+318,Big Hero 6,Don Hall,(2014),102 min,"Animation, Action, Adventure",7.8,PG,$222.53M
+319,The Girl with the Dragon Tattoo,David Fincher,(2011),158 min,"Crime, Drama, Mystery",7.8,R,$102.52M
+320,The Bourne Supremacy,Paul Greengrass,(2004),108 min,"Action, Mystery, Thriller",7.7,PG-13,$176.24M
+321,Captain Phillips,Paul Greengrass,(2013),134 min,"Action, Biography, Crime",7.8,PG-13,$107.10M
+322,Top Gun,Tony Scott,(1986),109 min,"Action, Drama",6.9,PG,$179.80M
+323,The Terminal,Steven Spielberg,(2004),128 min,"Comedy, Drama, Romance",7.4,PG-13,$77.87M
+324,It's a Wonderful Life,Frank Capra,(1946),130 min,"Drama, Family, Fantasy",8.6,PG,"469,677"
+325,Twilight,Catherine Hardwicke,(I) (2008),122 min,"Drama, Fantasy, Romance",5.3,PG-13,$192.77M
+326,The Help,Tate Taylor,(2011),146 min,Drama,8.1,PG-13,$169.71M
+327,Divergent,Neil Burger,(2014),139 min,"Action, Adventure, Mystery",6.6,PG-13,$150.95M
+328,The Hunger Games: Mockingjay - Part 1,Francis Lawrence,(2014),123 min,"Action, Adventure, Sci-Fi",6.6,PG-13,$337.14M
+329,Tangled,Nathan Greno,(2010),100 min,"Animation, Adventure, Comedy",7.7,PG,$200.82M
+330,Mystic River,Clint Eastwood,(2003),138 min,"Crime, Drama, Mystery",7.9,R,$90.14M
+331,Lost in Translation,Sofia Coppola,(2003),102 min,"Comedy, Drama",7.7,R,$44.59M
+332,John Wick: Chapter 2,Chad Stahelski,(2017),122 min,"Action, Crime, Thriller",7.4,R,$92.03M
+333,Sherlock Holmes: A Game of Shadows,Guy Ritchie,(2011),129 min,"Action, Adventure, Mystery",7.4,PG-13,$186.85M
+334,Star Wars: The Rise Of Skywalker,J.J. Abrams,(2019),141 min,"Action, Adventure, Fantasy",6.5,PG-13,$515.20M
+335,Indiana Jones and the Kingdom of the Crystal Skull,Steven Spielberg,(2008),122 min,"Action, Adventure",6.2,PG-13,$317.10M
+336,Beauty and the Beast,Gary Trousdale,(1991),84 min,"Animation, Family, Fantasy",8.0,G,$218.97M
+337,The Theory of Everything,James Marsh,(2014),123 min,"Biography, Drama, Romance",7.7,PG-13,$35.89M
+338,Justice League,Zack Snyder,(2017),120 min,"Action, Adventure, Fantasy",6.1,PG-13,$229.02M
+339,We're the Millers,Rawson Marshall Thurber,(2013),110 min,"Comedy, Crime",7.0,R,$150.39M
+340,The Hurt Locker,Kathryn Bigelow,(2008),131 min,"Drama, Thriller, War",7.5,R,$17.02M
+341,The Day After Tomorrow,Roland Emmerich,(2004),124 min,"Action, Adventure, Sci-Fi",6.4,PG-13,$186.74M
+342,War of the Worlds,Steven Spielberg,(2005),116 min,"Action, Adventure, Sci-Fi",6.5,PG-13,$234.28M
+343,Back to the Future Part III,Robert Zemeckis,(1990),118 min,"Adventure, Comedy, Sci-Fi",7.4,PG,$87.73M
+344,Horrible Bosses,Seth Gordon,(2011),98 min,"Comedy, Crime",6.9,R,$117.54M
+345,Quantum of Solace,Marc Forster,(2008),106 min,"Action, Adventure, Mystery",6.6,PG-13,$168.37M
+346,Elysium,Neill Blomkamp,(I) (2013),109 min,"Action, Drama, Sci-Fi",6.6,R,$93.05M
+347,Gangs of New York,Martin Scorsese,(2002),167 min,"Crime, Drama",7.5,R,$77.81M
+348,The Last Samurai,Edward Zwick,(2003),154 min,"Action, Drama",7.8,R,$111.11M
+349,Dawn of the Planet of the Apes,Matt Reeves,(2014),130 min,"Action, Adventure, Drama",7.6,PG-13,$208.55M
+350,Ready Player One,Steven Spielberg,(2018),140 min,"Action, Adventure, Sci-Fi",7.4,PG-13,$137.69M
+351,Spectre,Sam Mendes,(I) (2015),148 min,"Action, Adventure, Thriller",6.8,PG-13,$200.07M
+352,Citizen Kane,Orson Welles,(1941),119 min,"Drama, Mystery",8.3,PG,$1.59M
+353,The 40-Year-Old Virgin,Judd Apatow,(2005),116 min,"Comedy, Romance",7.1,R,$109.45M
+354,Training Day,Antoine Fuqua,(2001),122 min,"Action, Crime, Drama",7.7,R,$76.63M
+355,Big Fish,Tim Burton,(2003),125 min,"Adventure, Drama, Fantasy",8.0,PG-13,$66.26M
+356,X-Men: Apocalypse,Bryan Singer,(2016),144 min,"Action, Adventure, Sci-Fi",6.9,PG-13,$155.44M
+357,The Big Short,Adam McKay,(2015),130 min,"Biography, Comedy, Drama",7.8,R,$70.26M
+358,Sicario,Denis Villeneuve,(2015),121 min,"Action, Crime, Drama",7.6,R,$46.89M
+359,In Bruges,Martin McDonagh,(2008),107 min,"Comedy, Crime, Drama",7.9,R,$7.76M
+360,The Da Vinci Code,Ron Howard,(2006),149 min,"Mystery, Thriller",6.6,PG-13,$217.54M
+361,The Mummy,Stephen Sommers,(1999),124 min,"Action, Adventure, Fantasy",7.1,PG-13,$155.25M
+362,Crash,Paul Haggis,(I) (2004),112 min,"Crime, Drama, Thriller",7.7,R,$54.58M
+363,Scott Pilgrim vs. the World,Edgar Wright,(2010),112 min,"Action, Comedy, Fantasy",7.5,PG-13,$31.49M
+364,Mission: Impossible,Brian De Palma,(1996),110 min,"Action, Adventure, Thriller",7.1,PG-13,$180.98M
+365,Moneyball,Bennett Miller,(2011),133 min,"Biography, Drama, Sport",7.6,PG-13,$75.61M
+366,The Thing,John Carpenter,(1982),109 min,"Horror, Mystery, Sci-Fi",8.2,R,$13.78M
+367,Cars,John Lasseter,(2006),117 min,"Animation, Adventure, Comedy",7.2,G,$244.08M
+368,Armageddon,Michael Bay,(1998),151 min,"Action, Adventure, Sci-Fi",6.7,PG-13,$201.57M
+369,American Gangster,Ridley Scott,(2007),157 min,"Biography, Crime, Drama",7.8,R,$130.16M
+370,The Princess Bride,Rob Reiner,(1987),98 min,"Adventure, Comedy, Family",8.0,PG,$30.86M
+371,Wreck-It Ralph,Rich Moore,(2012),101 min,"Animation, Adventure, Comedy",7.7,PG,$189.42M
+372,Doctor Strange in the Multiverse of Madness,Sam Raimi,(2022),126 min,"Action, Adventure, Fantasy",6.9,PG-13,$411.33M
+373,Midnight in Paris,Woody Allen,(2011),94 min,"Comedy, Fantasy, Romance",7.7,PG-13,$56.82M
+374,Aladdin,Ron Clements,(1992),90 min,"Animation, Adventure, Comedy",8.0,G,$217.35M
+375,Saw,James Wan,(2004),103 min,"Horror, Mystery, Thriller",7.6,R,$56.00M
+376,Predator,John McTiernan,(1987),107 min,"Action, Adventure, Horror",7.8,R,$59.74M
+377,The Devil Wears Prada,David Frankel,(2006),109 min,"Comedy, Drama",6.9,PG-13,$124.74M
+378,King Kong,Peter Jackson,(2005),187 min,"Action, Adventure, Drama",7.2,PG-13,$218.08M
+379,The Shape of Water,Guillermo del Toro,(2017),123 min,"Drama, Fantasy, Romance",7.3,R,$63.86M
+380,Room,Lenny Abrahamson,(I) (2015),118 min,"Drama, Thriller",8.1,R,$14.68M
+381,The Cabin in the Woods,Drew Goddard,(2011),95 min,"Horror, Mystery, Thriller",7.0,R,$42.07M
+382,Tropic Thunder,Ben Stiller,(2008),107 min,"Action, Comedy, War",7.1,R,$110.52M
+383,The Lost World: Jurassic Park,Steven Spielberg,(1997),129 min,"Action, Adventure, Sci-Fi",6.5,PG-13,$229.09M
+384,Unbreakable,M. Night Shyamalan,(2000),106 min,"Drama, Mystery, Sci-Fi",7.3,PG-13,$95.01M
+385,Everything Everywhere All at Once,Daniel Kwan,(2022),139 min,"Action, Adventure, Comedy",7.9,R,$72.86M
+386,Ghostbusters,Ivan Reitman,(1984),105 min,"Action, Comedy, Fantasy",7.8,PG,$238.63M
+387,Alice in Wonderland,Tim Burton,(I) (2010),108 min,"Adventure, Family, Fantasy",6.4,PG,$334.19M
+388,28 Days Later,Danny Boyle,(2002),113 min,"Drama, Horror, Sci-Fi",7.5,R,$45.06M
+389,Platoon,Oliver Stone,(1986),120 min,"Drama, War",8.1,R,$138.53M
+390,Brave,Mark Andrews,(2012),93 min,"Animation, Adventure, Comedy",7.1,PG,$237.28M
+391,Godzilla,Gareth Edwards,(2014),123 min,"Action, Adventure, Sci-Fi",6.4,PG-13,$200.68M
+392,In Time,Andrew Niccol,(2011),109 min,"Action, Sci-Fi, Thriller",6.7,PG-13,$37.52M
+393,This Is the End,Evan Goldberg,(2013),107 min,"Comedy, Fantasy",6.6,R,$101.47M
+394,Borat,Larry Charles,(2006),84 min,Comedy,7.4,R,$128.51M
+395,Ant-Man and the Wasp,Peyton Reed,(2018),118 min,"Action, Adventure, Comedy",7.0,PG-13,$216.65M
+396,E.T.,Steven Spielberg,(1982),115 min,"Adventure, Family, Sci-Fi",7.9,PG,$435.11M
+397,Unforgiven,Clint Eastwood,(1992),130 min,"Drama, Western",8.2,R,$101.16M
+398,Passengers,Morten Tyldum,(I) (2016),116 min,"Drama, Romance, Sci-Fi",7.0,PG-13,$100.01M
+399,The Exorcist,William Friedkin,(1973),122 min,Horror,8.1,R,$232.91M
+400,Transformers: Dark of the Moon,Michael Bay,(2011),154 min,"Action, Adventure, Sci-Fi",6.2,PG-13,$352.39M
+401,American Pie,Paul Weitz,(1999),95 min,Comedy,7.0,R,$102.56M
+402,Madagascar,Eric Darnell,(2005),86 min,"Animation, Adventure, Comedy",6.9,PG,$193.60M
+403,No Time to Die,Cary Joji Fukunaga,(2021),163 min,"Action, Adventure, Thriller",7.3,PG-13,$160.87M
+404,Stand by Me,Rob Reiner,(1986),89 min,"Adventure, Drama",8.1,R,$52.29M
+405,Collateral,Michael Mann,(2004),120 min,"Action, Crime, Drama",7.5,R,$101.01M
+406,Bruce Almighty,Tom Shadyac,(2003),101 min,"Comedy, Fantasy",6.8,PG-13,$242.83M
+407,Transformers: Revenge of the Fallen,Michael Bay,(2009),149 min,"Action, Adventure, Sci-Fi",5.9,PG-13,$402.11M
+408,Ford v Ferrari,James Mangold,(2019),152 min,"Action, Biography, Drama",8.1,PG-13,$117.62M
+409,Live Free or Die Hard,Len Wiseman,(2007),128 min,"Action, Thriller",7.1,PG-13,$134.53M
+410,The Breakfast Club,John Hughes,(1985),97 min,"Comedy, Drama",7.8,R,$45.88M
+411,Zack Snyder's Justice League,Zack Snyder,(2021),242 min,"Action, Adventure, Fantasy",8.0,R,"408,987"
+412,Vertigo,Alfred Hitchcock,(1958),128 min,"Mystery, Romance, Thriller",8.3,PG,$3.20M
+413,3 Idiots,Rajkumar Hirani,(2009),170 min,"Comedy, Drama",8.4,PG-13,$6.53M
+414,Despicable Me 2,Pierre Coffin,(2013),98 min,"Animation, Adventure, Comedy",7.3,PG,$368.06M
+415,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Andrew Adamson,(2005),143 min,"Adventure, Family, Fantasy",6.9,PG,$291.71M
+416,The Wizard of Oz,Victor Fleming,(1939),102 min,"Adventure, Family, Fantasy",8.1,PG,$2.08M
+417,Amadeus,Milos Forman,(1984),160 min,"Biography, Drama, Music",8.4,R,$51.97M
+418,Howl's Moving Castle,Hayao Miyazaki,(2004),119 min,"Animation, Adventure, Family",8.2,PG,$4.71M
+419,Life of Brian,Terry Jones,(1979),94 min,Comedy,8.0,R,$20.05M
+420,Cloverfield,Matt Reeves,(2008),85 min,"Action, Adventure, Horror",7.0,PG-13,$80.05M
+421,The Game,David Fincher,(1997),129 min,"Drama, Mystery, Thriller",7.7,R,$48.32M
+422,Terminator 3: Rise of the Machines,Jonathan Mostow,(2003),109 min,"Action, Sci-Fi",6.3,R,$150.37M
+423,Jojo Rabbit,Taika Waititi,(2019),108 min,"Comedy, Drama, War",7.9,PG-13,$33.37M
+424,The Godfather Part III,Francis Ford Coppola,(1990),162 min,"Crime, Drama",7.6,R,$66.67M
+425,Black Hawk Down,Ridley Scott,(2001),144 min,"Action, Drama, History",7.7,R,$108.64M
+426,Princess Mononoke,Hayao Miyazaki,(1997),134 min,"Animation, Action, Adventure",8.3,PG-13,$2.38M
+427,Furious 6,Justin Lin,(2013),130 min,"Action, Adventure, Crime",7.0,PG-13,$238.68M
+428,The Irishman,Martin Scorsese,(2019),209 min,"Biography, Crime, Drama",7.8,R,$7.00M
+429,Easy A,Will Gluck,(2010),92 min,"Comedy, Drama, Romance",7.0,PG-13,$58.40M
+430,The Town,Ben Affleck,(2010),125 min,"Crime, Drama, Thriller",7.5,R,$92.19M
+431,The Machinist,Brad Anderson,(2004),101 min,"Drama, Thriller",7.7,R,$1.08M
+432,Ocean's Twelve,Steven Soderbergh,(2004),125 min,"Crime, Thriller",6.5,PG-13,$125.54M
+433,Furious 7,James Wan,(2015),137 min,"Action, Crime, Thriller",7.1,PG-13,$353.01M
+434,Shang-Chi and the Legend of the Ten Rings,Destin Daniel Cretton,(2021),132 min,"Action, Adventure, Fantasy",7.4,PG-13,$224.54M
+435,The Mask,Chuck Russell,(1994),101 min,"Action, Comedy, Crime",6.9,PG-13,$119.94M
+436,Wanted,Timur Bekmambetov,(2008),110 min,"Action, Crime, Thriller",6.7,R,$134.51M
+437,Mean Girls,Mark Waters,(2004),97 min,Comedy,7.1,PG-13,$86.06M
+438,A Star Is Born,Bradley Cooper,(2018),136 min,"Drama, Music, Romance",7.6,R,$215.29M
+439,The Lives of Others,Florian Henckel von Donnersmarck,(2006),137 min,"Drama, Mystery, Thriller",8.4,R,$11.29M
+440,Die Hard with a Vengeance,John McTiernan,(1995),128 min,"Action, Adventure, Thriller",7.6,R,$100.01M
+441,The Fast and the Furious,Rob Cohen,(2001),106 min,"Action, Crime, Thriller",6.8,PG-13,$144.53M
+442,Dumb and Dumber,Peter Farrelly,(1994),107 min,Comedy,7.3,PG-13,$127.18M
+443,Jumanji: Welcome to the Jungle,Jake Kasdan,(2017),119 min,"Action, Adventure, Comedy",6.9,PG-13,$404.52M
+444,Black Widow,Cate Shortland,(2021),134 min,"Action, Adventure, Sci-Fi",6.7,PG-13,$183.65M
+445,Fast Five,Justin Lin,(2011),130 min,"Action, Crime, Thriller",7.3,PG-13,$209.84M
+446,22 Jump Street,Phil Lord,(2014),112 min,"Action, Comedy, Crime",7.0,R,$191.72M
+447,Face/Off,John Woo,(1997),138 min,"Action, Crime, Sci-Fi",7.3,R,$112.23M
+448,Batman,Tim Burton,(1989),126 min,"Action, Adventure",7.5,PG-13,$251.19M
+449,The Fault in Our Stars,Josh Boone,(2014),126 min,"Drama, Romance",7.7,PG-13,$124.87M
+450,Free Guy,Shawn Levy,(2021),115 min,"Action, Adventure, Comedy",7.1,PG-13,$121.63M
+451,127 Hours,Danny Boyle,(2010),94 min,"Biography, Drama",7.5,R,$18.34M
+452,2012,Roland Emmerich,(I) (2009),158 min,"Action, Adventure, Sci-Fi",5.8,PG-13,$166.11M
+453,Men in Black II,Barry Sonnenfeld,(2002),88 min,"Action, Adventure, Comedy",6.2,PG-13,$190.42M
+454,Maleficent,Robert Stromberg,(2014),97 min,"Adventure, Family, Fantasy",6.9,PG,$241.41M
+455,The Devil's Advocate,Taylor Hackford,(1997),144 min,"Drama, Mystery, Thriller",7.5,R,$60.98M
+456,Mission: Impossible - Rogue Nation,Christopher McQuarrie,(2015),131 min,"Action, Adventure, Thriller",7.4,PG-13,$195.04M
+457,The Equalizer,Antoine Fuqua,(2014),132 min,"Action, Crime, Thriller",7.2,R,$101.53M
+458,Inside Man,Spike Lee,(2006),129 min,"Crime, Drama, Mystery",7.6,R,$88.51M
+459,The Illusionist,Neil Burger,(2006),110 min,"Drama, Fantasy, Mystery",7.5,PG-13,$39.87M
+460,Glass Onion,Rian Johnson,(2022),139 min,"Comedy, Crime, Drama",7.2,PG-13,"377,916"
+461,Friends with Benefits,Will Gluck,(2011),109 min,"Comedy, Romance",6.5,R,$55.80M
+462,John Wick: Chapter 3 - Parabellum,Chad Stahelski,(2019),130 min,"Action, Crime, Thriller",7.4,R,$171.02M
+463,The Italian Job,F. Gary Gray,(2003),111 min,"Action, Crime, Thriller",7.0,PG-13,$106.13M
+464,The Fighter,David O. Russell,(I) (2010),116 min,"Action, Biography, Drama",7.8,R,$93.62M
+465,Knocked Up,Judd Apatow,(2007),129 min,"Comedy, Romance",6.9,R,$148.73M
+466,Sweeney Todd: The Demon Barber of Fleet Street,Tim Burton,(2007),116 min,"Drama, Horror, Musical",7.3,R,$52.90M
+467,The Others,Alejandro Amenábar,(2001),104 min,"Horror, Mystery, Thriller",7.6,PG-13,$96.52M
+468,Speed,Jan de Bont,(1994),116 min,"Action, Adventure, Thriller",7.3,R,$121.25M
+469,Home Alone 2: Lost in New York,Chris Columbus,(1992),120 min,"Adventure, Comedy, Crime",6.8,PG,$173.59M
+470,Signs,M. Night Shyamalan,(2002),106 min,"Drama, Mystery, Sci-Fi",6.8,PG-13,$227.97M
+471,Men in Black 3,Barry Sonnenfeld,(2012),106 min,"Action, Adventure, Comedy",6.8,PG-13,$179.02M
+472,Man on Fire,Tony Scott,(2004),146 min,"Action, Crime, Drama",7.7,R,$77.91M
+473,Yes Man,Peyton Reed,(2008),104 min,"Comedy, Romance",6.8,PG-13,$97.69M
+474,Snowpiercer,Bong Joon Ho,(2013),126 min,"Action, Drama, Sci-Fi",7.1,R,$4.56M
+475,The Aviator,Martin Scorsese,(2004),170 min,"Biography, Drama",7.5,PG-13,$102.61M
+476,Die Hard 2,Renny Harlin,(1990),124 min,"Action, Thriller",7.1,R,$117.54M
+477,Monsters University,Dan Scanlon,(2013),104 min,"Animation, Adventure, Comedy",7.2,G,$268.49M
+478,Sleepy Hollow,Tim Burton,(1999),105 min,"Fantasy, Horror, Mystery",7.3,R,$101.07M
+479,Terminator Salvation,McG,(2009),115 min,"Action, Adventure, Sci-Fi",6.5,PG-13,$125.32M
+480,Ferris Bueller's Day Off,John Hughes,(1986),103 min,Comedy,7.8,PG-13,$70.14M
+481,Cloud Atlas,Tom Tykwer,(2012),172 min,"Drama, Mystery, Sci-Fi",7.4,R,$27.11M
+482,The Suicide Squad,James Gunn,(2021),132 min,"Action, Adventure, Comedy",7.2,R,$55.82M
+483,Brokeback Mountain,Ang Lee,(2005),134 min,"Drama, Romance",7.7,R,$83.04M
+484,Moon,Duncan Jones,(2009),97 min,"Drama, Mystery, Sci-Fi",7.8,R,$5.01M
+485,The Lego Movie,Phil Lord,(2014),100 min,"Animation, Action, Adventure",7.7,PG,$257.76M
+486,Anchorman: The Legend of Ron Burgundy,Adam McKay,(2004),94 min,Comedy,7.1,PG-13,$85.29M
+487,Mulholland Drive,David Lynch,(2001),147 min,"Drama, Mystery, Thriller",7.9,R,$7.22M
+488,Mission: Impossible III,J.J. Abrams,(2006),126 min,"Action, Adventure, Thriller",6.9,PG-13,$134.03M
+489,50 First Dates,Peter Segal,(2004),99 min,"Comedy, Drama, Romance",6.8,PG-13,$120.91M
+490,Wedding Crashers,David Dobkin,(2005),119 min,"Comedy, Romance",7.0,R,$209.22M
+491,About Time,Richard Curtis,(I) (2013),123 min,"Comedy, Drama, Fantasy",7.8,R,$15.32M
+492,Flight,Robert Zemeckis,(I) (2012),138 min,"Drama, Thriller",7.3,R,$93.77M
+493,Downfall,Oliver Hirschbiegel,(2004),156 min,"Biography, Drama, History",8.2,R,$5.51M
+494,Raging Bull,Martin Scorsese,(1980),129 min,"Biography, Drama, Sport",8.2,R,$23.38M
+495,Hotel Rwanda,Terry George,(2004),121 min,"Biography, Drama, History",8.1,PG-13,$23.53M
+496,Scream,Wes Craven,(1996),111 min,"Horror, Mystery",7.4,R,$103.05M
+497,Boyhood,Richard Linklater,(I) (2014),165 min,Drama,7.9,R,$25.38M
+498,Super 8,J.J. Abrams,(2011),112 min,"Action, Mystery, Sci-Fi",7.0,PG-13,$127.00M
+499,Night at the Museum,Shawn Levy,(2006),108 min,"Adventure, Comedy, Family",6.4,PG,$250.86M
+500,Once Upon a Time in America,Sergio Leone,(1984),229 min,"Crime, Drama",8.3,R,$5.32M
+501,The Ring,Gore Verbinski,(2002),115 min,"Horror, Mystery",7.1,PG-13,$129.13M
+502,Shazam!,David F. Sandberg,(2019),132 min,"Action, Adventure, Comedy",7.0,PG-13,$140.37M
+503,Solo: A Star Wars Story,Ron Howard,(2018),135 min,"Action, Adventure, Sci-Fi",6.9,PG-13,$213.77M
+504,Jackie Brown,Quentin Tarantino,(1997),154 min,"Crime, Drama, Thriller",7.5,R,$39.67M
+505,The Gentlemen,Guy Ritchie,(2019),113 min,"Action, Comedy, Crime",7.8,R,$36.47M
+506,Thor: Love and Thunder,Taika Waititi,(2022),118 min,"Action, Adventure, Comedy",6.3,PG-13,$343.26M
+507,Constantine,Francis Lawrence,(2005),121 min,"Action, Fantasy, Horror",7.0,R,$75.98M
+508,Jumanji,Joe Johnston,(1995),104 min,"Adventure, Comedy, Family",7.0,PG,$100.48M
+509,Moonrise Kingdom,Wes Anderson,(2012),94 min,"Comedy, Drama, Family",7.8,PG-13,$45.51M
+510,Bird Box,Susanne Bier,(2018),124 min,"Horror, Mystery, Sci-Fi",6.6,R,"355,060"
+511,10 Things I Hate About You,Gil Junger,(1999),97 min,"Comedy, Drama, Romance",7.3,PG-13,$38.18M
+512,Eternals,Chloé Zhao,(2021),156 min,"Action, Adventure, Fantasy",6.3,PG-13,$164.87M
+513,Ocean's Thirteen,Steven Soderbergh,(2007),122 min,"Crime, Thriller",6.9,PG-13,$117.15M
+514,Eyes Wide Shut,Stanley Kubrick,(1999),159 min,"Drama, Mystery, Thriller",7.5,R,$55.69M
+515,The Expendables,Sylvester Stallone,(2010),103 min,"Action, Adventure, Thriller",6.4,R,$103.07M
+516,Seven Samurai,Akira Kurosawa,(1954),207 min,"Action, Drama",8.6,Not Rated,$0.27M
+517,Avatar: The Way of Water,James Cameron,(2022),192 min,"Action, Adventure, Fantasy",7.7,PG-13,$659.68M
+518,Mission: Impossible II,John Woo,(2000),123 min,"Action, Adventure, Thriller",6.1,PG-13,$215.41M
+519,The Nightmare Before Christmas,Henry Selick,(1993),76 min,"Animation, Family, Fantasy",7.9,PG,$75.08M
+520,My Neighbor Totoro,Hayao Miyazaki,(1988),86 min,"Animation, Comedy, Family",8.1,G,$1.11M
+521,Due Date,Todd Phillips,(2010),95 min,"Comedy, Drama",6.5,R,$100.54M
+522,Jack Reacher,Christopher McQuarrie,(2012),130 min,"Action, Mystery, Thriller",7.0,PG-13,$80.07M
+523,Moana,Ron Clements,(I) (2016),107 min,"Animation, Adventure, Comedy",7.6,PG,$248.76M
+524,Pineapple Express,David Gordon Green,(2008),111 min,"Action, Comedy, Crime",6.9,R,$87.34M
+525,True Grit,Ethan Coen,(2010),110 min,"Drama, Western",7.6,PG-13,$171.24M
+526,The Rock,Michael Bay,(1996),136 min,"Action, Adventure, Thriller",7.4,R,$134.07M
+527,The Deer Hunter,Michael Cimino,(1978),183 min,"Drama, War",8.1,R,$48.98M
+528,How to Train Your Dragon 2,Dean DeBlois,(2014),102 min,"Animation, Action, Adventure",7.8,PG,$177.00M
+529,TRON: Legacy,Joseph Kosinski,(2010),125 min,"Action, Adventure, Sci-Fi",6.8,PG,$172.06M
+530,Midsommar,Ari Aster,(2019),148 min,"Drama, Horror, Mystery",7.1,R,$27.33M
+531,Being John Malkovich,Spike Jonze,(1999),113 min,"Comedy, Drama, Fantasy",7.7,R,$22.86M
+532,Mission: Impossible - Fallout,Christopher McQuarrie,(2018),147 min,"Action, Adventure, Thriller",7.7,PG-13,$220.16M
+533,Meet the Parents,Jay Roach,(2000),108 min,"Comedy, Romance",7.0,PG-13,$166.24M
+534,The Blind Side,John Lee Hancock,(2009),129 min,"Biography, Drama, Sport",7.6,PG-13,$255.96M
+535,Soul,Pete Docter,(2020),100 min,"Animation, Adventure, Comedy",8.0,PG,"341,499"
+536,National Treasure,Jon Turteltaub,(2004),131 min,"Action, Adventure, Mystery",6.9,PG,$173.01M
+537,Up in the Air,Jason Reitman,(I) (2009),109 min,"Comedy, Drama, Romance",7.4,R,$83.82M
+538,Shooter,Antoine Fuqua,(I) (2007),124 min,"Action, Drama, Thriller",7.1,R,$47.00M
+539,Kingsman: The Golden Circle,Matthew Vaughn,(2017),141 min,"Action, Adventure, Comedy",6.7,R,$100.23M
+540,Click,Frank Coraci,(2006),107 min,"Comedy, Drama, Fantasy",6.4,PG-13,$137.36M
+541,The Interview,Evan Goldberg,(II) (2014),112 min,"Action, Adventure, Comedy",6.5,R,$6.11M
+542,Burn After Reading,Ethan Coen,(2008),96 min,"Comedy, Crime, Drama",7.0,R,$60.36M
+543,The Hunger Games: Mockingjay - Part 2,Francis Lawrence,(2015),137 min,"Action, Adventure, Sci-Fi",6.5,PG-13,$281.72M
+544,Pearl Harbor,Michael Bay,(2001),183 min,"Action, Drama, History",6.2,PG-13,$198.54M
+545,The Nice Guys,Shane Black,(2016),116 min,"Action, Comedy, Crime",7.3,R,$36.26M
+546,Total Recall,Paul Verhoeven,(1990),113 min,"Action, Adventure, Sci-Fi",7.5,R,$119.39M
+547,The Hunt,Thomas Vinterberg,(2012),115 min,Drama,8.3,R,$0.69M
+548,Real Steel,Shawn Levy,(2011),127 min,"Action, Drama, Sci-Fi",7.0,PG-13,$85.47M
+549,10 Cloverfield Lane,Dan Trachtenberg,(2016),103 min,"Drama, Horror, Mystery",7.2,PG-13,$72.08M
+550,Bullet Train,David Leitch,(2022),127 min,"Action, Comedy, Thriller",7.3,R,$103.37M
+551,The Simpsons Movie,David Silverman,(2007),87 min,"Animation, Adventure, Comedy",7.3,PG-13,$183.14M
+552,Equilibrium,Kurt Wimmer,(2002),107 min,"Action, Drama, Sci-Fi",7.3,R,$1.20M
+553,The Proposal,Anne Fletcher,(I) (2009),108 min,"Comedy, Drama, Romance",6.7,PG-13,$163.96M
+554,Hellboy,Guillermo del Toro,(2004),122 min,"Action, Adventure, Fantasy",6.8,PG-13,$59.62M
+555,Annihilation,Alex Garland,(I) (2018),115 min,"Adventure, Drama, Horror",6.8,R,$32.73M
+556,Hereditary,Ari Aster,(2018),127 min,"Drama, Horror, Mystery",7.3,R,$44.07M
+557,Once Upon a Time in the West,Sergio Leone,(1968),165 min,Western,8.5,PG-13,$5.32M
+558,Les Misérables,Tom Hooper,(2012),158 min,"Drama, Musical, Romance",7.5,PG-13,$148.81M
+559,50/50,Jonathan Levine,(2011),100 min,"Comedy, Drama, Romance",7.6,R,$35.01M
+560,Pretty Woman,Garry Marshall,(1990),119 min,"Comedy, Romance",7.1,R,$178.41M
+561,Fantastic Four,Tim Story,(I) (2005),106 min,"Action, Adventure, Fantasy",5.7,PG-13,$154.70M
+562,The Mummy Returns,Stephen Sommers,(2001),130 min,"Action, Adventure, Fantasy",6.4,PG-13,$202.02M
+563,North by Northwest,Alfred Hitchcock,(1959),136 min,"Action, Adventure, Mystery",8.3,Approved,$13.28M
+564,Chinatown,Roman Polanski,(1974),130 min,"Drama, Mystery, Thriller",8.2,R,$8.49M
+565,Interview with the Vampire: The Vampire Chronicles,Neil Jordan,(1994),123 min,"Drama, Fantasy, Horror",7.5,R,$105.26M
+566,Jurassic Park III,Joe Johnston,(2001),92 min,"Action, Adventure, Sci-Fi",5.9,PG-13,$181.17M
+567,Hugo,Martin Scorsese,(2011),126 min,"Adventure, Drama, Family",7.5,PG,$73.86M
+568,Kong: Skull Island,Jordan Vogt-Roberts,(2017),118 min,"Action, Adventure, Fantasy",6.6,PG-13,$168.05M
+569,The Book of Eli,Albert Hughes,(2010),118 min,"Action, Adventure, Drama",6.8,R,$94.84M
+570,Jurassic World: Fallen Kingdom,J.A. Bayona,(2018),128 min,"Action, Adventure, Sci-Fi",6.1,PG-13,$417.72M
+571,Fifty Shades of Grey,Sam Taylor-Johnson,(2015),125 min,"Drama, Romance, Thriller",4.2,R,$166.17M
+572,The Secret Life of Walter Mitty,Ben Stiller,(2013),114 min,"Adventure, Comedy, Drama",7.3,PG,$58.24M
+573,Lord of War,Andrew Niccol,(2005),122 min,"Crime, Drama",7.6,R,$24.15M
+574,Hitch,Andy Tennant,(I) (2005),118 min,"Comedy, Romance",6.6,PG-13,$179.50M
+575,From Dusk Till Dawn,Robert Rodriguez,(1996),108 min,"Action, Crime, Horror",7.2,R,$25.75M
+576,Notting Hill,Roger Michell,(1999),124 min,"Comedy, Drama, Romance",7.2,PG-13,$116.09M
+577,The Hangover Part III,Todd Phillips,(2013),100 min,"Comedy, Crime",5.8,R,$112.20M
+578,Marriage Story,Noah Baumbach,(2019),137 min,"Drama, Romance",7.9,R,$2.00M
+579,Pirates of the Caribbean: Dead Men Tell No Tales,Joachim Rønning,(2017),129 min,"Action, Adventure, Fantasy",6.5,PG-13,$172.56M
+580,Gone with the Wind,Victor Fleming,(1939),238 min,"Drama, Romance, War",8.2,Passed,$198.68M
+581,To Kill a Mockingbird,Robert Mulligan,(1962),129 min,"Crime, Drama",8.3,Approved,"320,834"
+582,Salt,Phillip Noyce,(2010),100 min,"Action, Thriller",6.4,PG-13,$118.31M
+583,The Island,Michael Bay,(2005),136 min,"Action, Sci-Fi, Thriller",6.8,PG-13,$35.82M
+584,The Mist,Frank Darabont,(2007),126 min,"Horror, Sci-Fi, Thriller",7.1,R,$25.59M
+585,Transformers: Age of Extinction,Michael Bay,(2014),165 min,"Action, Adventure, Sci-Fi",5.6,PG-13,$245.44M
+586,3:10 to Yuma,James Mangold,(2007),122 min,"Action, Crime, Drama",7.7,R,$53.61M
+587,Apocalypto,Mel Gibson,(2006),139 min,"Action, Adventure, Drama",7.8,R,$50.87M
+588,"O Brother, Where Art Thou?",Joel Coen,(2000),107 min,"Adventure, Comedy, Crime",7.7,PG-13,$45.51M
+589,Magnolia,Paul Thomas Anderson,(1999),188 min,Drama,8.0,R,$22.46M
+590,Lucky Number Slevin,Paul McGuigan,(2006),110 min,"Crime, Drama, Thriller",7.7,R,$22.49M
+591,The Man from U.N.C.L.E.,Guy Ritchie,(2015),116 min,"Action, Adventure, Comedy",7.2,PG-13,$45.45M
+592,Before Sunrise,Richard Linklater,(1995),101 min,"Drama, Romance",8.1,R,$5.54M
+593,There's Something About Mary,Bobby Farrelly,(1998),119 min,"Comedy, Romance",7.1,R,$176.48M
+594,Neighbors,Nicholas Stoller,(I) (2014),97 min,Comedy,6.3,R,$150.16M
+595,Beauty and the Beast,Bill Condon,(I) (2017),129 min,"Adventure, Family, Fantasy",7.1,PG,$504.01M
+596,The Untouchables,Brian De Palma,(1987),119 min,"Crime, Drama, Thriller",7.8,R,$76.27M
+597,Liar Liar,Tom Shadyac,(1997),86 min,"Comedy, Fantasy",6.9,PG-13,$181.41M
+598,Bridge of Spies,Steven Spielberg,(2015),142 min,"Drama, History, Thriller",7.6,PG-13,$72.31M
+599,The Dictator,Larry Charles,(2012),83 min,Comedy,6.4,R,$59.65M
+600,Deja Vu,Tony Scott,(2006),126 min,"Action, Crime, Sci-Fi",7.1,PG-13,$64.04M
+601,Shrek the Third,Chris Miller,(2007),93 min,"Animation, Adventure, Comedy",6.1,PG,$320.71M
+602,Insidious,James Wan,(I) (2010),103 min,"Horror, Mystery, Thriller",6.8,PG-13,$54.01M
+603,Moonlight,Barry Jenkins,(I) (2016),111 min,Drama,7.4,R,$27.85M
+604,Donnie Brasco,Mike Newell,(1997),127 min,"Biography, Crime, Drama",7.7,R,$41.91M
+605,RED,Robert Schwentke,(2010),111 min,"Action, Comedy, Crime",7.0,PG-13,$90.38M
+606,School of Rock,Richard Linklater,(2003),109 min,"Comedy, Music",7.2,PG-13,$81.26M
+607,A.I. Artificial Intelligence,Steven Spielberg,(2001),146 min,"Drama, Sci-Fi",7.2,PG-13,$78.62M
+608,Pitch Perfect,Jason Moore,(2012),112 min,"Comedy, Music, Romance",7.1,PG-13,$65.00M
+609,Beetlejuice,Tim Burton,(1988),92 min,"Comedy, Fantasy",7.5,PG,$73.71M
+610,Taken 2,Olivier Megaton,(2012),92 min,"Action, Crime, Thriller",6.2,PG-13,$139.85M
+611,Jumper,Doug Liman,(2008),88 min,"Action, Adventure, Sci-Fi",6.1,PG-13,$80.17M
+612,The Expendables 2,Simon West,(2012),103 min,"Action, Adventure, Thriller",6.6,R,$85.02M
+613,Batman Returns,Tim Burton,(1992),126 min,"Action, Crime, Fantasy",7.1,PG-13,$162.83M
+614,The Wrestler,Darren Aronofsky,(2008),109 min,"Drama, Sport",7.9,R,$26.24M
+615,Us,Jordan Peele,(II) (2019),116 min,"Horror, Mystery, Thriller",6.8,R,$175.08M
+616,Gattaca,Andrew Niccol,(1997),106 min,"Drama, Sci-Fi, Thriller",7.8,PG-13,$12.34M
+617,Ace Ventura: Pet Detective,Tom Shadyac,(1994),86 min,Comedy,6.9,PG-13,$72.22M
+618,The Transporter,Louis Leterrier,(2002),92 min,"Action, Crime, Thriller",6.8,PG-13,$25.30M
+619,Public Enemies,Michael Mann,(2009),140 min,"Action, Biography, Crime",7.0,R,$97.10M
+620,Babel,Alejandro G. Iñárritu,(I) (2006),143 min,Drama,7.5,R,$34.30M
+621,Contagion,Steven Soderbergh,(2011),106 min,"Drama, Thriller",6.8,PG-13,$75.66M
+622,Seven Pounds,Gabriele Muccino,(2008),123 min,Drama,7.6,PG-13,$69.95M
+623,Zero Dark Thirty,Kathryn Bigelow,(2012),157 min,"Drama, History, Thriller",7.4,R,$95.72M
+624,The Bourne Legacy,Tony Gilroy,(2012),135 min,"Action, Adventure, Thriller",6.6,PG-13,$113.20M
+625,Scent of a Woman,Martin Brest,(1992),156 min,Drama,8.0,R,$63.90M
+626,300: Rise of an Empire,Noam Murro,(2014),102 min,"Action, Drama",6.2,R,$106.58M
+627,Con Air,Simon West,(1997),115 min,"Action, Crime, Thriller",6.9,R,$101.12M
+628,Incredibles 2,Brad Bird,(2018),118 min,"Animation, Action, Adventure",7.6,PG,$608.58M
+629,Alien³,David Fincher,(1992),114 min,"Action, Horror, Sci-Fi",6.4,R,$55.47M
+630,As Good as It Gets,James L. Brooks,(1997),139 min,"Comedy, Drama, Romance",7.7,PG-13,$148.48M
+631,Pride & Prejudice,Joe Wright,(2005),129 min,"Drama, Romance",7.8,PG,$38.41M
+632,Law Abiding Citizen,F. Gary Gray,(2009),109 min,"Action, Crime, Drama",7.4,R,$73.34M
+633,Step Brothers,Adam McKay,(2008),98 min,Comedy,6.9,R,$100.47M
+634,Starship Troopers,Paul Verhoeven,(1997),129 min,"Action, Adventure, Sci-Fi",7.3,R,$54.81M
+635,The Accountant,Gavin O'Connor,(2016),128 min,"Action, Thriller",7.3,R,$86.26M
+636,The Fugitive,Andrew Davis,(1993),130 min,"Action, Crime, Drama",7.8,PG-13,$183.88M
+637,Apollo 13,Ron Howard,(I) (1995),140 min,"Adventure, Drama, History",7.7,PG,$173.84M
+638,Insomnia,Christopher Nolan,(2002),118 min,"Drama, Mystery, Thriller",7.2,R,$67.36M
+639,Lady Bird,Greta Gerwig,(2017),94 min,"Comedy, Drama",7.4,R,$48.96M
+640,Now You See Me 2,Jon M. Chu,(2016),129 min,"Action, Adventure, Comedy",6.4,PG-13,$65.08M
+641,A Bug's Life,John Lasseter,(1998),95 min,"Animation, Adventure, Comedy",7.2,G,$162.80M
+642,The Holiday,Nancy Meyers,(2006),136 min,"Comedy, Romance",6.9,PG-13,$63.22M
+643,8 Mile,Curtis Hanson,(2002),110 min,"Drama, Music",7.2,R,$116.72M
+644,Lawrence of Arabia,David Lean,(1962),218 min,"Adventure, Biography, Drama",8.3,Approved,$44.82M
+645,Serenity,Joss Whedon,(2005),119 min,"Action, Adventure, Sci-Fi",7.8,PG-13,$25.51M
+646,Angels & Demons,Ron Howard,(2009),138 min,"Action, Mystery, Thriller",6.7,PG-13,$133.38M
+647,The Royal Tenenbaums,Wes Anderson,(2001),110 min,"Comedy, Drama",7.6,R,$52.36M
+648,Death Proof,Quentin Tarantino,(2007),127 min,"Action, Thriller",7.0,R,"298,762"
+649,Bridesmaids,Paul Feig,(I) (2011),125 min,"Comedy, Romance",6.8,R,$169.11M
+650,Mulan,Tony Bancroft,(1998),87 min,"Animation, Adventure, Comedy",7.6,G,$120.62M
+651,Kung Fu Panda 2,Jennifer Yuh Nelson,(2011),90 min,"Animation, Action, Adventure",7.2,PG,$165.25M
+652,Kingdom of Heaven,Ridley Scott,(2005),144 min,"Action, Adventure, Drama",7.2,R,$47.40M
+653,Prince of Persia: The Sands of Time,Mike Newell,(2010),116 min,"Action, Adventure, Fantasy",6.6,PG-13,$90.76M
+654,Snow White and the Huntsman,Rupert Sanders,(2012),127 min,"Action, Adventure, Drama",6.1,PG-13,$155.33M
+655,Fast & Furious,Justin Lin,(2009),107 min,"Action, Crime, Thriller",6.5,PG-13,$155.06M
+656,Lone Survivor,Peter Berg,(2013),121 min,"Action, Biography, Drama",7.5,R,$125.10M
+657,Creed,Ryan Coogler,(II) (2015),133 min,"Action, Drama, Sport",7.6,PG-13,$109.77M
+658,Uncut Gems,Benny Safdie,(2019),135 min,"Crime, Drama, Thriller",7.4,R,"293,447"
+659,Hachi: A Dog's Tale,Lasse Hallström,(2009),93 min,"Biography, Drama, Family",8.1,G,"292,730"
+660,Fantastic Beasts: The Crimes of Grindelwald,David Yates,(2018),134 min,"Adventure, Family, Fantasy",6.5,PG-13,$159.56M
+661,Manchester by the Sea,Kenneth Lonergan,(2016),137 min,Drama,7.8,R,$47.70M
+662,Forgetting Sarah Marshall,Nicholas Stoller,(2008),111 min,"Comedy, Drama, Romance",7.1,R,$63.17M
+663,The Greatest Showman,Michael Gracey,(2017),105 min,"Biography, Drama, Musical",7.5,PG,$174.34M
+664,The Menu,Mark Mylod,(2022),107 min,"Comedy, Horror, Thriller",7.2,R,"290,151"
+665,Moulin Rouge!,Baz Luhrmann,(2001),127 min,"Drama, Musical, Romance",7.6,PG-13,$57.39M
+666,Fear and Loathing in Las Vegas,Terry Gilliam,(1998),118 min,"Adventure, Comedy, Drama",7.5,R,$10.68M
+667,The Twilight Saga: New Moon,Chris Weitz,(2009),130 min,"Adventure, Drama, Fantasy",4.7,PG-13,$296.62M
+668,Predestination,Michael Spierig,(I) (2014),97 min,"Action, Drama, Sci-Fi",7.4,R,$0.07M
+669,Green Lantern,Martin Campbell,(2011),114 min,"Action, Adventure, Sci-Fi",5.5,PG-13,$116.60M
+670,Alien: Covenant,Ridley Scott,(2017),122 min,"Horror, Sci-Fi, Thriller",6.4,R,$74.26M
+671,The World's End,Edgar Wright,(2013),109 min,"Action, Comedy, Sci-Fi",6.9,R,$26.00M
+672,Nocturnal Animals,Tom Ford,(2016),116 min,"Drama, Thriller",7.5,R,$10.66M
+673,Red Notice,Rawson Marshall Thurber,(2021),118 min,"Action, Comedy, Thriller",6.3,PG-13,"287,143"
+674,Halloween,John Carpenter,(1978),91 min,"Horror, Thriller",7.7,R,$47.00M
+675,Superman Returns,Bryan Singer,(2006),154 min,"Action, Adventure, Sci-Fi",6.1,PG-13,$200.08M
+676,Clash of the Titans,Louis Leterrier,(2010),106 min,"Action, Adventure, Fantasy",5.8,PG-13,$163.21M
+677,Elf,Jon Favreau,(2003),97 min,"Adventure, Comedy, Family",7.1,PG,$173.40M
+678,Atonement,Joe Wright,(2007),123 min,"Drama, Mystery, Romance",7.8,R,$50.93M
+679,Panic Room,David Fincher,(2002),112 min,"Crime, Drama, Thriller",6.8,R,$96.40M
+680,Call Me by Your Name,Luca Guadagnino,(2017),132 min,"Drama, Romance",7.8,R,$18.10M
+681,Grease,Randal Kleiser,(1978),110 min,"Comedy, Musical, Romance",7.2,PG,$188.76M
+682,Ice Age: The Meltdown,Carlos Saldanha,(2006),91 min,"Animation, Adventure, Comedy",6.8,PG,$195.33M
+683,Grave of the Fireflies,Isao Takahata,(1988),89 min,"Animation, Drama, War",8.5,Not Rated,"284,665"
+684,Finding Dory,Andrew Stanton,(2016),97 min,"Animation, Adventure, Comedy",7.3,PG,$486.30M
+685,Gone in 60 Seconds,Dominic Sena,(2000),118 min,"Action, Crime, Thriller",6.5,PG-13,$101.65M
+686,Don't Breathe,Fede Alvarez,(2016),88 min,"Crime, Horror, Thriller",7.1,R,$89.22M
+687,Terminator Genisys,Alan Taylor,(2015),126 min,"Action, Adventure, Sci-Fi",6.3,PG-13,$89.76M
+688,The Goonies,Richard Donner,(1985),114 min,"Adventure, Comedy, Family",7.7,PG,$61.50M
+689,Blade,Stephen Norrington,(1998),120 min,"Action, Horror, Sci-Fi",7.1,R,$70.09M
+690,28 Weeks Later,Juan Carlos Fresnadillo,(2007),100 min,"Action, Adventure, Horror",6.9,R,$28.64M
+691,Corpse Bride,Tim Burton,(2005),77 min,"Animation, Drama, Family",7.3,PG,$53.36M
+692,Almost Famous,Cameron Crowe,(2000),122 min,"Adventure, Comedy, Drama",7.9,R,$32.53M
+693,Olympus Has Fallen,Antoine Fuqua,(2013),119 min,"Action, Thriller",6.5,R,$98.93M
+694,The Jungle Book,Jon Favreau,(2016),106 min,"Adventure, Drama, Family",7.4,PG,$364.00M
+695,Hannibal,Ridley Scott,(2001),131 min,"Crime, Drama, Thriller",6.8,R,$165.09M
+696,The Patriot,Roland Emmerich,(2000),165 min,"Action, Drama, History",7.2,R,$113.33M
+697,Dredd,Pete Travis,(2012),95 min,"Action, Crime, Sci-Fi",7.1,R,$13.41M
+698,Sully,Clint Eastwood,(2016),96 min,"Biography, Drama",7.4,PG-13,$125.07M
+699,Your Name.,Makoto Shinkai,(2016),106 min,"Animation, Drama, Fantasy",8.4,PG,$5.02M
+700,Contact,Robert Zemeckis,(1997),150 min,"Drama, Mystery, Sci-Fi",7.5,PG,$100.92M
+701,2 Fast 2 Furious,John Singleton,(2003),107 min,"Action, Crime, Thriller",5.9,PG-13,$127.15M
+702,1408,Mikael Håfström,(2007),104 min,"Fantasy, Horror, Mystery",6.8,PG-13,$71.99M
+703,Zoolander,Ben Stiller,(2001),90 min,Comedy,6.5,PG-13,$45.17M
+704,Red Dragon,Brett Ratner,(2002),124 min,"Crime, Drama, Thriller",7.2,R,$93.15M
+705,The Fast and the Furious: Tokyo Drift,Justin Lin,(2006),104 min,"Action, Crime, Thriller",6.0,PG-13,$62.51M
+706,The Conjuring 2,James Wan,(2016),134 min,"Horror, Mystery, Thriller",7.3,R,$102.47M
+707,Gone Baby Gone,Ben Affleck,(2007),114 min,"Crime, Drama, Mystery",7.6,R,$20.30M
+708,Kick-Ass 2,Jeff Wadlow,(2013),103 min,"Action, Comedy, Crime",6.5,R,$28.80M
+709,The Graduate,Mike Nichols,(1967),106 min,"Comedy, Drama, Romance",8.0,PG,$104.95M
+710,John Carter,Andrew Stanton,(2012),132 min,"Action, Adventure, Sci-Fi",6.6,PG-13,$73.08M
+711,Hellboy II: The Golden Army,Guillermo del Toro,(2008),120 min,"Action, Adventure, Fantasy",7.0,PG-13,$75.75M
+712,Rush Hour,Brett Ratner,(1998),98 min,"Action, Comedy, Crime",7.0,PG-13,$141.15M
+713,Resident Evil,Paul W.S. Anderson,(2002),100 min,"Action, Horror, Sci-Fi",6.6,R,$40.12M
+714,Meet the Fockers,Jay Roach,(2004),115 min,"Comedy, Romance",6.3,PG-13,$279.26M
+715,Stardust,Matthew Vaughn,(2007),127 min,"Adventure, Family, Fantasy",7.6,PG-13,$38.63M
+716,Alita: Battle Angel,Robert Rodriguez,(2019),122 min,"Action, Adventure, Sci-Fi",7.3,PG-13,$85.71M
+717,It Chapter Two,Andy Muschietti,(2019),169 min,"Drama, Fantasy, Horror",6.5,R,$211.59M
+718,Wonder Woman 1984,Patty Jenkins,(2020),151 min,"Action, Adventure, Fantasy",5.4,PG-13,$46.37M
+719,The Other Guys,Adam McKay,(2010),107 min,"Action, Comedy, Crime",6.6,PG-13,$119.22M
+720,Underworld,Len Wiseman,(2003),121 min,"Action, Fantasy, Thriller",7.0,R,$51.97M
+721,Rango,Gore Verbinski,(2011),107 min,"Animation, Action, Adventure",7.2,PG,$123.48M
+722,The Place Beyond the Pines,Derek Cianfrance,(2012),140 min,"Crime, Drama, Thriller",7.3,R,$21.38M
+723,Phone Booth,Joel Schumacher,(2002),81 min,"Crime, Thriller",7.1,R,$46.57M
+724,"Crouching Tiger, Hidden Dragon",Ang Lee,(2000),120 min,"Action, Adventure, Drama",7.9,PG-13,$128.08M
+725,Road to Perdition,Sam Mendes,(2002),117 min,"Crime, Drama, Thriller",7.7,R,$104.45M
+726,Vanilla Sky,Cameron Crowe,(2001),136 min,"Fantasy, Mystery, Romance",6.9,R,$100.61M
+727,Mrs. Doubtfire,Chris Columbus,(1993),125 min,"Comedy, Drama",7.1,PG-13,$219.20M
+728,Robin Hood,Ridley Scott,(2010),140 min,"Action, Adventure, Drama",6.6,PG-13,$105.27M
+729,Dances with Wolves,Kevin Costner,(1990),181 min,"Adventure, Drama, Western",8.0,PG-13,$184.21M
+730,Jerry Maguire,Cameron Crowe,(1996),139 min,"Comedy, Drama, Romance",7.3,R,$153.95M
+731,Office Space,Mike Judge,(1999),89 min,Comedy,7.6,R,$10.82M
+732,The VVitch: A New-England Folktale,Robert Eggers,(2015),92 min,"Drama, Fantasy, Horror",6.9,R,$25.14M
+733,Aladdin,Guy Ritchie,(2019),128 min,"Adventure, Comedy, Family",6.9,PG,$355.56M
+734,Bad Boys,Michael Bay,(1995),119 min,"Action, Comedy, Crime",6.8,R,$65.81M
+735,Megamind,Tom McGrath,(2010),95 min,"Animation, Action, Comedy",7.3,PG,$148.42M
+736,Van Helsing,Stephen Sommers,(2004),131 min,"Action, Adventure, Fantasy",6.0,PG-13,$120.18M
+737,Dark Shadows,Tim Burton,(2012),113 min,"Comedy, Fantasy, Horror",6.2,PG-13,$79.73M
+738,BlacKkKlansman,Spike Lee,(2018),135 min,"Biography, Comedy, Crime",7.5,R,$49.28M
+739,Hulk,Ang Lee,(2003),138 min,"Action, Sci-Fi",5.6,PG-13,$132.18M
+740,Some Like It Hot,Billy Wilder,(1959),121 min,"Comedy, Music, Romance",8.2,Passed,$25.00M
+741,Before Sunset,Richard Linklater,(2004),80 min,"Drama, Romance",8.1,R,$5.82M
+742,A Few Good Men,Rob Reiner,(1992),138 min,"Drama, Thriller",7.7,R,$141.34M
+743,Boogie Nights,Paul Thomas Anderson,(1997),155 min,Drama,7.9,R,$26.40M
+744,Nobody,Ilya Naishuller,(I) (2021),92 min,"Action, Crime, Drama",7.4,R,$27.27M
+745,The Little Mermaid,Ron Clements,(1989),83 min,"Animation, Adventure, Family",7.6,G,$111.54M
+746,Fantastic Four: Rise of the Silver Surfer,Tim Story,(2007),92 min,"Action, Adventure, Fantasy",5.6,PG,$131.92M
+747,Annie Hall,Woody Allen,(1977),93 min,"Comedy, Romance",8.0,PG,$39.20M
+748,Scary Movie,Keenen Ivory Wayans,(2000),88 min,Comedy,6.2,R,$157.02M
+749,Warcraft,Duncan Jones,(2016),123 min,"Action, Adventure, Fantasy",6.7,PG-13,$47.37M
+750,Non-Stop,Jaume Collet-Serra,(2014),106 min,"Action, Mystery, Thriller",6.9,PG-13,$92.17M
+751,The Blair Witch Project,Daniel Myrick,(1999),81 min,"Horror, Mystery",6.5,R,$140.54M
+752,The Sting,George Roy Hill,(1973),129 min,"Comedy, Crime, Drama",8.3,PG,$159.60M
+753,Enemy at the Gates,Jean-Jacques Annaud,(2001),131 min,"Action, Drama, War",7.5,R,$51.40M
+754,The Village,M. Night Shyamalan,(2004),108 min,"Drama, Mystery, Thriller",6.6,PG-13,$114.20M
+755,How the Grinch Stole Christmas,Ron Howard,(2000),104 min,"Comedy, Family, Fantasy",6.3,PG,$260.04M
+756,True Lies,James Cameron,(1994),141 min,"Action, Comedy, Thriller",7.3,R,$146.28M
+757,The Lobster,Yorgos Lanthimos,(2015),119 min,"Drama, Romance, Sci-Fi",7.1,R,$8.70M
+758,Murder on the Orient Express,Kenneth Branagh,(2017),114 min,"Crime, Drama, Mystery",6.5,PG-13,$102.83M
+759,Cinema Paradiso,Giuseppe Tornatore,(1988),155 min,"Drama, Romance",8.5,R,$11.99M
+760,RoboCop,Paul Verhoeven,(1987),102 min,"Action, Crime, Sci-Fi",7.6,R,$53.42M
+761,Blow,Ted Demme,(2001),124 min,"Biography, Crime, Drama",7.5,R,$52.99M
+762,Lethal Weapon,Richard Donner,(1987),109 min,"Action, Crime, Thriller",7.6,R,$65.21M
+763,Seven Psychopaths,Martin McDonagh,(2012),110 min,"Comedy, Crime",7.1,R,$15.02M
+764,Unknown,Jaume Collet-Serra,(I) (2011),113 min,"Action, Mystery, Thriller",6.8,PG-13,$63.69M
+765,Lincoln,Steven Spielberg,(2012),150 min,"Biography, Drama, History",7.3,PG-13,$182.21M
+766,War for the Planet of the Apes,Matt Reeves,(2017),140 min,"Action, Adventure, Drama",7.4,PG-13,$146.88M
+767,Me Before You,Thea Sharrock,(2016),106 min,"Drama, Romance",7.4,PG-13,$56.25M
+768,Final Destination,James Wong,(2000),98 min,"Horror, Thriller",6.7,R,$53.33M
+769,Hotel Transylvania,Genndy Tartakovsky,(2012),91 min,"Animation, Adventure, Comedy",7.0,PG,$148.31M
+770,El Camino: A Breaking Bad Movie,Vince Gilligan,(2019),122 min,"Action, Crime, Drama",7.3,TV-MA,"263,171"
+771,The A-Team,Joe Carnahan,(2010),117 min,"Action, Adventure, Thriller",6.7,PG-13,$77.22M
+772,Dog Day Afternoon,Sidney Lumet,(1975),125 min,"Biography, Crime, Drama",8.0,R,$50.00M
+773,GoldenEye,Martin Campbell,(1995),130 min,"Action, Adventure, Thriller",7.2,PG-13,$106.60M
+774,The Adjustment Bureau,George Nolfi,(2011),106 min,"Romance, Sci-Fi, Thriller",7.0,PG-13,$62.50M
+775,For a Few Dollars More,Sergio Leone,(1965),132 min,Western,8.2,R,$15.00M
+776,American Pie 2,J.B. Rogers,(2001),108 min,Comedy,6.4,R,$145.10M
+777,Sinister,Scott Derrickson,(I) (2012),110 min,"Horror, Mystery, Thriller",6.8,R,$48.09M
+778,Hook,Steven Spielberg,(1991),142 min,"Adventure, Comedy, Family",6.8,PG,$119.65M
+779,Dawn of the Dead,Zack Snyder,(2004),101 min,"Action, Horror",7.3,R,$59.02M
+780,First Blood,Ted Kotcheff,(1982),93 min,"Action, Adventure, Thriller",7.7,R,$47.21M
+781,Vicky Cristina Barcelona,Woody Allen,(2008),96 min,"Comedy, Drama, Romance",7.1,PG-13,$23.22M
+782,Jumanji: The Next Level,Jake Kasdan,(2019),123 min,"Action, Adventure, Comedy",6.7,PG-13,$316.83M
+783,Wind River,Taylor Sheridan,(2017),107 min,"Crime, Drama, Mystery",7.7,R,$33.80M
+784,Noah,Darren Aronofsky,(2014),138 min,"Action, Adventure, Drama",5.8,PG-13,$101.20M
+785,Toy Story 4,Josh Cooley,(2019),100 min,"Animation, Adventure, Comedy",7.7,G,$434.04M
+786,Changeling,Clint Eastwood,(2008),141 min,"Biography, Crime, Drama",7.8,R,$35.74M
+787,Grown Ups,Dennis Dugan,(I) (2010),102 min,Comedy,5.9,PG-13,$162.00M
+788,Maze Runner: The Scorch Trials,Wes Ball,(2015),131 min,"Action, Adventure, Sci-Fi",6.3,PG-13,$81.70M
+789,Total Recall,Len Wiseman,(I) (2012),118 min,"Action, Adventure, Sci-Fi",6.2,PG-13,$58.88M
+790,Saw II,Darren Lynn Bousman,(2005),93 min,"Horror, Mystery",6.6,R,$87.04M
+791,The Intern,Nancy Meyers,(I) (2015),121 min,"Comedy, Drama",7.1,PG-13,$75.76M
+792,The Matrix Resurrections,Lana Wachowski,(2021),148 min,"Action, Sci-Fi",5.7,R,"258,422"
+793,Batman & Robin,Joel Schumacher,(1997),125 min,"Action, Sci-Fi",3.7,PG-13,$107.33M
+794,Paul,Greg Mottola,(2011),104 min,"Adventure, Comedy, Sci-Fi",6.9,R,$37.41M
+795,Chappie,Neill Blomkamp,(2015),120 min,"Action, Crime, Drama",6.8,R,$31.57M
+796,Batman Forever,Joel Schumacher,(1995),121 min,"Action, Adventure",5.4,PG-13,$184.03M
+797,RocknRolla,Guy Ritchie,(2008),114 min,"Action, Crime, Thriller",7.2,R,$5.69M
+798,21,Robert Luketic,(2008),123 min,"Crime, Drama, History",6.8,PG-13,$81.16M
+799,Bad Boys II,Michael Bay,(2003),147 min,"Action, Comedy, Crime",6.6,R,$138.61M
+800,Focus,Glenn Ficarra,(II) (2015),105 min,"Comedy, Crime, Drama",6.6,R,$53.86M
+801,Perfume: The Story of a Murderer,Tom Tykwer,(2006),147 min,"Crime, Drama, Fantasy",7.5,R,$2.22M
+802,The Grey,Joe Carnahan,(2011),117 min,"Action, Adventure, Drama",6.7,R,$51.58M
+803,Dodgeball: A True Underdog Story,Rawson Marshall Thurber,(2004),92 min,"Comedy, Sport",6.7,PG-13,$114.33M
+804,Walk the Line,James Mangold,(2005),136 min,"Biography, Drama, Music",7.8,PG-13,$119.52M
+805,Chronicle,Josh Trank,(2012),84 min,"Action, Drama, Sci-Fi",7.0,PG-13,$64.58M
+806,Sunshine,Danny Boyle,(2007),107 min,"Sci-Fi, Thriller",7.2,R,$3.68M
+807,End of Watch,David Ayer,(2012),109 min,"Action, Adventure, Crime",7.6,R,$41.00M
+808,Identity,James Mangold,(2003),90 min,"Mystery, Thriller",7.3,R,$52.16M
+809,Crank,Mark Neveldine,(2006),88 min,"Action, Crime, Thriller",6.9,R,$27.83M
+810,Das Boot,Wolfgang Petersen,(1981),149 min,"Drama, War",8.4,R,$11.49M
+811,Black Panther: Wakanda Forever,Ryan Coogler,(2022),161 min,"Action, Adventure, Drama",6.7,PG-13,$453.72M
+812,Mamma Mia!,Phyllida Lloyd,(2008),108 min,"Comedy, Musical, Romance",6.5,PG-13,$144.13M
+813,The Twilight Saga: Breaking Dawn - Part 2,Bill Condon,(2012),115 min,"Adventure, Drama, Fantasy",5.5,PG-13,$292.30M
+814,Alien: Resurrection,Jean-Pierre Jeunet,(1997),109 min,"Action, Horror, Sci-Fi",6.2,R,$47.75M
+815,Ice Age: Dawn of the Dinosaurs,Carlos Saldanha,(2009),94 min,"Animation, Adventure, Comedy",6.9,PG,$196.57M
+816,The Lion King,Jon Favreau,(2019),118 min,"Animation, Adventure, Drama",6.8,PG,$543.64M
+817,Just Go with It,Dennis Dugan,(2011),117 min,"Comedy, Romance",6.4,PG-13,$103.03M
+818,Glass,M. Night Shyamalan,(2019),129 min,"Drama, Horror, Sci-Fi",6.6,PG-13,$111.05M
+819,Battleship,Peter Berg,(2012),131 min,"Action, Adventure, Sci-Fi",5.8,PG-13,$65.42M
+820,The Twilight Saga: Eclipse,David Slade,(2010),124 min,"Action, Adventure, Drama",5.0,PG-13,$300.53M
+821,Star Trek Beyond,Justin Lin,(2016),122 min,"Action, Adventure, Sci-Fi",7.0,PG-13,$158.85M
+822,The Reader,Stephen Daldry,(2008),124 min,"Drama, Romance",7.6,R,$34.19M
+823,It Follows,David Robert Mitchell,(2014),100 min,"Horror, Mystery, Thriller",6.8,R,$14.67M
+824,The Bucket List,Rob Reiner,(2007),97 min,"Adventure, Comedy, Drama",7.4,PG-13,$93.47M
+825,Meet Joe Black,Martin Brest,(1998),178 min,"Drama, Fantasy, Romance",7.2,PG-13,$44.62M
+826,Bridget Jones's Diary,Sharon Maguire,(2001),97 min,"Comedy, Drama, Romance",6.8,R,$71.54M
+827,Enemy of the State,Tony Scott,(1998),132 min,"Action, Thriller",7.3,R,$111.55M
+828,Valkyrie,Bryan Singer,(2008),121 min,"Drama, History, Thriller",7.1,PG-13,$83.08M
+829,Spy,Paul Feig,(2015),120 min,"Action, Comedy",7.0,R,$110.83M
+830,Eastern Promises,David Cronenberg,(2007),100 min,"Crime, Drama, Thriller",7.6,R,$17.11M
+831,How to Lose a Guy in 10 Days,Donald Petrie,(2003),116 min,"Comedy, Romance",6.4,PG-13,$105.81M
+832,A Separation,Asghar Farhadi,(2011),123 min,Drama,8.3,PG-13,$7.10M
+833,Escape Plan,Mikael Håfström,(2013),115 min,"Action, Thriller",6.7,R,$25.13M
+834,The Great Escape,John Sturges,(1963),172 min,"Adventure, Drama, History",8.2,Approved,$12.10M
+835,The Tourist,Florian Henckel von Donnersmarck,(I) (2010),103 min,"Action, Thriller",6.0,PG-13,$67.63M
+836,Singin' in the Rain,Stanley Donen,(1952),103 min,"Comedy, Musical, Romance",8.3,G,$8.82M
+837,Philadelphia,Jonathan Demme,(1993),125 min,Drama,7.7,PG-13,$77.32M
+838,Birds of Prey,Cathy Yan,(2020),109 min,"Action, Comedy, Crime",6.0,R,$84.16M
+839,Modern Times,Charles Chaplin,(1936),87 min,"Comedy, Drama, Romance",8.5,G,$0.16M
+840,Airplane!,Jim Abrahams,(1980),88 min,Comedy,7.7,PG,$83.40M
+841,A Nightmare on Elm Street,Wes Craven,(1984),91 min,Horror,7.4,R,$25.50M
+842,The Elephant Man,David Lynch,(1980),124 min,"Biography, Drama",8.2,PG,"246,372"
+843,Austin Powers: International Man of Mystery,Jay Roach,(1997),89 min,"Adventure, Comedy",7.0,PG-13,$53.88M
+844,Lawless,John Hillcoat,(2012),116 min,"Biography, Crime, Drama",7.2,R,$37.40M
+845,Sucker Punch,Zack Snyder,(2011),110 min,"Action, Adventure, Fantasy",6.0,PG-13,$36.39M
+846,Paranormal Activity,Oren Peli,(2007),86 min,"Horror, Mystery",6.3,R,$107.92M
+847,Pitch Black,David Twohy,(2000),109 min,"Action, Horror, Sci-Fi",7.1,R,$39.24M
+848,Ender's Game,Gavin Hood,(2013),114 min,"Action, Adventure, Sci-Fi",6.6,PG-13,$61.74M
+849,Southpaw,Antoine Fuqua,(2015),124 min,"Action, Crime, Drama",7.3,R,$52.42M
+850,Minions,Kyle Balda,(2015),91 min,"Animation, Adventure, Comedy",6.4,PG,$336.05M
+851,The Twilight Saga: Breaking Dawn - Part 1,Bill Condon,(2011),117 min,"Adventure, Drama, Fantasy",4.9,PG-13,$281.29M
+852,The Descendants,Alexander Payne,(2011),115 min,"Comedy, Drama",7.3,R,$82.58M
+853,The Beach,Danny Boyle,(I) (2000),119 min,"Adventure, Drama, Romance",6.6,R,$39.79M
+854,The Road,John Hillcoat,(I) (2009),111 min,"Drama, Fantasy",7.2,R,$0.06M
+855,Amores Perros,Alejandro G. Iñárritu,(2000),154 min,"Drama, Thriller",8.1,R,$5.38M
+856,San Andreas,Brad Peyton,(2015),114 min,"Action, Adventure, Thriller",6.1,PG-13,$155.19M
+857,The Artist,Michel Hazanavicius,(I) (2011),100 min,"Comedy, Drama, Romance",7.9,PG-13,$44.67M
+858,Ad Astra,James Gray,(2019),123 min,"Adventure, Drama, Mystery",6.5,PG-13,$50.19M
+859,National Treasure: Book of Secrets,Jon Turteltaub,(2007),124 min,"Action, Adventure, Mystery",6.5,PG,$219.96M
+860,The Divergent Series: Insurgent,Robert Schwentke,(2015),119 min,"Action, Adventure, Sci-Fi",6.2,PG-13,$130.18M
+861,Ghost Rider,Mark Steven Johnson,(2007),110 min,"Action, Fantasy, Thriller",5.3,PG-13,$115.80M
+862,Ben-Hur,William Wyler,(1959),212 min,"Adventure, Drama",8.1,G,$74.70M
+863,A History of Violence,David Cronenberg,(2005),96 min,"Action, Crime, Drama",7.4,R,$31.49M
+864,A Quiet Place Part II,John Krasinski,(2020),97 min,"Drama, Horror, Sci-Fi",7.2,PG-13,$160.07M
+865,The Lincoln Lawyer,Brad Furman,(2011),118 min,"Crime, Drama, Mystery",7.3,R,$58.01M
+866,The Fountain,Darren Aronofsky,(2006),97 min,"Drama, Mystery, Romance",7.2,PG-13,$10.14M
+867,The Sound of Music,Robert Wise,(1965),172 min,"Biography, Drama, Family",8.1,G,$163.21M
+868,What's Eating Gilbert Grape,Lasse Hallström,(1993),118 min,Drama,7.7,PG-13,$9.17M
+869,The Boondock Saints,Troy Duffy,(1999),108 min,"Action, Thriller",7.7,R,$0.03M
+870,Don Jon,Joseph Gordon-Levitt,(2013),90 min,"Comedy, Drama, Romance",6.5,R,$24.48M
+871,"Me, Myself & Irene",Bobby Farrelly,(2000),116 min,Comedy,6.6,R,$90.57M
+872,Cruella,Craig Gillespie,(2021),134 min,"Adventure, Comedy, Crime",7.3,PG-13,$86.10M
+873,Fantastic Mr. Fox,Wes Anderson,(2009),87 min,"Animation, Adventure, Comedy",7.9,PG,$21.00M
+874,Game Night,John Francis Daley,(I) (2018),100 min,"Action, Adventure, Comedy",6.9,R,$69.18M
+875,Cloudy with a Chance of Meatballs,Phil Lord,(2009),90 min,"Animation, Adventure, Comedy",6.9,PG,$124.87M
+876,Lion,Garth Davis,(2016),118 min,"Biography, Drama",8.0,PG-13,$51.74M
+877,I Am Number Four,D.J. Caruso,(2011),111 min,"Action, Adventure, Sci-Fi",6.1,PG-13,$55.10M
+878,Natural Born Killers,Oliver Stone,(1994),119 min,"Action, Crime, Drama",7.2,R,$50.28M
+879,Dirty Dancing,Emile Ardolino,(I) (1987),100 min,"Drama, Music, Romance",7.0,PG-13,$0.62M
+880,21 Grams,Alejandro G. Iñárritu,(2003),124 min,"Crime, Drama, Thriller",7.6,R,$16.29M
+881,Coraline,Henry Selick,(2009),100 min,"Animation, Drama, Family",7.7,PG,$75.29M
+882,The Platform,Galder Gaztelu-Urrutia,(2019),94 min,"Horror, Sci-Fi, Thriller",7.0,TV-MA,"239,961"
+883,Disturbia,D.J. Caruso,(2007),105 min,"Crime, Drama, Mystery",6.8,PG-13,$80.21M
+884,Black Adam,Jaume Collet-Serra,(2022),125 min,"Action, Adventure, Fantasy",6.3,PG-13,$168.15M
+885,Austin Powers: The Spy Who Shagged Me,Jay Roach,(1999),95 min,"Action, Adventure, Comedy",6.6,PG-13,$206.04M
+886,Knowing,Alex Proyas,(2009),121 min,"Action, Mystery, Sci-Fi",6.2,PG-13,$79.96M
+887,Hercules,Ron Clements,(1997),93 min,"Animation, Adventure, Comedy",7.3,G,$99.05M
+888,Hidden Figures,Theodore Melfi,(2016),127 min,"Biography, Drama, History",7.8,PG,$169.61M
+889,The Lone Ranger,Gore Verbinski,(2013),150 min,"Action, Adventure, Western",6.4,PG-13,$89.30M
+890,The Fate of the Furious,F. Gary Gray,(2017),136 min,"Action, Crime, Thriller",6.6,PG-13,$226.01M
+891,Mr. Nobody,Jaco Van Dormael,(2009),141 min,"Drama, Fantasy, Romance",7.8,R,$0.00M
+892,Life,Daniel Espinosa,(I) (2017),104 min,"Horror, Sci-Fi, Thriller",6.6,R,$30.23M
+893,Hell or High Water,David Mackenzie,(II) (2016),102 min,"Crime, Drama, Thriller",7.6,R,$26.86M
+894,Orphan,Jaume Collet-Serra,(2009),123 min,"Horror, Mystery, Thriller",7.0,R,$41.60M
+895,The Passion of the Christ,Mel Gibson,(2004),127 min,Drama,7.2,R,$370.78M
+896,Cube,Vincenzo Natali,(1997),90 min,"Drama, Horror, Mystery",7.2,R,$0.50M
+897,The Hitman's Bodyguard,Patrick Hughes,(2017),118 min,"Action, Comedy, Crime",6.9,R,$75.47M
+898,Rambo,Sylvester Stallone,(2008),92 min,"Action, Adventure, Thriller",7.0,R,$42.75M
+899,Old School,Todd Phillips,(2003),88 min,Comedy,7.0,R,$75.59M
+900,Ghostbusters: Answer the Call,Paul Feig,(2016),117 min,"Action, Comedy, Fantasy",6.8,PG-13,$128.34M
+901,Predators,Nimród Antal,(2010),107 min,"Action, Adventure, Fantasy",6.4,R,$52.00M
+902,Gandhi,Richard Attenborough,(1982),191 min,"Biography, Drama, History",8.0,PG,$52.77M
+903,The Adventures of Tintin,Steven Spielberg,(2011),107 min,"Animation, Action, Adventure",7.3,PG,$77.59M
+904,No Strings Attached,Ivan Reitman,(I) (2011),108 min,"Comedy, Romance",6.2,R,$70.66M
+905,The Invisible Man,Leigh Whannell,(I) (2020),124 min,"Drama, Horror, Mystery",7.1,R,$70.41M
+906,Warm Bodies,Jonathan Levine,(2013),98 min,"Comedy, Horror, Romance",6.8,PG-13,$66.38M
+907,Silent Hill,Christophe Gans,(2006),125 min,"Horror, Mystery",6.5,R,$46.98M
+908,Rio,Carlos Saldanha,(2011),96 min,"Animation, Adventure, Comedy",6.9,G,$143.62M
+909,Role Models,David Wain,(2008),99 min,Comedy,6.8,R,$67.29M
+910,Chicago,Rob Marshall,(2002),113 min,"Comedy, Crime, Musical",7.2,PG-13,$170.69M
+911,Madagascar: Escape 2 Africa,Eric Darnell,(2008),89 min,"Animation, Adventure, Comedy",6.6,PG,$180.01M
+912,Romeo + Juliet,Baz Luhrmann,(1996),120 min,"Drama, Romance",6.7,PG-13,$46.35M
+913,The Chronicles of Riddick,David Twohy,(2004),119 min,"Action, Adventure, Sci-Fi",6.6,R,$57.76M
+914,Venom: Let There Be Carnage,Andy Serkis,(2021),97 min,"Action, Sci-Fi, Thriller",5.9,PG-13,$213.55M
+915,Mother!,Darren Aronofsky,(2017),121 min,"Drama, Horror, Mystery",6.6,R,$17.80M
+916,Mars Attacks!,Tim Burton,(1996),106 min,"Comedy, Sci-Fi",6.4,PG-13,$37.77M
+917,Encanto,Jared Bush,(2021),102 min,"Animation, Comedy, Family",7.2,PG,$96.09M
+918,Happy Gilmore,Dennis Dugan,(1996),92 min,"Comedy, Sport",7.0,PG-13,$38.62M
+919,Tarzan,Chris Buck,(1999),88 min,"Animation, Adventure, Comedy",7.3,G,$171.09M
+920,Gremlins,Joe Dante,(1984),106 min,"Comedy, Fantasy, Horror",7.3,PG,$148.17M
+921,Transcendence,Wally Pfister,(I) (2014),119 min,"Action, Drama, Sci-Fi",6.2,PG-13,$23.02M
+922,RoboCop,José Padilha,(2014),117 min,"Action, Crime, Sci-Fi",6.1,PG-13,$58.61M
+923,Jason Bourne,Paul Greengrass,(I) (2016),123 min,"Action, Thriller",6.6,PG-13,$162.43M
+924,Body of Lies,Ridley Scott,(2008),128 min,"Action, Drama, Thriller",7.0,R,$39.39M
+925,True Romance,Tony Scott,(1993),119 min,"Crime, Drama, Romance",7.9,R,$12.28M
+926,The Babadook,Jennifer Kent,(2014),94 min,"Horror, Mystery",6.8,Not Rated,$0.92M
+927,Stranger Than Fiction,Marc Forster,(2006),113 min,"Comedy, Drama, Fantasy",7.5,PG-13,$40.14M
+928,The Descent,Neil Marshall,(2005),99 min,"Adventure, Horror, Thriller",7.2,R,$26.02M
+929,The Karate Kid,John G. Avildsen,(1984),126 min,"Action, Drama, Family",7.3,PG,$90.82M
+930,Train to Busan,Sang-ho Yeon,(2016),118 min,"Action, Horror, Thriller",7.6,Not Rated,$2.13M
+931,Munich,Steven Spielberg,(2005),164 min,"Action, Drama, History",7.5,R,$47.40M
+932,Kiss Kiss Bang Bang,Shane Black,(2005),103 min,"Comedy, Crime, Mystery",7.5,R,$4.24M
+933,The Impossible,J.A. Bayona,(2012),114 min,"Adventure, Drama, History",7.5,PG-13,$19.02M
+934,Primal Fear,Gregory Hoblit,(1996),129 min,"Crime, Drama, Mystery",7.7,R,$56.12M
+935,The Purge,James DeMonaco,(I) (2013),85 min,"Horror, Sci-Fi, Thriller",5.7,R,$64.47M
+936,Sleepers,Barry Levinson,(1996),147 min,"Crime, Drama, Thriller",7.5,R,$49.10M
+937,War Dogs,Todd Phillips,(2016),114 min,"Biography, Comedy, Crime",7.1,R,$43.03M
+938,The Girl Next Door,Luke Greenfield,(2004),109 min,"Comedy, Drama, Romance",6.7,R,$14.59M
+939,Shakespeare in Love,John Madden,(1998),123 min,"Comedy, Drama, History",7.1,R,$100.32M
+940,Big,Penny Marshall,(1988),104 min,"Comedy, Drama, Fantasy",7.3,PG,$114.97M
+941,The Lighthouse,Robert Eggers,(I) (2019),109 min,"Drama, Fantasy, Mystery",7.4,R,$0.43M
+942,The Great Dictator,Charles Chaplin,(1940),125 min,"Comedy, Drama, War",8.4,G,$0.29M
+943,White House Down,Roland Emmerich,(2013),131 min,"Action, Drama, Thriller",6.3,PG-13,$73.10M
+944,Ip Man,Wilson Yip,(2008),106 min,"Action, Biography, Drama",8.0,R,"227,395"
+945,Clueless,Amy Heckerling,(1995),97 min,"Comedy, Romance",6.9,PG-13,$56.63M
+946,The Boy in the Striped Pajamas,Mark Herman,(2008),94 min,"Drama, War",7.7,PG-13,$9.03M
+947,When Harry Met Sally...,Rob Reiner,(1989),95 min,"Comedy, Drama, Romance",7.7,R,$92.82M
+948,Legally Blonde,Robert Luketic,(2001),96 min,"Comedy, Romance",6.4,PG-13,$96.52M
+949,Master and Commander: The Far Side of the World,Peter Weir,(2003),138 min,"Action, Adventure, Drama",7.4,PG-13,$93.93M
+950,Ocean's Eight,Gary Ross,(2018),110 min,"Action, Comedy, Crime",6.3,PG-13,$140.22M
+951,Safe House,Daniel Espinosa,(2012),115 min,"Action, Thriller",6.7,R,$126.37M
+952,Rush Hour 2,Brett Ratner,(2001),90 min,"Action, Comedy, Crime",6.6,PG-13,$226.16M
+953,Clerks,Kevin Smith,(1994),92 min,Comedy,7.7,R,$3.15M
+954,Napoleon Dynamite,Jared Hess,(2004),96 min,Comedy,6.9,PG,$44.54M
+955,Closer,Mike Nichols,(I) (2004),104 min,"Drama, Romance",7.2,R,$33.99M
+956,Sunset Blvd.,Billy Wilder,(1950),110 min,"Drama, Film-Noir",8.4,Passed,"225,642"
+957,The Ides of March,George Clooney,(2011),101 min,"Drama, Thriller",7.1,R,$40.96M
+958,"I, Tonya",Craig Gillespie,(2017),119 min,"Biography, Comedy, Drama",7.5,R,$30.01M
+959,Cowboys & Aliens,Jon Favreau,(2011),119 min,"Action, Sci-Fi, Thriller",6.0,PG-13,$100.24M
+960,The Bridge on the River Kwai,David Lean,(1957),161 min,"Adventure, Drama, War",8.2,PG,$44.91M
+961,Thank You for Smoking,Jason Reitman,(2005),92 min,"Comedy, Drama",7.5,R,$24.79M
+962,Blade II,Guillermo del Toro,(2002),117 min,"Action, Horror, Sci-Fi",6.7,R,$82.35M
+963,The Northman,Robert Eggers,(2022),137 min,"Action, Adventure, Drama",7.1,R,"224,056"
+964,Captain Fantastic,Matt Ross,(2016),118 min,"Comedy, Drama",7.8,R,$5.88M
+965,Dracula,Francis Ford Coppola,(1992),128 min,"Drama, Fantasy, Horror",7.4,R,$82.52M
+966,Big Daddy,Dennis Dugan,(1999),93 min,"Comedy, Drama",6.4,PG-13,$163.48M
+967,Ghost,Jerry Zucker,(1990),127 min,"Drama, Fantasy, Romance",7.1,PG-13,$217.63M
+968,Uncharted,Ruben Fleischer,(2022),116 min,"Action, Adventure",6.3,PG-13,$148.65M
+969,Ace Ventura: When Nature Calls,Steve Oedekerk,(1995),90 min,"Adventure, Comedy, Crime",6.4,PG-13,$108.39M
+970,The Ugly Truth,Robert Luketic,(2009),96 min,"Comedy, Romance",6.4,R,$88.92M
+971,Daredevil,Mark Steven Johnson,(2003),103 min,"Action, Crime",5.3,PG-13,$102.54M
+972,Rocky Balboa,Sylvester Stallone,(2006),102 min,"Action, Drama, Sport",7.1,PG,$70.27M
+973,Carlito's Way,Brian De Palma,(1993),144 min,"Crime, Drama, Thriller",7.9,R,$36.95M
+974,Planet of the Apes,Tim Burton,(2001),119 min,"Action, Adventure, Sci-Fi",5.7,PG-13,$180.01M
+975,Die Another Day,Lee Tamahori,(2002),133 min,"Action, Adventure, Thriller",6.1,PG-13,$160.94M
+976,Everest,Baltasar Kormákur,(2015),121 min,"Action, Adventure, Biography",7.1,PG-13,$43.48M
+977,King Arthur: Legend of the Sword,Guy Ritchie,(2017),126 min,"Action, Adventure, Drama",6.7,PG-13,$39.18M
+978,Rosemary's Baby,Roman Polanski,(1968),137 min,"Drama, Horror",8.0,Approved,"222,225"
+979,A Fistful of Dollars,Sergio Leone,(1964),99 min,"Action, Drama, Western",7.9,R,$14.50M
+980,Dogma,Kevin Smith,(1999),130 min,"Adventure, Comedy, Drama",7.3,R,$30.65M
+981,Get Smart,Peter Segal,(2008),110 min,"Action, Adventure, Comedy",6.5,PG-13,$130.32M
+982,Match Point,Woody Allen,(2005),124 min,"Drama, Romance, Thriller",7.6,R,$23.09M
+983,Pain & Gain,Michael Bay,(2013),129 min,"Action, Comedy, Crime",6.4,R,$49.88M
+984,Chef,Jon Favreau,(2014),114 min,"Adventure, Comedy, Drama",7.3,R,$30.64M
+985,The Polar Express,Robert Zemeckis,(2004),100 min,"Animation, Adventure, Comedy",6.6,G,$183.37M
+986,The Croods,Kirk DeMicco,(2013),98 min,"Animation, Action, Adventure",7.2,PG,$187.17M
+987,Remember the Titans,Boaz Yakin,(2000),113 min,"Biography, Drama, Sport",7.8,PG,$115.65M
+988,Let the Right One In,Tomas Alfredson,(2008),114 min,"Drama, Fantasy, Horror",7.9,R,$2.12M
+989,Anger Management,Peter Segal,(2003),106 min,Comedy,6.2,PG-13,$135.65M
+990,Butch Cassidy and the Sundance Kid,George Roy Hill,(1969),110 min,"Biography, Crime, Drama",8.0,PG,$102.31M
+991,Ghost in the Shell,Rupert Sanders,(2017),107 min,"Action, Crime, Drama",6.3,PG-13,$40.56M
+992,You've Got Mail,Nora Ephron,(1998),119 min,"Comedy, Drama, Romance",6.7,PG,$115.82M
+993,Fast & Furious Presents: Hobbs & Shaw,David Leitch,(2019),137 min,"Action, Adventure, Thriller",6.5,PG-13,$173.96M
+994,Misery,Rob Reiner,(1990),107 min,"Drama, Thriller",7.8,R,$61.28M
+995,Garden State,Zach Braff,(2004),102 min,"Comedy, Drama, Romance",7.4,R,$26.78M
+996,The Girl with the Dragon Tattoo,Niels Arden Oplev,(2009),152 min,"Crime, Drama, Mystery",7.8,R,$10.10M
+997,Rocky II,Sylvester Stallone,(1979),119 min,"Drama, Sport",7.3,PG,"218,992"
+998,Tomb Raider,Roar Uthaug,(2018),119 min,"Action, Adventure, Fantasy",6.3,PG-13,$58.25M
+999,Gangster Squad,Ruben Fleischer,(2013),113 min,"Action, Crime, Drama",6.7,R,$46.00M
+1000,American Reunion,Jon Hurwitz,(2012),113 min,Comedy,6.7,R,$57.01M
+1001,Project X,Nima Nourizadeh,(2012),88 min,Comedy,6.6,R,$54.73M
+1002,Revolutionary Road,Sam Mendes,(2008),119 min,"Drama, Romance",7.3,R,$22.91M
+1003,2 Guns,Baltasar Kormákur,(2013),109 min,"Action, Thriller",6.7,R,$75.61M
+1004,The Talented Mr. Ripley,Anthony Minghella,(1999),139 min,"Crime, Drama, Thriller",7.4,R,$81.30M
+1005,The Magnificent Seven,Antoine Fuqua,(2016),132 min,"Action, Adventure, Western",6.8,PG-13,$93.43M
+1006,Bolt,Byron Howard,(2008),96 min,"Animation, Adventure, Comedy",6.8,PG,$114.05M
+1007,Ted 2,Seth MacFarlane,(2015),115 min,Comedy,6.3,R,$81.48M
+1008,Godzilla vs. Kong,Adam Wingard,(2021),113 min,"Action, Sci-Fi, Thriller",6.3,PG-13,$100.92M
+1009,Miss Congeniality,Donald Petrie,(2000),109 min,"Action, Comedy, Crime",6.3,PG-13,$106.81M
+1010,The Evil Dead,Sam Raimi,(1981),85 min,Horror,7.4,NC-17,$2.40M
+1011,Little Women,Greta Gerwig,(2019),135 min,"Drama, Romance",7.8,PG,$108.10M
+1012,The Chronicles of Narnia: Prince Caspian,Andrew Adamson,(2008),150 min,"Action, Adventure, Family",6.5,PG,$141.62M
+1013,Planet Terror,Robert Rodriguez,(2007),105 min,"Action, Comedy, Horror",7.1,R,"215,685"
+1014,Nope,Jordan Peele,(2022),130 min,"Horror, Mystery, Sci-Fi",6.8,R,$123.28M
+1015,A Walk to Remember,Adam Shankman,(2002),101 min,"Drama, Romance",7.3,PG,$41.28M
+1016,Austin Powers in Goldmember,Jay Roach,(2002),94 min,"Action, Adventure, Comedy",6.2,PG-13,$213.31M
+1017,Ice Age: Continental Drift,Steve Martino,(2012),88 min,"Animation, Adventure, Comedy",6.5,PG,$161.32M
+1018,Rocky IV,Sylvester Stallone,(1985),91 min,"Drama, Sport",6.9,PG,$127.87M
+1019,Teenage Mutant Ninja Turtles,Jonathan Liebesman,(2014),101 min,"Action, Adventure, Comedy",5.8,PG-13,$191.20M
+1020,EuroTrip,Jeff Schaffer,(2004),92 min,Comedy,6.6,R,$17.72M
+1021,Coming to America,John Landis,(1988),117 min,"Comedy, Romance",7.1,R,$128.15M
+1022,P.S. I Love You,Richard LaGravenese,(2007),126 min,"Comedy, Drama, Romance",7.0,PG-13,$53.70M
+1023,A Series of Unfortunate Events,Brad Silberling,(2004),108 min,"Adventure, Comedy, Family",6.8,PG,$118.63M
+1024,The Secret in Their Eyes,Juan José Campanella,(2009),129 min,"Drama, Mystery, Romance",8.2,R,$6.39M
+1025,Lara Croft: Tomb Raider,Simon West,(2001),100 min,"Action, Adventure, Fantasy",5.7,PG-13,$131.14M
+1026,What Women Want,Nancy Meyers,(2000),127 min,"Comedy, Fantasy, Romance",6.4,PG-13,$182.81M
+1027,The Gray Man,Anthony Russo,(2022),122 min,"Action, Thriller",6.5,PG-13,"212,914"
+1028,Shrek Forever After,Mike Mitchell,(2010),95 min,"Animation, Adventure, Comedy",6.3,PG,$238.37M
+1029,Death Race,Paul W.S. Anderson,(2008),105 min,"Action, Sci-Fi, Thriller",6.4,R,$36.32M
+1030,Ghostbusters II,Ivan Reitman,(1989),108 min,"Action, Comedy, Fantasy",6.6,PG,$112.49M
+1031,Mad Max,George Miller,(1979),88 min,"Action, Adventure, Sci-Fi",6.8,R,$8.75M
+1032,The Tomorrow War,Chris McKay,(2021),138 min,"Action, Adventure, Drama",6.5,PG-13,"211,907"
+1033,Traffic,Steven Soderbergh,(2000),147 min,"Crime, Drama, Thriller",7.6,R,$124.12M
+1034,G.I. Joe: The Rise of Cobra,Stephen Sommers,(2009),118 min,"Action, Adventure, Sci-Fi",5.7,PG-13,$152.27M
+1035,Extraction,Sam Hargrave,(2020),116 min,"Action, Thriller",6.7,R,"211,078"
+1036,The Happening,M. Night Shyamalan,(2008),91 min,"Adventure, Drama, Sci-Fi",5.0,R,$64.51M
+1037,The Emperor's New Groove,Mark Dindal,(2000),78 min,"Animation, Adventure, Comedy",7.4,G,$89.30M
+1038,The Adam Project,Shawn Levy,(2022),106 min,"Action, Adventure, Comedy",6.7,PG-13,"210,894"
+1039,"I Love You, Man",John Hamburg,(2009),105 min,"Comedy, Romance",7.0,R,$71.44M
+1040,Oz the Great and Powerful,Sam Raimi,(2013),130 min,"Adventure, Family, Fantasy",6.3,PG,$234.91M
+1041,Hansel & Gretel: Witch Hunters,Tommy Wirkola,(2013),88 min,"Action, Fantasy, Horror",6.1,R,$55.70M
+1042,American Wedding,Jesse Dylan,(2003),96 min,Comedy,6.3,R,$104.57M
+1043,A Good Day to Die Hard,John Moore,(2013),98 min,"Action, Thriller",5.2,R,$67.35M
+1044,Fracture,Gregory Hoblit,(2007),113 min,"Crime, Drama, Thriller",7.2,R,$39.02M
+1045,Love & Other Drugs,Edward Zwick,(2010),112 min,"Comedy, Drama, Romance",6.7,R,$32.37M
+1046,Enchanted,Kevin Lima,(2007),107 min,"Animation, Adventure, Comedy",7.1,PG,$127.81M
+1047,The Raid: Redemption,Gareth Evans,(2011),101 min,"Action, Crime, Thriller",7.6,R,$4.11M
+1048,"South Park: Bigger, Longer & Uncut",Trey Parker,(1999),81 min,"Animation, Comedy, Fantasy",7.7,R,$52.04M
+1049,Drag Me to Hell,Sam Raimi,(2009),99 min,Horror,6.6,PG-13,$42.10M
