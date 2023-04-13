@@ -1,0 +1,3401 @@
+,title,release_date,rating,critic_score,audience_score
+0,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+1,The Godfather,"March 24, 1972",| R,100,9.2
+2,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+3,Rear Window,"September 1, 1954",| TV-G,100,8.7
+4,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+5,Boyhood,"July 11, 2014",| R,100,7.4
+6,Three Colors: Red,"November 23, 1994",| R,100,8.5
+7,Vertigo,"May 28, 1958",| PG,100,8.6
+8,Notorious,"September 6, 1946",| Approved,100,7.9
+9,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+10,Playtime,"June 27, 1973",| Not Rated,99,tbd
+11,City Lights,"March 7, 1931",| Passed,99,8.7
+12,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+13,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+14,Pinocchio,"February 23, 1940",| Passed,99,8.0
+15,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+16,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+17,The Wild Bunch,"June 18, 1969",| R,98,7.6
+18,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+19,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+20,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+21,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+22,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+23,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+24,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+25,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+26,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+27,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+28,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+29,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+30,My Left Foot,"November 10, 1989",| R,97,8.3
+31,Ran,"December 20, 1985",| R,97,8.4
+32,The Third Man,"September 3, 1949",| Approved,97,8.4
+33,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+34,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+35,Psycho,"September 8, 1960",| M,97,8.8
+36,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+37,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+38,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+39,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+40,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+41,American Graffiti,"August 11, 1973",| PG,97,7.4
+42,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+43,Dumbo,"October 31, 1941",| Approved,96,7.7
+44,Roma,"November 21, 2018",| Not Rated,96,7.7
+45,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+46,Parasite,"October 11, 2019",| Not Rated,96,8.7
+47,Spirited Away,"September 20, 2002",| PG,96,8.9
+48,Toy Story,"November 22, 1995",| TV-G,96,8.8
+49,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+50,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+51,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+52,12 Years a Slave,"October 18, 2013",| R,96,8.0
+53,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+54,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+55,Nashville,"June 11, 1975",| R,96,8.0
+56,Red River,"September 17, 1948",| Passed,96,tbd
+57,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+58,Ratatouille,"June 29, 2007",| G,96,8.6
+59,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+60,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+61,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+62,Mean Streets,"October 14, 1973",| R,96,7.3
+63,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+64,Gravity,"October 4, 2013",| PG-13,96,7.8
+65,Fantasia,"November 13, 1940",| Approved,96,8.3
+66,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+67,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+68,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+69,Don't Look Now,"December 9, 1973",| R,95,6.8
+70,The Social Network,"October 1, 2010",| PG-13,95,8.2
+71,My Fair Lady,"December 25, 1964",| G,95,7.4
+72,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+73,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+74,Woodstock,"March 26, 1970",| R,95,tbd
+75,Past Lives,TBA,| PG-13,95,tbd
+76,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+77,Rocks,"February 1, 2021",| TV-MA,95,6.6
+78,Amour,"December 19, 2012",| PG-13,95,8.1
+79,The Hurt Locker,"June 26, 2009",| R,95,7.3
+80,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+81,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+82,Collective,"November 20, 2020",| Not Rated,95,7.8
+83,A Separation,"December 30, 2011",| PG-13,95,8.8
+84,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+85,Sunrise,"November 4, 1927",| Passed,95,tbd
+86,Schindler's List,"December 15, 1993",| R,95,8.8
+87,Pulp Fiction,"October 14, 1994",| R,95,9.0
+88,WALL-E,"June 27, 2008",| G,95,8.8
+89,Carol,"November 20, 2015",| R,94,7.9
+90,Before Midnight,"May 24, 2013",| R,94,8.3
+91,Amazing Grace,,"November 23, 2018",94,8.2
+92,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+93,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+94,The Searchers,"May 26, 1956",| Passed,94,7.4
+95,45 Years,"December 23, 2015",| Not Rated,94,7.3
+96,Taxi Driver,"February 7, 1976",| R,94,7.7
+97,The Servant,"March 16, 1964",| Unrated,94,7.5
+98,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+99,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+100,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+101,The Godfather,"March 24, 1972",| R,100,9.2
+102,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+103,Rear Window,"September 1, 1954",| TV-G,100,8.7
+104,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+105,Boyhood,"July 11, 2014",| R,100,7.4
+106,Three Colors: Red,"November 23, 1994",| R,100,8.5
+107,Vertigo,"May 28, 1958",| PG,100,8.6
+108,Notorious,"September 6, 1946",| Approved,100,7.9
+109,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+110,Playtime,"June 27, 1973",| Not Rated,99,tbd
+111,City Lights,"March 7, 1931",| Passed,99,8.7
+112,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+113,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+114,Pinocchio,"February 23, 1940",| Passed,99,8.0
+115,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+116,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+117,The Wild Bunch,"June 18, 1969",| R,98,7.6
+118,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+119,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+120,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+121,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+122,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+123,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+124,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+125,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+126,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+127,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+128,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+129,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+130,My Left Foot,"November 10, 1989",| R,97,8.3
+131,Ran,"December 20, 1985",| R,97,8.4
+132,The Third Man,"September 3, 1949",| Approved,97,8.4
+133,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+134,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+135,Psycho,"September 8, 1960",| M,97,8.8
+136,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+137,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+138,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+139,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+140,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+141,American Graffiti,"August 11, 1973",| PG,97,7.4
+142,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+143,Dumbo,"October 31, 1941",| Approved,96,7.7
+144,Roma,"November 21, 2018",| Not Rated,96,7.7
+145,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+146,Parasite,"October 11, 2019",| Not Rated,96,8.7
+147,Spirited Away,"September 20, 2002",| PG,96,8.9
+148,Toy Story,"November 22, 1995",| TV-G,96,8.8
+149,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+150,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+151,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+152,12 Years a Slave,"October 18, 2013",| R,96,8.0
+153,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+154,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+155,Nashville,"June 11, 1975",| R,96,8.0
+156,Red River,"September 17, 1948",| Passed,96,tbd
+157,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+158,Ratatouille,"June 29, 2007",| G,96,8.6
+159,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+160,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+161,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+162,Mean Streets,"October 14, 1973",| R,96,7.3
+163,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+164,Gravity,"October 4, 2013",| PG-13,96,7.8
+165,Fantasia,"November 13, 1940",| Approved,96,8.3
+166,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+167,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+168,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+169,Don't Look Now,"December 9, 1973",| R,95,6.8
+170,The Social Network,"October 1, 2010",| PG-13,95,8.2
+171,My Fair Lady,"December 25, 1964",| G,95,7.4
+172,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+173,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+174,Woodstock,"March 26, 1970",| R,95,tbd
+175,Past Lives,TBA,| PG-13,95,tbd
+176,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+177,Rocks,"February 1, 2021",| TV-MA,95,6.6
+178,Amour,"December 19, 2012",| PG-13,95,8.1
+179,The Hurt Locker,"June 26, 2009",| R,95,7.3
+180,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+181,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+182,Collective,"November 20, 2020",| Not Rated,95,7.8
+183,A Separation,"December 30, 2011",| PG-13,95,8.8
+184,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+185,Sunrise,"November 4, 1927",| Passed,95,tbd
+186,Schindler's List,"December 15, 1993",| R,95,8.8
+187,Pulp Fiction,"October 14, 1994",| R,95,9.0
+188,WALL-E,"June 27, 2008",| G,95,8.8
+189,Carol,"November 20, 2015",| R,94,7.9
+190,Before Midnight,"May 24, 2013",| R,94,8.3
+191,Amazing Grace,,"November 23, 2018",94,8.2
+192,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+193,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+194,The Searchers,"May 26, 1956",| Passed,94,7.4
+195,45 Years,"December 23, 2015",| Not Rated,94,7.3
+196,Taxi Driver,"February 7, 1976",| R,94,7.7
+197,The Servant,"March 16, 1964",| Unrated,94,7.5
+198,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+199,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+200,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+201,The Godfather,"March 24, 1972",| R,100,9.2
+202,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+203,Rear Window,"September 1, 1954",| TV-G,100,8.7
+204,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+205,Boyhood,"July 11, 2014",| R,100,7.4
+206,Three Colors: Red,"November 23, 1994",| R,100,8.5
+207,Vertigo,"May 28, 1958",| PG,100,8.6
+208,Notorious,"September 6, 1946",| Approved,100,7.9
+209,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+210,Playtime,"June 27, 1973",| Not Rated,99,tbd
+211,City Lights,"March 7, 1931",| Passed,99,8.7
+212,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+213,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+214,Pinocchio,"February 23, 1940",| Passed,99,8.0
+215,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+216,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+217,The Wild Bunch,"June 18, 1969",| R,98,7.6
+218,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+219,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+220,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+221,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+222,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+223,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+224,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+225,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+226,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+227,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+228,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+229,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+230,My Left Foot,"November 10, 1989",| R,97,8.3
+231,Ran,"December 20, 1985",| R,97,8.4
+232,The Third Man,"September 3, 1949",| Approved,97,8.4
+233,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+234,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+235,Psycho,"September 8, 1960",| M,97,8.8
+236,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+237,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+238,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+239,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+240,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+241,American Graffiti,"August 11, 1973",| PG,97,7.4
+242,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+243,Dumbo,"October 31, 1941",| Approved,96,7.7
+244,Roma,"November 21, 2018",| Not Rated,96,7.7
+245,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+246,Parasite,"October 11, 2019",| Not Rated,96,8.7
+247,Spirited Away,"September 20, 2002",| PG,96,8.9
+248,Toy Story,"November 22, 1995",| TV-G,96,8.8
+249,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+250,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+251,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+252,12 Years a Slave,"October 18, 2013",| R,96,8.0
+253,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+254,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+255,Nashville,"June 11, 1975",| R,96,8.0
+256,Red River,"September 17, 1948",| Passed,96,tbd
+257,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+258,Ratatouille,"June 29, 2007",| G,96,8.6
+259,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+260,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+261,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+262,Mean Streets,"October 14, 1973",| R,96,7.3
+263,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+264,Gravity,"October 4, 2013",| PG-13,96,7.8
+265,Fantasia,"November 13, 1940",| Approved,96,8.3
+266,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+267,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+268,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+269,Don't Look Now,"December 9, 1973",| R,95,6.8
+270,The Social Network,"October 1, 2010",| PG-13,95,8.2
+271,My Fair Lady,"December 25, 1964",| G,95,7.4
+272,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+273,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+274,Woodstock,"March 26, 1970",| R,95,tbd
+275,Past Lives,TBA,| PG-13,95,tbd
+276,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+277,Rocks,"February 1, 2021",| TV-MA,95,6.6
+278,Amour,"December 19, 2012",| PG-13,95,8.1
+279,The Hurt Locker,"June 26, 2009",| R,95,7.3
+280,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+281,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+282,Collective,"November 20, 2020",| Not Rated,95,7.8
+283,A Separation,"December 30, 2011",| PG-13,95,8.8
+284,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+285,Sunrise,"November 4, 1927",| Passed,95,tbd
+286,Schindler's List,"December 15, 1993",| R,95,8.8
+287,Pulp Fiction,"October 14, 1994",| R,95,9.0
+288,WALL-E,"June 27, 2008",| G,95,8.8
+289,Carol,"November 20, 2015",| R,94,7.9
+290,Before Midnight,"May 24, 2013",| R,94,8.3
+291,Amazing Grace,,"November 23, 2018",94,8.2
+292,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+293,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+294,The Searchers,"May 26, 1956",| Passed,94,7.4
+295,45 Years,"December 23, 2015",| Not Rated,94,7.3
+296,Taxi Driver,"February 7, 1976",| R,94,7.7
+297,The Servant,"March 16, 1964",| Unrated,94,7.5
+298,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+299,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+300,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+301,The Godfather,"March 24, 1972",| R,100,9.2
+302,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+303,Rear Window,"September 1, 1954",| TV-G,100,8.7
+304,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+305,Boyhood,"July 11, 2014",| R,100,7.4
+306,Three Colors: Red,"November 23, 1994",| R,100,8.5
+307,Vertigo,"May 28, 1958",| PG,100,8.6
+308,Notorious,"September 6, 1946",| Approved,100,7.9
+309,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+310,Playtime,"June 27, 1973",| Not Rated,99,tbd
+311,City Lights,"March 7, 1931",| Passed,99,8.7
+312,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+313,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+314,Pinocchio,"February 23, 1940",| Passed,99,8.0
+315,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+316,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+317,The Wild Bunch,"June 18, 1969",| R,98,7.6
+318,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+319,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+320,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+321,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+322,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+323,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+324,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+325,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+326,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+327,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+328,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+329,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+330,My Left Foot,"November 10, 1989",| R,97,8.3
+331,Ran,"December 20, 1985",| R,97,8.4
+332,The Third Man,"September 3, 1949",| Approved,97,8.4
+333,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+334,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+335,Psycho,"September 8, 1960",| M,97,8.8
+336,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+337,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+338,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+339,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+340,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+341,American Graffiti,"August 11, 1973",| PG,97,7.4
+342,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+343,Dumbo,"October 31, 1941",| Approved,96,7.7
+344,Roma,"November 21, 2018",| Not Rated,96,7.7
+345,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+346,Parasite,"October 11, 2019",| Not Rated,96,8.7
+347,Spirited Away,"September 20, 2002",| PG,96,8.9
+348,Toy Story,"November 22, 1995",| TV-G,96,8.8
+349,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+350,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+351,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+352,12 Years a Slave,"October 18, 2013",| R,96,8.0
+353,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+354,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+355,Nashville,"June 11, 1975",| R,96,8.0
+356,Red River,"September 17, 1948",| Passed,96,tbd
+357,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+358,Ratatouille,"June 29, 2007",| G,96,8.6
+359,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+360,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+361,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+362,Mean Streets,"October 14, 1973",| R,96,7.3
+363,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+364,Gravity,"October 4, 2013",| PG-13,96,7.8
+365,Fantasia,"November 13, 1940",| Approved,96,8.3
+366,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+367,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+368,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+369,Don't Look Now,"December 9, 1973",| R,95,6.8
+370,The Social Network,"October 1, 2010",| PG-13,95,8.2
+371,My Fair Lady,"December 25, 1964",| G,95,7.4
+372,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+373,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+374,Woodstock,"March 26, 1970",| R,95,tbd
+375,Past Lives,TBA,| PG-13,95,tbd
+376,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+377,Rocks,"February 1, 2021",| TV-MA,95,6.6
+378,Amour,"December 19, 2012",| PG-13,95,8.1
+379,The Hurt Locker,"June 26, 2009",| R,95,7.3
+380,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+381,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+382,Collective,"November 20, 2020",| Not Rated,95,7.8
+383,A Separation,"December 30, 2011",| PG-13,95,8.8
+384,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+385,Sunrise,"November 4, 1927",| Passed,95,tbd
+386,Schindler's List,"December 15, 1993",| R,95,8.8
+387,Pulp Fiction,"October 14, 1994",| R,95,9.0
+388,WALL-E,"June 27, 2008",| G,95,8.8
+389,Carol,"November 20, 2015",| R,94,7.9
+390,Before Midnight,"May 24, 2013",| R,94,8.3
+391,Amazing Grace,,"November 23, 2018",94,8.2
+392,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+393,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+394,The Searchers,"May 26, 1956",| Passed,94,7.4
+395,45 Years,"December 23, 2015",| Not Rated,94,7.3
+396,Taxi Driver,"February 7, 1976",| R,94,7.7
+397,The Servant,"March 16, 1964",| Unrated,94,7.5
+398,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+399,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+400,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+401,The Godfather,"March 24, 1972",| R,100,9.2
+402,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+403,Rear Window,"September 1, 1954",| TV-G,100,8.7
+404,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+405,Boyhood,"July 11, 2014",| R,100,7.4
+406,Three Colors: Red,"November 23, 1994",| R,100,8.5
+407,Vertigo,"May 28, 1958",| PG,100,8.6
+408,Notorious,"September 6, 1946",| Approved,100,7.9
+409,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+410,Playtime,"June 27, 1973",| Not Rated,99,tbd
+411,City Lights,"March 7, 1931",| Passed,99,8.7
+412,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+413,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+414,Pinocchio,"February 23, 1940",| Passed,99,8.0
+415,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+416,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+417,The Wild Bunch,"June 18, 1969",| R,98,7.6
+418,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+419,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+420,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+421,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+422,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+423,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+424,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+425,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+426,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+427,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+428,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+429,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+430,My Left Foot,"November 10, 1989",| R,97,8.3
+431,Ran,"December 20, 1985",| R,97,8.4
+432,The Third Man,"September 3, 1949",| Approved,97,8.4
+433,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+434,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+435,Psycho,"September 8, 1960",| M,97,8.8
+436,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+437,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+438,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+439,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+440,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+441,American Graffiti,"August 11, 1973",| PG,97,7.4
+442,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+443,Dumbo,"October 31, 1941",| Approved,96,7.7
+444,Roma,"November 21, 2018",| Not Rated,96,7.7
+445,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+446,Parasite,"October 11, 2019",| Not Rated,96,8.7
+447,Spirited Away,"September 20, 2002",| PG,96,8.9
+448,Toy Story,"November 22, 1995",| TV-G,96,8.8
+449,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+450,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+451,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+452,12 Years a Slave,"October 18, 2013",| R,96,8.0
+453,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+454,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+455,Nashville,"June 11, 1975",| R,96,8.0
+456,Red River,"September 17, 1948",| Passed,96,tbd
+457,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+458,Ratatouille,"June 29, 2007",| G,96,8.6
+459,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+460,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+461,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+462,Mean Streets,"October 14, 1973",| R,96,7.3
+463,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+464,Gravity,"October 4, 2013",| PG-13,96,7.8
+465,Fantasia,"November 13, 1940",| Approved,96,8.3
+466,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+467,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+468,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+469,Don't Look Now,"December 9, 1973",| R,95,6.8
+470,The Social Network,"October 1, 2010",| PG-13,95,8.2
+471,My Fair Lady,"December 25, 1964",| G,95,7.4
+472,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+473,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+474,Woodstock,"March 26, 1970",| R,95,tbd
+475,Past Lives,TBA,| PG-13,95,tbd
+476,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+477,Rocks,"February 1, 2021",| TV-MA,95,6.6
+478,Amour,"December 19, 2012",| PG-13,95,8.1
+479,The Hurt Locker,"June 26, 2009",| R,95,7.3
+480,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+481,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+482,Collective,"November 20, 2020",| Not Rated,95,7.8
+483,A Separation,"December 30, 2011",| PG-13,95,8.8
+484,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+485,Sunrise,"November 4, 1927",| Passed,95,tbd
+486,Schindler's List,"December 15, 1993",| R,95,8.8
+487,Pulp Fiction,"October 14, 1994",| R,95,9.0
+488,WALL-E,"June 27, 2008",| G,95,8.8
+489,Carol,"November 20, 2015",| R,94,7.9
+490,Before Midnight,"May 24, 2013",| R,94,8.3
+491,Amazing Grace,,"November 23, 2018",94,8.2
+492,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+493,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+494,The Searchers,"May 26, 1956",| Passed,94,7.4
+495,45 Years,"December 23, 2015",| Not Rated,94,7.3
+496,Taxi Driver,"February 7, 1976",| R,94,7.7
+497,The Servant,"March 16, 1964",| Unrated,94,7.5
+498,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+499,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+500,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+501,The Godfather,"March 24, 1972",| R,100,9.2
+502,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+503,Rear Window,"September 1, 1954",| TV-G,100,8.7
+504,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+505,Boyhood,"July 11, 2014",| R,100,7.4
+506,Three Colors: Red,"November 23, 1994",| R,100,8.5
+507,Vertigo,"May 28, 1958",| PG,100,8.6
+508,Notorious,"September 6, 1946",| Approved,100,7.9
+509,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+510,Playtime,"June 27, 1973",| Not Rated,99,tbd
+511,City Lights,"March 7, 1931",| Passed,99,8.7
+512,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+513,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+514,Pinocchio,"February 23, 1940",| Passed,99,8.0
+515,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+516,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+517,The Wild Bunch,"June 18, 1969",| R,98,7.6
+518,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+519,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+520,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+521,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+522,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+523,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+524,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+525,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+526,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+527,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+528,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+529,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+530,My Left Foot,"November 10, 1989",| R,97,8.3
+531,Ran,"December 20, 1985",| R,97,8.4
+532,The Third Man,"September 3, 1949",| Approved,97,8.4
+533,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+534,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+535,Psycho,"September 8, 1960",| M,97,8.8
+536,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+537,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+538,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+539,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+540,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+541,American Graffiti,"August 11, 1973",| PG,97,7.4
+542,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+543,Dumbo,"October 31, 1941",| Approved,96,7.7
+544,Roma,"November 21, 2018",| Not Rated,96,7.7
+545,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+546,Parasite,"October 11, 2019",| Not Rated,96,8.7
+547,Spirited Away,"September 20, 2002",| PG,96,8.9
+548,Toy Story,"November 22, 1995",| TV-G,96,8.8
+549,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+550,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+551,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+552,12 Years a Slave,"October 18, 2013",| R,96,8.0
+553,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+554,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+555,Nashville,"June 11, 1975",| R,96,8.0
+556,Red River,"September 17, 1948",| Passed,96,tbd
+557,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+558,Ratatouille,"June 29, 2007",| G,96,8.6
+559,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+560,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+561,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+562,Mean Streets,"October 14, 1973",| R,96,7.3
+563,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+564,Gravity,"October 4, 2013",| PG-13,96,7.8
+565,Fantasia,"November 13, 1940",| Approved,96,8.3
+566,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+567,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+568,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+569,Don't Look Now,"December 9, 1973",| R,95,6.8
+570,The Social Network,"October 1, 2010",| PG-13,95,8.2
+571,My Fair Lady,"December 25, 1964",| G,95,7.4
+572,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+573,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+574,Woodstock,"March 26, 1970",| R,95,tbd
+575,Past Lives,TBA,| PG-13,95,tbd
+576,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+577,Rocks,"February 1, 2021",| TV-MA,95,6.6
+578,Amour,"December 19, 2012",| PG-13,95,8.1
+579,The Hurt Locker,"June 26, 2009",| R,95,7.3
+580,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+581,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+582,Collective,"November 20, 2020",| Not Rated,95,7.8
+583,A Separation,"December 30, 2011",| PG-13,95,8.8
+584,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+585,Sunrise,"November 4, 1927",| Passed,95,tbd
+586,Schindler's List,"December 15, 1993",| R,95,8.8
+587,Pulp Fiction,"October 14, 1994",| R,95,9.0
+588,WALL-E,"June 27, 2008",| G,95,8.8
+589,Carol,"November 20, 2015",| R,94,7.9
+590,Before Midnight,"May 24, 2013",| R,94,8.3
+591,Amazing Grace,,"November 23, 2018",94,8.2
+592,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+593,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+594,The Searchers,"May 26, 1956",| Passed,94,7.4
+595,45 Years,"December 23, 2015",| Not Rated,94,7.3
+596,Taxi Driver,"February 7, 1976",| R,94,7.7
+597,The Servant,"March 16, 1964",| Unrated,94,7.5
+598,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+599,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+600,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+601,The Godfather,"March 24, 1972",| R,100,9.2
+602,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+603,Rear Window,"September 1, 1954",| TV-G,100,8.7
+604,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+605,Boyhood,"July 11, 2014",| R,100,7.4
+606,Three Colors: Red,"November 23, 1994",| R,100,8.5
+607,Vertigo,"May 28, 1958",| PG,100,8.6
+608,Notorious,"September 6, 1946",| Approved,100,7.9
+609,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+610,Playtime,"June 27, 1973",| Not Rated,99,tbd
+611,City Lights,"March 7, 1931",| Passed,99,8.7
+612,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+613,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+614,Pinocchio,"February 23, 1940",| Passed,99,8.0
+615,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+616,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+617,The Wild Bunch,"June 18, 1969",| R,98,7.6
+618,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+619,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+620,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+621,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+622,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+623,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+624,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+625,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+626,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+627,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+628,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+629,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+630,My Left Foot,"November 10, 1989",| R,97,8.3
+631,Ran,"December 20, 1985",| R,97,8.4
+632,The Third Man,"September 3, 1949",| Approved,97,8.4
+633,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+634,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+635,Psycho,"September 8, 1960",| M,97,8.8
+636,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+637,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+638,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+639,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+640,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+641,American Graffiti,"August 11, 1973",| PG,97,7.4
+642,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+643,Dumbo,"October 31, 1941",| Approved,96,7.7
+644,Roma,"November 21, 2018",| Not Rated,96,7.7
+645,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+646,Parasite,"October 11, 2019",| Not Rated,96,8.7
+647,Spirited Away,"September 20, 2002",| PG,96,8.9
+648,Toy Story,"November 22, 1995",| TV-G,96,8.8
+649,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+650,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+651,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+652,12 Years a Slave,"October 18, 2013",| R,96,8.0
+653,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+654,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+655,Nashville,"June 11, 1975",| R,96,8.0
+656,Red River,"September 17, 1948",| Passed,96,tbd
+657,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+658,Ratatouille,"June 29, 2007",| G,96,8.6
+659,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+660,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+661,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+662,Mean Streets,"October 14, 1973",| R,96,7.3
+663,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+664,Gravity,"October 4, 2013",| PG-13,96,7.8
+665,Fantasia,"November 13, 1940",| Approved,96,8.3
+666,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+667,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+668,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+669,Don't Look Now,"December 9, 1973",| R,95,6.8
+670,The Social Network,"October 1, 2010",| PG-13,95,8.2
+671,My Fair Lady,"December 25, 1964",| G,95,7.4
+672,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+673,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+674,Woodstock,"March 26, 1970",| R,95,tbd
+675,Past Lives,TBA,| PG-13,95,tbd
+676,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+677,Rocks,"February 1, 2021",| TV-MA,95,6.6
+678,Amour,"December 19, 2012",| PG-13,95,8.1
+679,The Hurt Locker,"June 26, 2009",| R,95,7.3
+680,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+681,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+682,Collective,"November 20, 2020",| Not Rated,95,7.8
+683,A Separation,"December 30, 2011",| PG-13,95,8.8
+684,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+685,Sunrise,"November 4, 1927",| Passed,95,tbd
+686,Schindler's List,"December 15, 1993",| R,95,8.8
+687,Pulp Fiction,"October 14, 1994",| R,95,9.0
+688,WALL-E,"June 27, 2008",| G,95,8.8
+689,Carol,"November 20, 2015",| R,94,7.9
+690,Before Midnight,"May 24, 2013",| R,94,8.3
+691,Amazing Grace,,"November 23, 2018",94,8.2
+692,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+693,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+694,The Searchers,"May 26, 1956",| Passed,94,7.4
+695,45 Years,"December 23, 2015",| Not Rated,94,7.3
+696,Taxi Driver,"February 7, 1976",| R,94,7.7
+697,The Servant,"March 16, 1964",| Unrated,94,7.5
+698,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+699,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+700,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+701,The Godfather,"March 24, 1972",| R,100,9.2
+702,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+703,Rear Window,"September 1, 1954",| TV-G,100,8.7
+704,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+705,Boyhood,"July 11, 2014",| R,100,7.4
+706,Three Colors: Red,"November 23, 1994",| R,100,8.5
+707,Vertigo,"May 28, 1958",| PG,100,8.6
+708,Notorious,"September 6, 1946",| Approved,100,7.9
+709,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+710,Playtime,"June 27, 1973",| Not Rated,99,tbd
+711,City Lights,"March 7, 1931",| Passed,99,8.7
+712,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+713,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+714,Pinocchio,"February 23, 1940",| Passed,99,8.0
+715,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+716,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+717,The Wild Bunch,"June 18, 1969",| R,98,7.6
+718,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+719,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+720,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+721,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+722,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+723,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+724,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+725,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+726,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+727,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+728,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+729,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+730,My Left Foot,"November 10, 1989",| R,97,8.3
+731,Ran,"December 20, 1985",| R,97,8.4
+732,The Third Man,"September 3, 1949",| Approved,97,8.4
+733,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+734,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+735,Psycho,"September 8, 1960",| M,97,8.8
+736,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+737,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+738,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+739,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+740,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+741,American Graffiti,"August 11, 1973",| PG,97,7.4
+742,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+743,Dumbo,"October 31, 1941",| Approved,96,7.7
+744,Roma,"November 21, 2018",| Not Rated,96,7.7
+745,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+746,Parasite,"October 11, 2019",| Not Rated,96,8.7
+747,Spirited Away,"September 20, 2002",| PG,96,8.9
+748,Toy Story,"November 22, 1995",| TV-G,96,8.8
+749,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+750,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+751,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+752,12 Years a Slave,"October 18, 2013",| R,96,8.0
+753,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+754,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+755,Nashville,"June 11, 1975",| R,96,8.0
+756,Red River,"September 17, 1948",| Passed,96,tbd
+757,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+758,Ratatouille,"June 29, 2007",| G,96,8.6
+759,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+760,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+761,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+762,Mean Streets,"October 14, 1973",| R,96,7.3
+763,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+764,Gravity,"October 4, 2013",| PG-13,96,7.8
+765,Fantasia,"November 13, 1940",| Approved,96,8.3
+766,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+767,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+768,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+769,Don't Look Now,"December 9, 1973",| R,95,6.8
+770,The Social Network,"October 1, 2010",| PG-13,95,8.2
+771,My Fair Lady,"December 25, 1964",| G,95,7.4
+772,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+773,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+774,Woodstock,"March 26, 1970",| R,95,tbd
+775,Past Lives,TBA,| PG-13,95,tbd
+776,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+777,Rocks,"February 1, 2021",| TV-MA,95,6.6
+778,Amour,"December 19, 2012",| PG-13,95,8.1
+779,The Hurt Locker,"June 26, 2009",| R,95,7.3
+780,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+781,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+782,Collective,"November 20, 2020",| Not Rated,95,7.8
+783,A Separation,"December 30, 2011",| PG-13,95,8.8
+784,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+785,Sunrise,"November 4, 1927",| Passed,95,tbd
+786,Schindler's List,"December 15, 1993",| R,95,8.8
+787,Pulp Fiction,"October 14, 1994",| R,95,9.0
+788,WALL-E,"June 27, 2008",| G,95,8.8
+789,Carol,"November 20, 2015",| R,94,7.9
+790,Before Midnight,"May 24, 2013",| R,94,8.3
+791,Amazing Grace,,"November 23, 2018",94,8.2
+792,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+793,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+794,The Searchers,"May 26, 1956",| Passed,94,7.4
+795,45 Years,"December 23, 2015",| Not Rated,94,7.3
+796,Taxi Driver,"February 7, 1976",| R,94,7.7
+797,The Servant,"March 16, 1964",| Unrated,94,7.5
+798,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+799,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+800,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+801,The Godfather,"March 24, 1972",| R,100,9.2
+802,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+803,Rear Window,"September 1, 1954",| TV-G,100,8.7
+804,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+805,Boyhood,"July 11, 2014",| R,100,7.4
+806,Three Colors: Red,"November 23, 1994",| R,100,8.5
+807,Vertigo,"May 28, 1958",| PG,100,8.6
+808,Notorious,"September 6, 1946",| Approved,100,7.9
+809,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+810,Playtime,"June 27, 1973",| Not Rated,99,tbd
+811,City Lights,"March 7, 1931",| Passed,99,8.7
+812,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+813,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+814,Pinocchio,"February 23, 1940",| Passed,99,8.0
+815,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+816,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+817,The Wild Bunch,"June 18, 1969",| R,98,7.6
+818,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+819,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+820,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+821,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+822,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+823,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+824,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+825,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+826,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+827,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+828,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+829,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+830,My Left Foot,"November 10, 1989",| R,97,8.3
+831,Ran,"December 20, 1985",| R,97,8.4
+832,The Third Man,"September 3, 1949",| Approved,97,8.4
+833,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+834,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+835,Psycho,"September 8, 1960",| M,97,8.8
+836,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+837,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+838,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+839,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+840,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+841,American Graffiti,"August 11, 1973",| PG,97,7.4
+842,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+843,Dumbo,"October 31, 1941",| Approved,96,7.7
+844,Roma,"November 21, 2018",| Not Rated,96,7.7
+845,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+846,Parasite,"October 11, 2019",| Not Rated,96,8.7
+847,Spirited Away,"September 20, 2002",| PG,96,8.9
+848,Toy Story,"November 22, 1995",| TV-G,96,8.8
+849,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+850,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+851,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+852,12 Years a Slave,"October 18, 2013",| R,96,8.0
+853,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+854,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+855,Nashville,"June 11, 1975",| R,96,8.0
+856,Red River,"September 17, 1948",| Passed,96,tbd
+857,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+858,Ratatouille,"June 29, 2007",| G,96,8.6
+859,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+860,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+861,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+862,Mean Streets,"October 14, 1973",| R,96,7.3
+863,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+864,Gravity,"October 4, 2013",| PG-13,96,7.8
+865,Fantasia,"November 13, 1940",| Approved,96,8.3
+866,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+867,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+868,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+869,Don't Look Now,"December 9, 1973",| R,95,6.8
+870,The Social Network,"October 1, 2010",| PG-13,95,8.2
+871,My Fair Lady,"December 25, 1964",| G,95,7.4
+872,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+873,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+874,Woodstock,"March 26, 1970",| R,95,tbd
+875,Past Lives,TBA,| PG-13,95,tbd
+876,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+877,Rocks,"February 1, 2021",| TV-MA,95,6.6
+878,Amour,"December 19, 2012",| PG-13,95,8.1
+879,The Hurt Locker,"June 26, 2009",| R,95,7.3
+880,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+881,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+882,Collective,"November 20, 2020",| Not Rated,95,7.8
+883,A Separation,"December 30, 2011",| PG-13,95,8.8
+884,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+885,Sunrise,"November 4, 1927",| Passed,95,tbd
+886,Schindler's List,"December 15, 1993",| R,95,8.8
+887,Pulp Fiction,"October 14, 1994",| R,95,9.0
+888,WALL-E,"June 27, 2008",| G,95,8.8
+889,Carol,"November 20, 2015",| R,94,7.9
+890,Before Midnight,"May 24, 2013",| R,94,8.3
+891,Amazing Grace,,"November 23, 2018",94,8.2
+892,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+893,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+894,The Searchers,"May 26, 1956",| Passed,94,7.4
+895,45 Years,"December 23, 2015",| Not Rated,94,7.3
+896,Taxi Driver,"February 7, 1976",| R,94,7.7
+897,The Servant,"March 16, 1964",| Unrated,94,7.5
+898,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+899,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+900,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+901,The Godfather,"March 24, 1972",| R,100,9.2
+902,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+903,Rear Window,"September 1, 1954",| TV-G,100,8.7
+904,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+905,Boyhood,"July 11, 2014",| R,100,7.4
+906,Three Colors: Red,"November 23, 1994",| R,100,8.5
+907,Vertigo,"May 28, 1958",| PG,100,8.6
+908,Notorious,"September 6, 1946",| Approved,100,7.9
+909,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+910,Playtime,"June 27, 1973",| Not Rated,99,tbd
+911,City Lights,"March 7, 1931",| Passed,99,8.7
+912,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+913,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+914,Pinocchio,"February 23, 1940",| Passed,99,8.0
+915,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+916,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+917,The Wild Bunch,"June 18, 1969",| R,98,7.6
+918,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+919,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+920,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+921,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+922,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+923,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+924,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+925,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+926,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+927,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+928,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+929,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+930,My Left Foot,"November 10, 1989",| R,97,8.3
+931,Ran,"December 20, 1985",| R,97,8.4
+932,The Third Man,"September 3, 1949",| Approved,97,8.4
+933,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+934,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+935,Psycho,"September 8, 1960",| M,97,8.8
+936,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+937,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+938,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+939,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+940,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+941,American Graffiti,"August 11, 1973",| PG,97,7.4
+942,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+943,Dumbo,"October 31, 1941",| Approved,96,7.7
+944,Roma,"November 21, 2018",| Not Rated,96,7.7
+945,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+946,Parasite,"October 11, 2019",| Not Rated,96,8.7
+947,Spirited Away,"September 20, 2002",| PG,96,8.9
+948,Toy Story,"November 22, 1995",| TV-G,96,8.8
+949,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+950,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+951,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+952,12 Years a Slave,"October 18, 2013",| R,96,8.0
+953,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+954,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+955,Nashville,"June 11, 1975",| R,96,8.0
+956,Red River,"September 17, 1948",| Passed,96,tbd
+957,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+958,Ratatouille,"June 29, 2007",| G,96,8.6
+959,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+960,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+961,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+962,Mean Streets,"October 14, 1973",| R,96,7.3
+963,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+964,Gravity,"October 4, 2013",| PG-13,96,7.8
+965,Fantasia,"November 13, 1940",| Approved,96,8.3
+966,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+967,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+968,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+969,Don't Look Now,"December 9, 1973",| R,95,6.8
+970,The Social Network,"October 1, 2010",| PG-13,95,8.2
+971,My Fair Lady,"December 25, 1964",| G,95,7.4
+972,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+973,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+974,Woodstock,"March 26, 1970",| R,95,tbd
+975,Past Lives,TBA,| PG-13,95,tbd
+976,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+977,Rocks,"February 1, 2021",| TV-MA,95,6.6
+978,Amour,"December 19, 2012",| PG-13,95,8.1
+979,The Hurt Locker,"June 26, 2009",| R,95,7.3
+980,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+981,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+982,Collective,"November 20, 2020",| Not Rated,95,7.8
+983,A Separation,"December 30, 2011",| PG-13,95,8.8
+984,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+985,Sunrise,"November 4, 1927",| Passed,95,tbd
+986,Schindler's List,"December 15, 1993",| R,95,8.8
+987,Pulp Fiction,"October 14, 1994",| R,95,9.0
+988,WALL-E,"June 27, 2008",| G,95,8.8
+989,Carol,"November 20, 2015",| R,94,7.9
+990,Before Midnight,"May 24, 2013",| R,94,8.3
+991,Amazing Grace,,"November 23, 2018",94,8.2
+992,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+993,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+994,The Searchers,"May 26, 1956",| Passed,94,7.4
+995,45 Years,"December 23, 2015",| Not Rated,94,7.3
+996,Taxi Driver,"February 7, 1976",| R,94,7.7
+997,The Servant,"March 16, 1964",| Unrated,94,7.5
+998,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+999,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+1000,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+1001,The Godfather,"March 24, 1972",| R,100,9.2
+1002,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+1003,Rear Window,"September 1, 1954",| TV-G,100,8.7
+1004,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+1005,Boyhood,"July 11, 2014",| R,100,7.4
+1006,Three Colors: Red,"November 23, 1994",| R,100,8.5
+1007,Vertigo,"May 28, 1958",| PG,100,8.6
+1008,Notorious,"September 6, 1946",| Approved,100,7.9
+1009,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+1010,Playtime,"June 27, 1973",| Not Rated,99,tbd
+1011,City Lights,"March 7, 1931",| Passed,99,8.7
+1012,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+1013,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+1014,Pinocchio,"February 23, 1940",| Passed,99,8.0
+1015,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+1016,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+1017,The Wild Bunch,"June 18, 1969",| R,98,7.6
+1018,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+1019,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+1020,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+1021,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+1022,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+1023,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+1024,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+1025,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+1026,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+1027,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+1028,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+1029,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+1030,My Left Foot,"November 10, 1989",| R,97,8.3
+1031,Ran,"December 20, 1985",| R,97,8.4
+1032,The Third Man,"September 3, 1949",| Approved,97,8.4
+1033,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+1034,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+1035,Psycho,"September 8, 1960",| M,97,8.8
+1036,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+1037,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+1038,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+1039,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+1040,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+1041,American Graffiti,"August 11, 1973",| PG,97,7.4
+1042,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+1043,Dumbo,"October 31, 1941",| Approved,96,7.7
+1044,Roma,"November 21, 2018",| Not Rated,96,7.7
+1045,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+1046,Parasite,"October 11, 2019",| Not Rated,96,8.7
+1047,Spirited Away,"September 20, 2002",| PG,96,8.9
+1048,Toy Story,"November 22, 1995",| TV-G,96,8.8
+1049,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+1050,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+1051,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+1052,12 Years a Slave,"October 18, 2013",| R,96,8.0
+1053,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+1054,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+1055,Nashville,"June 11, 1975",| R,96,8.0
+1056,Red River,"September 17, 1948",| Passed,96,tbd
+1057,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+1058,Ratatouille,"June 29, 2007",| G,96,8.6
+1059,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+1060,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+1061,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+1062,Mean Streets,"October 14, 1973",| R,96,7.3
+1063,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+1064,Gravity,"October 4, 2013",| PG-13,96,7.8
+1065,Fantasia,"November 13, 1940",| Approved,96,8.3
+1066,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+1067,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+1068,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+1069,Don't Look Now,"December 9, 1973",| R,95,6.8
+1070,The Social Network,"October 1, 2010",| PG-13,95,8.2
+1071,My Fair Lady,"December 25, 1964",| G,95,7.4
+1072,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+1073,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+1074,Woodstock,"March 26, 1970",| R,95,tbd
+1075,Past Lives,TBA,| PG-13,95,tbd
+1076,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+1077,Rocks,"February 1, 2021",| TV-MA,95,6.6
+1078,Amour,"December 19, 2012",| PG-13,95,8.1
+1079,The Hurt Locker,"June 26, 2009",| R,95,7.3
+1080,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+1081,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+1082,Collective,"November 20, 2020",| Not Rated,95,7.8
+1083,A Separation,"December 30, 2011",| PG-13,95,8.8
+1084,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+1085,Sunrise,"November 4, 1927",| Passed,95,tbd
+1086,Schindler's List,"December 15, 1993",| R,95,8.8
+1087,Pulp Fiction,"October 14, 1994",| R,95,9.0
+1088,WALL-E,"June 27, 2008",| G,95,8.8
+1089,Carol,"November 20, 2015",| R,94,7.9
+1090,Before Midnight,"May 24, 2013",| R,94,8.3
+1091,Amazing Grace,,"November 23, 2018",94,8.2
+1092,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+1093,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+1094,The Searchers,"May 26, 1956",| Passed,94,7.4
+1095,45 Years,"December 23, 2015",| Not Rated,94,7.3
+1096,Taxi Driver,"February 7, 1976",| R,94,7.7
+1097,The Servant,"March 16, 1964",| Unrated,94,7.5
+1098,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+1099,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+1100,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+1101,The Godfather,"March 24, 1972",| R,100,9.2
+1102,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+1103,Rear Window,"September 1, 1954",| TV-G,100,8.7
+1104,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+1105,Boyhood,"July 11, 2014",| R,100,7.4
+1106,Three Colors: Red,"November 23, 1994",| R,100,8.5
+1107,Vertigo,"May 28, 1958",| PG,100,8.6
+1108,Notorious,"September 6, 1946",| Approved,100,7.9
+1109,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+1110,Playtime,"June 27, 1973",| Not Rated,99,tbd
+1111,City Lights,"March 7, 1931",| Passed,99,8.7
+1112,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+1113,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+1114,Pinocchio,"February 23, 1940",| Passed,99,8.0
+1115,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+1116,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+1117,The Wild Bunch,"June 18, 1969",| R,98,7.6
+1118,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+1119,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+1120,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+1121,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+1122,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+1123,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+1124,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+1125,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+1126,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+1127,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+1128,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+1129,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+1130,My Left Foot,"November 10, 1989",| R,97,8.3
+1131,Ran,"December 20, 1985",| R,97,8.4
+1132,The Third Man,"September 3, 1949",| Approved,97,8.4
+1133,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+1134,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+1135,Psycho,"September 8, 1960",| M,97,8.8
+1136,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+1137,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+1138,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+1139,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+1140,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+1141,American Graffiti,"August 11, 1973",| PG,97,7.4
+1142,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+1143,Dumbo,"October 31, 1941",| Approved,96,7.7
+1144,Roma,"November 21, 2018",| Not Rated,96,7.7
+1145,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+1146,Parasite,"October 11, 2019",| Not Rated,96,8.7
+1147,Spirited Away,"September 20, 2002",| PG,96,8.9
+1148,Toy Story,"November 22, 1995",| TV-G,96,8.8
+1149,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+1150,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+1151,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+1152,12 Years a Slave,"October 18, 2013",| R,96,8.0
+1153,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+1154,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+1155,Nashville,"June 11, 1975",| R,96,8.0
+1156,Red River,"September 17, 1948",| Passed,96,tbd
+1157,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+1158,Ratatouille,"June 29, 2007",| G,96,8.6
+1159,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+1160,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+1161,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+1162,Mean Streets,"October 14, 1973",| R,96,7.3
+1163,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+1164,Gravity,"October 4, 2013",| PG-13,96,7.8
+1165,Fantasia,"November 13, 1940",| Approved,96,8.3
+1166,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+1167,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+1168,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+1169,Don't Look Now,"December 9, 1973",| R,95,6.8
+1170,The Social Network,"October 1, 2010",| PG-13,95,8.2
+1171,My Fair Lady,"December 25, 1964",| G,95,7.4
+1172,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+1173,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+1174,Woodstock,"March 26, 1970",| R,95,tbd
+1175,Past Lives,TBA,| PG-13,95,tbd
+1176,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+1177,Rocks,"February 1, 2021",| TV-MA,95,6.6
+1178,Amour,"December 19, 2012",| PG-13,95,8.1
+1179,The Hurt Locker,"June 26, 2009",| R,95,7.3
+1180,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+1181,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+1182,Collective,"November 20, 2020",| Not Rated,95,7.8
+1183,A Separation,"December 30, 2011",| PG-13,95,8.8
+1184,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+1185,Sunrise,"November 4, 1927",| Passed,95,tbd
+1186,Schindler's List,"December 15, 1993",| R,95,8.8
+1187,Pulp Fiction,"October 14, 1994",| R,95,9.0
+1188,WALL-E,"June 27, 2008",| G,95,8.8
+1189,Carol,"November 20, 2015",| R,94,7.9
+1190,Before Midnight,"May 24, 2013",| R,94,8.3
+1191,Amazing Grace,,"November 23, 2018",94,8.2
+1192,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+1193,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+1194,The Searchers,"May 26, 1956",| Passed,94,7.4
+1195,45 Years,"December 23, 2015",| Not Rated,94,7.3
+1196,Taxi Driver,"February 7, 1976",| R,94,7.7
+1197,The Servant,"March 16, 1964",| Unrated,94,7.5
+1198,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+1199,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+1200,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+1201,The Godfather,"March 24, 1972",| R,100,9.2
+1202,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+1203,Rear Window,"September 1, 1954",| TV-G,100,8.7
+1204,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+1205,Boyhood,"July 11, 2014",| R,100,7.4
+1206,Three Colors: Red,"November 23, 1994",| R,100,8.5
+1207,Vertigo,"May 28, 1958",| PG,100,8.6
+1208,Notorious,"September 6, 1946",| Approved,100,7.9
+1209,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+1210,Playtime,"June 27, 1973",| Not Rated,99,tbd
+1211,City Lights,"March 7, 1931",| Passed,99,8.7
+1212,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+1213,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+1214,Pinocchio,"February 23, 1940",| Passed,99,8.0
+1215,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+1216,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+1217,The Wild Bunch,"June 18, 1969",| R,98,7.6
+1218,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+1219,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+1220,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+1221,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+1222,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+1223,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+1224,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+1225,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+1226,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+1227,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+1228,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+1229,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+1230,My Left Foot,"November 10, 1989",| R,97,8.3
+1231,Ran,"December 20, 1985",| R,97,8.4
+1232,The Third Man,"September 3, 1949",| Approved,97,8.4
+1233,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+1234,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+1235,Psycho,"September 8, 1960",| M,97,8.8
+1236,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+1237,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+1238,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+1239,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+1240,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+1241,American Graffiti,"August 11, 1973",| PG,97,7.4
+1242,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+1243,Dumbo,"October 31, 1941",| Approved,96,7.7
+1244,Roma,"November 21, 2018",| Not Rated,96,7.7
+1245,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+1246,Parasite,"October 11, 2019",| Not Rated,96,8.7
+1247,Spirited Away,"September 20, 2002",| PG,96,8.9
+1248,Toy Story,"November 22, 1995",| TV-G,96,8.8
+1249,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+1250,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+1251,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+1252,12 Years a Slave,"October 18, 2013",| R,96,8.0
+1253,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+1254,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+1255,Nashville,"June 11, 1975",| R,96,8.0
+1256,Red River,"September 17, 1948",| Passed,96,tbd
+1257,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+1258,Ratatouille,"June 29, 2007",| G,96,8.6
+1259,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+1260,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+1261,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+1262,Mean Streets,"October 14, 1973",| R,96,7.3
+1263,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+1264,Gravity,"October 4, 2013",| PG-13,96,7.8
+1265,Fantasia,"November 13, 1940",| Approved,96,8.3
+1266,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+1267,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+1268,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+1269,Don't Look Now,"December 9, 1973",| R,95,6.8
+1270,The Social Network,"October 1, 2010",| PG-13,95,8.2
+1271,My Fair Lady,"December 25, 1964",| G,95,7.4
+1272,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+1273,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+1274,Woodstock,"March 26, 1970",| R,95,tbd
+1275,Past Lives,TBA,| PG-13,95,tbd
+1276,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+1277,Rocks,"February 1, 2021",| TV-MA,95,6.6
+1278,Amour,"December 19, 2012",| PG-13,95,8.1
+1279,The Hurt Locker,"June 26, 2009",| R,95,7.3
+1280,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+1281,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+1282,Collective,"November 20, 2020",| Not Rated,95,7.8
+1283,A Separation,"December 30, 2011",| PG-13,95,8.8
+1284,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+1285,Sunrise,"November 4, 1927",| Passed,95,tbd
+1286,Schindler's List,"December 15, 1993",| R,95,8.8
+1287,Pulp Fiction,"October 14, 1994",| R,95,9.0
+1288,WALL-E,"June 27, 2008",| G,95,8.8
+1289,Carol,"November 20, 2015",| R,94,7.9
+1290,Before Midnight,"May 24, 2013",| R,94,8.3
+1291,Amazing Grace,,"November 23, 2018",94,8.2
+1292,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+1293,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+1294,The Searchers,"May 26, 1956",| Passed,94,7.4
+1295,45 Years,"December 23, 2015",| Not Rated,94,7.3
+1296,Taxi Driver,"February 7, 1976",| R,94,7.7
+1297,The Servant,"March 16, 1964",| Unrated,94,7.5
+1298,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+1299,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+1300,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+1301,The Godfather,"March 24, 1972",| R,100,9.2
+1302,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+1303,Rear Window,"September 1, 1954",| TV-G,100,8.7
+1304,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+1305,Boyhood,"July 11, 2014",| R,100,7.4
+1306,Three Colors: Red,"November 23, 1994",| R,100,8.5
+1307,Vertigo,"May 28, 1958",| PG,100,8.6
+1308,Notorious,"September 6, 1946",| Approved,100,7.9
+1309,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+1310,Playtime,"June 27, 1973",| Not Rated,99,tbd
+1311,City Lights,"March 7, 1931",| Passed,99,8.7
+1312,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+1313,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+1314,Pinocchio,"February 23, 1940",| Passed,99,8.0
+1315,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+1316,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+1317,The Wild Bunch,"June 18, 1969",| R,98,7.6
+1318,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+1319,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+1320,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+1321,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+1322,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+1323,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+1324,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+1325,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+1326,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+1327,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+1328,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+1329,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+1330,My Left Foot,"November 10, 1989",| R,97,8.3
+1331,Ran,"December 20, 1985",| R,97,8.4
+1332,The Third Man,"September 3, 1949",| Approved,97,8.4
+1333,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+1334,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+1335,Psycho,"September 8, 1960",| M,97,8.8
+1336,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+1337,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+1338,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+1339,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+1340,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+1341,American Graffiti,"August 11, 1973",| PG,97,7.4
+1342,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+1343,Dumbo,"October 31, 1941",| Approved,96,7.7
+1344,Roma,"November 21, 2018",| Not Rated,96,7.7
+1345,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+1346,Parasite,"October 11, 2019",| Not Rated,96,8.7
+1347,Spirited Away,"September 20, 2002",| PG,96,8.9
+1348,Toy Story,"November 22, 1995",| TV-G,96,8.8
+1349,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+1350,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+1351,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+1352,12 Years a Slave,"October 18, 2013",| R,96,8.0
+1353,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+1354,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+1355,Nashville,"June 11, 1975",| R,96,8.0
+1356,Red River,"September 17, 1948",| Passed,96,tbd
+1357,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+1358,Ratatouille,"June 29, 2007",| G,96,8.6
+1359,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+1360,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+1361,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+1362,Mean Streets,"October 14, 1973",| R,96,7.3
+1363,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+1364,Gravity,"October 4, 2013",| PG-13,96,7.8
+1365,Fantasia,"November 13, 1940",| Approved,96,8.3
+1366,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+1367,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+1368,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+1369,Don't Look Now,"December 9, 1973",| R,95,6.8
+1370,The Social Network,"October 1, 2010",| PG-13,95,8.2
+1371,My Fair Lady,"December 25, 1964",| G,95,7.4
+1372,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+1373,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+1374,Woodstock,"March 26, 1970",| R,95,tbd
+1375,Past Lives,TBA,| PG-13,95,tbd
+1376,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+1377,Rocks,"February 1, 2021",| TV-MA,95,6.6
+1378,Amour,"December 19, 2012",| PG-13,95,8.1
+1379,The Hurt Locker,"June 26, 2009",| R,95,7.3
+1380,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+1381,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+1382,Collective,"November 20, 2020",| Not Rated,95,7.8
+1383,A Separation,"December 30, 2011",| PG-13,95,8.8
+1384,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+1385,Sunrise,"November 4, 1927",| Passed,95,tbd
+1386,Schindler's List,"December 15, 1993",| R,95,8.8
+1387,Pulp Fiction,"October 14, 1994",| R,95,9.0
+1388,WALL-E,"June 27, 2008",| G,95,8.8
+1389,Carol,"November 20, 2015",| R,94,7.9
+1390,Before Midnight,"May 24, 2013",| R,94,8.3
+1391,Amazing Grace,,"November 23, 2018",94,8.2
+1392,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+1393,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+1394,The Searchers,"May 26, 1956",| Passed,94,7.4
+1395,45 Years,"December 23, 2015",| Not Rated,94,7.3
+1396,Taxi Driver,"February 7, 1976",| R,94,7.7
+1397,The Servant,"March 16, 1964",| Unrated,94,7.5
+1398,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+1399,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+1400,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+1401,The Godfather,"March 24, 1972",| R,100,9.2
+1402,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+1403,Rear Window,"September 1, 1954",| TV-G,100,8.7
+1404,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+1405,Boyhood,"July 11, 2014",| R,100,7.4
+1406,Three Colors: Red,"November 23, 1994",| R,100,8.5
+1407,Vertigo,"May 28, 1958",| PG,100,8.6
+1408,Notorious,"September 6, 1946",| Approved,100,7.9
+1409,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+1410,Playtime,"June 27, 1973",| Not Rated,99,tbd
+1411,City Lights,"March 7, 1931",| Passed,99,8.7
+1412,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+1413,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+1414,Pinocchio,"February 23, 1940",| Passed,99,8.0
+1415,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+1416,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+1417,The Wild Bunch,"June 18, 1969",| R,98,7.6
+1418,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+1419,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+1420,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+1421,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+1422,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+1423,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+1424,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+1425,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+1426,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+1427,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+1428,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+1429,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+1430,My Left Foot,"November 10, 1989",| R,97,8.3
+1431,Ran,"December 20, 1985",| R,97,8.4
+1432,The Third Man,"September 3, 1949",| Approved,97,8.4
+1433,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+1434,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+1435,Psycho,"September 8, 1960",| M,97,8.8
+1436,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+1437,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+1438,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+1439,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+1440,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+1441,American Graffiti,"August 11, 1973",| PG,97,7.4
+1442,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+1443,Dumbo,"October 31, 1941",| Approved,96,7.7
+1444,Roma,"November 21, 2018",| Not Rated,96,7.7
+1445,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+1446,Parasite,"October 11, 2019",| Not Rated,96,8.7
+1447,Spirited Away,"September 20, 2002",| PG,96,8.9
+1448,Toy Story,"November 22, 1995",| TV-G,96,8.8
+1449,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+1450,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+1451,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+1452,12 Years a Slave,"October 18, 2013",| R,96,8.0
+1453,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+1454,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+1455,Nashville,"June 11, 1975",| R,96,8.0
+1456,Red River,"September 17, 1948",| Passed,96,tbd
+1457,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+1458,Ratatouille,"June 29, 2007",| G,96,8.6
+1459,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+1460,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+1461,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+1462,Mean Streets,"October 14, 1973",| R,96,7.3
+1463,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+1464,Gravity,"October 4, 2013",| PG-13,96,7.8
+1465,Fantasia,"November 13, 1940",| Approved,96,8.3
+1466,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+1467,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+1468,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+1469,Don't Look Now,"December 9, 1973",| R,95,6.8
+1470,The Social Network,"October 1, 2010",| PG-13,95,8.2
+1471,My Fair Lady,"December 25, 1964",| G,95,7.4
+1472,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+1473,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+1474,Woodstock,"March 26, 1970",| R,95,tbd
+1475,Past Lives,TBA,| PG-13,95,tbd
+1476,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+1477,Rocks,"February 1, 2021",| TV-MA,95,6.6
+1478,Amour,"December 19, 2012",| PG-13,95,8.1
+1479,The Hurt Locker,"June 26, 2009",| R,95,7.3
+1480,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+1481,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+1482,Collective,"November 20, 2020",| Not Rated,95,7.8
+1483,A Separation,"December 30, 2011",| PG-13,95,8.8
+1484,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+1485,Sunrise,"November 4, 1927",| Passed,95,tbd
+1486,Schindler's List,"December 15, 1993",| R,95,8.8
+1487,Pulp Fiction,"October 14, 1994",| R,95,9.0
+1488,WALL-E,"June 27, 2008",| G,95,8.8
+1489,Carol,"November 20, 2015",| R,94,7.9
+1490,Before Midnight,"May 24, 2013",| R,94,8.3
+1491,Amazing Grace,,"November 23, 2018",94,8.2
+1492,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+1493,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+1494,The Searchers,"May 26, 1956",| Passed,94,7.4
+1495,45 Years,"December 23, 2015",| Not Rated,94,7.3
+1496,Taxi Driver,"February 7, 1976",| R,94,7.7
+1497,The Servant,"March 16, 1964",| Unrated,94,7.5
+1498,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+1499,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+1500,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+1501,The Godfather,"March 24, 1972",| R,100,9.2
+1502,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+1503,Rear Window,"September 1, 1954",| TV-G,100,8.7
+1504,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+1505,Boyhood,"July 11, 2014",| R,100,7.4
+1506,Three Colors: Red,"November 23, 1994",| R,100,8.5
+1507,Vertigo,"May 28, 1958",| PG,100,8.6
+1508,Notorious,"September 6, 1946",| Approved,100,7.9
+1509,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+1510,Playtime,"June 27, 1973",| Not Rated,99,tbd
+1511,City Lights,"March 7, 1931",| Passed,99,8.7
+1512,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+1513,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+1514,Pinocchio,"February 23, 1940",| Passed,99,8.0
+1515,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+1516,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+1517,The Wild Bunch,"June 18, 1969",| R,98,7.6
+1518,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+1519,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+1520,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+1521,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+1522,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+1523,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+1524,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+1525,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+1526,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+1527,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+1528,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+1529,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+1530,My Left Foot,"November 10, 1989",| R,97,8.3
+1531,Ran,"December 20, 1985",| R,97,8.4
+1532,The Third Man,"September 3, 1949",| Approved,97,8.4
+1533,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+1534,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+1535,Psycho,"September 8, 1960",| M,97,8.8
+1536,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+1537,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+1538,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+1539,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+1540,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+1541,American Graffiti,"August 11, 1973",| PG,97,7.4
+1542,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+1543,Dumbo,"October 31, 1941",| Approved,96,7.7
+1544,Roma,"November 21, 2018",| Not Rated,96,7.7
+1545,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+1546,Parasite,"October 11, 2019",| Not Rated,96,8.7
+1547,Spirited Away,"September 20, 2002",| PG,96,8.9
+1548,Toy Story,"November 22, 1995",| TV-G,96,8.8
+1549,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+1550,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+1551,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+1552,12 Years a Slave,"October 18, 2013",| R,96,8.0
+1553,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+1554,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+1555,Nashville,"June 11, 1975",| R,96,8.0
+1556,Red River,"September 17, 1948",| Passed,96,tbd
+1557,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+1558,Ratatouille,"June 29, 2007",| G,96,8.6
+1559,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+1560,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+1561,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+1562,Mean Streets,"October 14, 1973",| R,96,7.3
+1563,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+1564,Gravity,"October 4, 2013",| PG-13,96,7.8
+1565,Fantasia,"November 13, 1940",| Approved,96,8.3
+1566,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+1567,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+1568,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+1569,Don't Look Now,"December 9, 1973",| R,95,6.8
+1570,The Social Network,"October 1, 2010",| PG-13,95,8.2
+1571,My Fair Lady,"December 25, 1964",| G,95,7.4
+1572,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+1573,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+1574,Woodstock,"March 26, 1970",| R,95,tbd
+1575,Past Lives,TBA,| PG-13,95,tbd
+1576,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+1577,Rocks,"February 1, 2021",| TV-MA,95,6.6
+1578,Amour,"December 19, 2012",| PG-13,95,8.1
+1579,The Hurt Locker,"June 26, 2009",| R,95,7.3
+1580,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+1581,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+1582,Collective,"November 20, 2020",| Not Rated,95,7.8
+1583,A Separation,"December 30, 2011",| PG-13,95,8.8
+1584,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+1585,Sunrise,"November 4, 1927",| Passed,95,tbd
+1586,Schindler's List,"December 15, 1993",| R,95,8.8
+1587,Pulp Fiction,"October 14, 1994",| R,95,9.0
+1588,WALL-E,"June 27, 2008",| G,95,8.8
+1589,Carol,"November 20, 2015",| R,94,7.9
+1590,Before Midnight,"May 24, 2013",| R,94,8.3
+1591,Amazing Grace,,"November 23, 2018",94,8.2
+1592,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+1593,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+1594,The Searchers,"May 26, 1956",| Passed,94,7.4
+1595,45 Years,"December 23, 2015",| Not Rated,94,7.3
+1596,Taxi Driver,"February 7, 1976",| R,94,7.7
+1597,The Servant,"March 16, 1964",| Unrated,94,7.5
+1598,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+1599,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+1600,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+1601,The Godfather,"March 24, 1972",| R,100,9.2
+1602,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+1603,Rear Window,"September 1, 1954",| TV-G,100,8.7
+1604,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+1605,Boyhood,"July 11, 2014",| R,100,7.4
+1606,Three Colors: Red,"November 23, 1994",| R,100,8.5
+1607,Vertigo,"May 28, 1958",| PG,100,8.6
+1608,Notorious,"September 6, 1946",| Approved,100,7.9
+1609,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+1610,Playtime,"June 27, 1973",| Not Rated,99,tbd
+1611,City Lights,"March 7, 1931",| Passed,99,8.7
+1612,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+1613,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+1614,Pinocchio,"February 23, 1940",| Passed,99,8.0
+1615,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+1616,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+1617,The Wild Bunch,"June 18, 1969",| R,98,7.6
+1618,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+1619,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+1620,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+1621,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+1622,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+1623,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+1624,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+1625,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+1626,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+1627,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+1628,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+1629,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+1630,My Left Foot,"November 10, 1989",| R,97,8.3
+1631,Ran,"December 20, 1985",| R,97,8.4
+1632,The Third Man,"September 3, 1949",| Approved,97,8.4
+1633,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+1634,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+1635,Psycho,"September 8, 1960",| M,97,8.8
+1636,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+1637,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+1638,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+1639,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+1640,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+1641,American Graffiti,"August 11, 1973",| PG,97,7.4
+1642,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+1643,Dumbo,"October 31, 1941",| Approved,96,7.7
+1644,Roma,"November 21, 2018",| Not Rated,96,7.7
+1645,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+1646,Parasite,"October 11, 2019",| Not Rated,96,8.7
+1647,Spirited Away,"September 20, 2002",| PG,96,8.9
+1648,Toy Story,"November 22, 1995",| TV-G,96,8.8
+1649,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+1650,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+1651,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+1652,12 Years a Slave,"October 18, 2013",| R,96,8.0
+1653,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+1654,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+1655,Nashville,"June 11, 1975",| R,96,8.0
+1656,Red River,"September 17, 1948",| Passed,96,tbd
+1657,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+1658,Ratatouille,"June 29, 2007",| G,96,8.6
+1659,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+1660,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+1661,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+1662,Mean Streets,"October 14, 1973",| R,96,7.3
+1663,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+1664,Gravity,"October 4, 2013",| PG-13,96,7.8
+1665,Fantasia,"November 13, 1940",| Approved,96,8.3
+1666,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+1667,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+1668,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+1669,Don't Look Now,"December 9, 1973",| R,95,6.8
+1670,The Social Network,"October 1, 2010",| PG-13,95,8.2
+1671,My Fair Lady,"December 25, 1964",| G,95,7.4
+1672,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+1673,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+1674,Woodstock,"March 26, 1970",| R,95,tbd
+1675,Past Lives,TBA,| PG-13,95,tbd
+1676,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+1677,Rocks,"February 1, 2021",| TV-MA,95,6.6
+1678,Amour,"December 19, 2012",| PG-13,95,8.1
+1679,The Hurt Locker,"June 26, 2009",| R,95,7.3
+1680,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+1681,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+1682,Collective,"November 20, 2020",| Not Rated,95,7.8
+1683,A Separation,"December 30, 2011",| PG-13,95,8.8
+1684,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+1685,Sunrise,"November 4, 1927",| Passed,95,tbd
+1686,Schindler's List,"December 15, 1993",| R,95,8.8
+1687,Pulp Fiction,"October 14, 1994",| R,95,9.0
+1688,WALL-E,"June 27, 2008",| G,95,8.8
+1689,Carol,"November 20, 2015",| R,94,7.9
+1690,Before Midnight,"May 24, 2013",| R,94,8.3
+1691,Amazing Grace,,"November 23, 2018",94,8.2
+1692,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+1693,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+1694,The Searchers,"May 26, 1956",| Passed,94,7.4
+1695,45 Years,"December 23, 2015",| Not Rated,94,7.3
+1696,Taxi Driver,"February 7, 1976",| R,94,7.7
+1697,The Servant,"March 16, 1964",| Unrated,94,7.5
+1698,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+1699,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+1700,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+1701,The Godfather,"March 24, 1972",| R,100,9.2
+1702,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+1703,Rear Window,"September 1, 1954",| TV-G,100,8.7
+1704,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+1705,Boyhood,"July 11, 2014",| R,100,7.4
+1706,Three Colors: Red,"November 23, 1994",| R,100,8.5
+1707,Vertigo,"May 28, 1958",| PG,100,8.6
+1708,Notorious,"September 6, 1946",| Approved,100,7.9
+1709,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+1710,Playtime,"June 27, 1973",| Not Rated,99,tbd
+1711,City Lights,"March 7, 1931",| Passed,99,8.7
+1712,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+1713,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+1714,Pinocchio,"February 23, 1940",| Passed,99,8.0
+1715,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+1716,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+1717,The Wild Bunch,"June 18, 1969",| R,98,7.6
+1718,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+1719,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+1720,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+1721,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+1722,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+1723,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+1724,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+1725,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+1726,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+1727,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+1728,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+1729,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+1730,My Left Foot,"November 10, 1989",| R,97,8.3
+1731,Ran,"December 20, 1985",| R,97,8.4
+1732,The Third Man,"September 3, 1949",| Approved,97,8.4
+1733,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+1734,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+1735,Psycho,"September 8, 1960",| M,97,8.8
+1736,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+1737,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+1738,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+1739,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+1740,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+1741,American Graffiti,"August 11, 1973",| PG,97,7.4
+1742,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+1743,Dumbo,"October 31, 1941",| Approved,96,7.7
+1744,Roma,"November 21, 2018",| Not Rated,96,7.7
+1745,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+1746,Parasite,"October 11, 2019",| Not Rated,96,8.7
+1747,Spirited Away,"September 20, 2002",| PG,96,8.9
+1748,Toy Story,"November 22, 1995",| TV-G,96,8.8
+1749,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+1750,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+1751,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+1752,12 Years a Slave,"October 18, 2013",| R,96,8.0
+1753,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+1754,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+1755,Nashville,"June 11, 1975",| R,96,8.0
+1756,Red River,"September 17, 1948",| Passed,96,tbd
+1757,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+1758,Ratatouille,"June 29, 2007",| G,96,8.6
+1759,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+1760,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+1761,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+1762,Mean Streets,"October 14, 1973",| R,96,7.3
+1763,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+1764,Gravity,"October 4, 2013",| PG-13,96,7.8
+1765,Fantasia,"November 13, 1940",| Approved,96,8.3
+1766,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+1767,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+1768,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+1769,Don't Look Now,"December 9, 1973",| R,95,6.8
+1770,The Social Network,"October 1, 2010",| PG-13,95,8.2
+1771,My Fair Lady,"December 25, 1964",| G,95,7.4
+1772,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+1773,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+1774,Woodstock,"March 26, 1970",| R,95,tbd
+1775,Past Lives,TBA,| PG-13,95,tbd
+1776,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+1777,Rocks,"February 1, 2021",| TV-MA,95,6.6
+1778,Amour,"December 19, 2012",| PG-13,95,8.1
+1779,The Hurt Locker,"June 26, 2009",| R,95,7.3
+1780,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+1781,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+1782,Collective,"November 20, 2020",| Not Rated,95,7.8
+1783,A Separation,"December 30, 2011",| PG-13,95,8.8
+1784,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+1785,Sunrise,"November 4, 1927",| Passed,95,tbd
+1786,Schindler's List,"December 15, 1993",| R,95,8.8
+1787,Pulp Fiction,"October 14, 1994",| R,95,9.0
+1788,WALL-E,"June 27, 2008",| G,95,8.8
+1789,Carol,"November 20, 2015",| R,94,7.9
+1790,Before Midnight,"May 24, 2013",| R,94,8.3
+1791,Amazing Grace,,"November 23, 2018",94,8.2
+1792,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+1793,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+1794,The Searchers,"May 26, 1956",| Passed,94,7.4
+1795,45 Years,"December 23, 2015",| Not Rated,94,7.3
+1796,Taxi Driver,"February 7, 1976",| R,94,7.7
+1797,The Servant,"March 16, 1964",| Unrated,94,7.5
+1798,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+1799,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+1800,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+1801,The Godfather,"March 24, 1972",| R,100,9.2
+1802,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+1803,Rear Window,"September 1, 1954",| TV-G,100,8.7
+1804,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+1805,Boyhood,"July 11, 2014",| R,100,7.4
+1806,Three Colors: Red,"November 23, 1994",| R,100,8.5
+1807,Vertigo,"May 28, 1958",| PG,100,8.6
+1808,Notorious,"September 6, 1946",| Approved,100,7.9
+1809,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+1810,Playtime,"June 27, 1973",| Not Rated,99,tbd
+1811,City Lights,"March 7, 1931",| Passed,99,8.7
+1812,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+1813,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+1814,Pinocchio,"February 23, 1940",| Passed,99,8.0
+1815,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+1816,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+1817,The Wild Bunch,"June 18, 1969",| R,98,7.6
+1818,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+1819,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+1820,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+1821,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+1822,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+1823,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+1824,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+1825,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+1826,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+1827,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+1828,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+1829,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+1830,My Left Foot,"November 10, 1989",| R,97,8.3
+1831,Ran,"December 20, 1985",| R,97,8.4
+1832,The Third Man,"September 3, 1949",| Approved,97,8.4
+1833,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+1834,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+1835,Psycho,"September 8, 1960",| M,97,8.8
+1836,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+1837,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+1838,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+1839,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+1840,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+1841,American Graffiti,"August 11, 1973",| PG,97,7.4
+1842,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+1843,Dumbo,"October 31, 1941",| Approved,96,7.7
+1844,Roma,"November 21, 2018",| Not Rated,96,7.7
+1845,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+1846,Parasite,"October 11, 2019",| Not Rated,96,8.7
+1847,Spirited Away,"September 20, 2002",| PG,96,8.9
+1848,Toy Story,"November 22, 1995",| TV-G,96,8.8
+1849,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+1850,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+1851,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+1852,12 Years a Slave,"October 18, 2013",| R,96,8.0
+1853,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+1854,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+1855,Nashville,"June 11, 1975",| R,96,8.0
+1856,Red River,"September 17, 1948",| Passed,96,tbd
+1857,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+1858,Ratatouille,"June 29, 2007",| G,96,8.6
+1859,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+1860,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+1861,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+1862,Mean Streets,"October 14, 1973",| R,96,7.3
+1863,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+1864,Gravity,"October 4, 2013",| PG-13,96,7.8
+1865,Fantasia,"November 13, 1940",| Approved,96,8.3
+1866,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+1867,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+1868,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+1869,Don't Look Now,"December 9, 1973",| R,95,6.8
+1870,The Social Network,"October 1, 2010",| PG-13,95,8.2
+1871,My Fair Lady,"December 25, 1964",| G,95,7.4
+1872,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+1873,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+1874,Woodstock,"March 26, 1970",| R,95,tbd
+1875,Past Lives,TBA,| PG-13,95,tbd
+1876,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+1877,Rocks,"February 1, 2021",| TV-MA,95,6.6
+1878,Amour,"December 19, 2012",| PG-13,95,8.1
+1879,The Hurt Locker,"June 26, 2009",| R,95,7.3
+1880,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+1881,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+1882,Collective,"November 20, 2020",| Not Rated,95,7.8
+1883,A Separation,"December 30, 2011",| PG-13,95,8.8
+1884,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+1885,Sunrise,"November 4, 1927",| Passed,95,tbd
+1886,Schindler's List,"December 15, 1993",| R,95,8.8
+1887,Pulp Fiction,"October 14, 1994",| R,95,9.0
+1888,WALL-E,"June 27, 2008",| G,95,8.8
+1889,Carol,"November 20, 2015",| R,94,7.9
+1890,Before Midnight,"May 24, 2013",| R,94,8.3
+1891,Amazing Grace,,"November 23, 2018",94,8.2
+1892,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+1893,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+1894,The Searchers,"May 26, 1956",| Passed,94,7.4
+1895,45 Years,"December 23, 2015",| Not Rated,94,7.3
+1896,Taxi Driver,"February 7, 1976",| R,94,7.7
+1897,The Servant,"March 16, 1964",| Unrated,94,7.5
+1898,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+1899,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+1900,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+1901,The Godfather,"March 24, 1972",| R,100,9.2
+1902,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+1903,Rear Window,"September 1, 1954",| TV-G,100,8.7
+1904,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+1905,Boyhood,"July 11, 2014",| R,100,7.4
+1906,Three Colors: Red,"November 23, 1994",| R,100,8.5
+1907,Vertigo,"May 28, 1958",| PG,100,8.6
+1908,Notorious,"September 6, 1946",| Approved,100,7.9
+1909,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+1910,Playtime,"June 27, 1973",| Not Rated,99,tbd
+1911,City Lights,"March 7, 1931",| Passed,99,8.7
+1912,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+1913,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+1914,Pinocchio,"February 23, 1940",| Passed,99,8.0
+1915,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+1916,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+1917,The Wild Bunch,"June 18, 1969",| R,98,7.6
+1918,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+1919,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+1920,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+1921,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+1922,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+1923,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+1924,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+1925,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+1926,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+1927,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+1928,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+1929,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+1930,My Left Foot,"November 10, 1989",| R,97,8.3
+1931,Ran,"December 20, 1985",| R,97,8.4
+1932,The Third Man,"September 3, 1949",| Approved,97,8.4
+1933,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+1934,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+1935,Psycho,"September 8, 1960",| M,97,8.8
+1936,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+1937,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+1938,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+1939,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+1940,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+1941,American Graffiti,"August 11, 1973",| PG,97,7.4
+1942,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+1943,Dumbo,"October 31, 1941",| Approved,96,7.7
+1944,Roma,"November 21, 2018",| Not Rated,96,7.7
+1945,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+1946,Parasite,"October 11, 2019",| Not Rated,96,8.7
+1947,Spirited Away,"September 20, 2002",| PG,96,8.9
+1948,Toy Story,"November 22, 1995",| TV-G,96,8.8
+1949,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+1950,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+1951,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+1952,12 Years a Slave,"October 18, 2013",| R,96,8.0
+1953,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+1954,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+1955,Nashville,"June 11, 1975",| R,96,8.0
+1956,Red River,"September 17, 1948",| Passed,96,tbd
+1957,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+1958,Ratatouille,"June 29, 2007",| G,96,8.6
+1959,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+1960,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+1961,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+1962,Mean Streets,"October 14, 1973",| R,96,7.3
+1963,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+1964,Gravity,"October 4, 2013",| PG-13,96,7.8
+1965,Fantasia,"November 13, 1940",| Approved,96,8.3
+1966,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+1967,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+1968,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+1969,Don't Look Now,"December 9, 1973",| R,95,6.8
+1970,The Social Network,"October 1, 2010",| PG-13,95,8.2
+1971,My Fair Lady,"December 25, 1964",| G,95,7.4
+1972,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+1973,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+1974,Woodstock,"March 26, 1970",| R,95,tbd
+1975,Past Lives,TBA,| PG-13,95,tbd
+1976,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+1977,Rocks,"February 1, 2021",| TV-MA,95,6.6
+1978,Amour,"December 19, 2012",| PG-13,95,8.1
+1979,The Hurt Locker,"June 26, 2009",| R,95,7.3
+1980,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+1981,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+1982,Collective,"November 20, 2020",| Not Rated,95,7.8
+1983,A Separation,"December 30, 2011",| PG-13,95,8.8
+1984,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+1985,Sunrise,"November 4, 1927",| Passed,95,tbd
+1986,Schindler's List,"December 15, 1993",| R,95,8.8
+1987,Pulp Fiction,"October 14, 1994",| R,95,9.0
+1988,WALL-E,"June 27, 2008",| G,95,8.8
+1989,Carol,"November 20, 2015",| R,94,7.9
+1990,Before Midnight,"May 24, 2013",| R,94,8.3
+1991,Amazing Grace,,"November 23, 2018",94,8.2
+1992,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+1993,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+1994,The Searchers,"May 26, 1956",| Passed,94,7.4
+1995,45 Years,"December 23, 2015",| Not Rated,94,7.3
+1996,Taxi Driver,"February 7, 1976",| R,94,7.7
+1997,The Servant,"March 16, 1964",| Unrated,94,7.5
+1998,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+1999,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+2000,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+2001,The Godfather,"March 24, 1972",| R,100,9.2
+2002,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+2003,Rear Window,"September 1, 1954",| TV-G,100,8.7
+2004,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+2005,Boyhood,"July 11, 2014",| R,100,7.4
+2006,Three Colors: Red,"November 23, 1994",| R,100,8.5
+2007,Vertigo,"May 28, 1958",| PG,100,8.6
+2008,Notorious,"September 6, 1946",| Approved,100,7.9
+2009,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+2010,Playtime,"June 27, 1973",| Not Rated,99,tbd
+2011,City Lights,"March 7, 1931",| Passed,99,8.7
+2012,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+2013,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+2014,Pinocchio,"February 23, 1940",| Passed,99,8.0
+2015,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+2016,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+2017,The Wild Bunch,"June 18, 1969",| R,98,7.6
+2018,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+2019,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+2020,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+2021,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+2022,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+2023,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+2024,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+2025,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+2026,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+2027,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+2028,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+2029,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+2030,My Left Foot,"November 10, 1989",| R,97,8.3
+2031,Ran,"December 20, 1985",| R,97,8.4
+2032,The Third Man,"September 3, 1949",| Approved,97,8.4
+2033,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+2034,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+2035,Psycho,"September 8, 1960",| M,97,8.8
+2036,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+2037,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+2038,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+2039,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+2040,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+2041,American Graffiti,"August 11, 1973",| PG,97,7.4
+2042,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+2043,Dumbo,"October 31, 1941",| Approved,96,7.7
+2044,Roma,"November 21, 2018",| Not Rated,96,7.7
+2045,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+2046,Parasite,"October 11, 2019",| Not Rated,96,8.7
+2047,Spirited Away,"September 20, 2002",| PG,96,8.9
+2048,Toy Story,"November 22, 1995",| TV-G,96,8.8
+2049,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+2050,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+2051,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+2052,12 Years a Slave,"October 18, 2013",| R,96,8.0
+2053,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+2054,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+2055,Nashville,"June 11, 1975",| R,96,8.0
+2056,Red River,"September 17, 1948",| Passed,96,tbd
+2057,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+2058,Ratatouille,"June 29, 2007",| G,96,8.6
+2059,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+2060,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+2061,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+2062,Mean Streets,"October 14, 1973",| R,96,7.3
+2063,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+2064,Gravity,"October 4, 2013",| PG-13,96,7.8
+2065,Fantasia,"November 13, 1940",| Approved,96,8.3
+2066,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+2067,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+2068,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+2069,Don't Look Now,"December 9, 1973",| R,95,6.8
+2070,The Social Network,"October 1, 2010",| PG-13,95,8.2
+2071,My Fair Lady,"December 25, 1964",| G,95,7.4
+2072,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+2073,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+2074,Woodstock,"March 26, 1970",| R,95,tbd
+2075,Past Lives,TBA,| PG-13,95,tbd
+2076,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+2077,Rocks,"February 1, 2021",| TV-MA,95,6.6
+2078,Amour,"December 19, 2012",| PG-13,95,8.1
+2079,The Hurt Locker,"June 26, 2009",| R,95,7.3
+2080,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+2081,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+2082,Collective,"November 20, 2020",| Not Rated,95,7.8
+2083,A Separation,"December 30, 2011",| PG-13,95,8.8
+2084,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+2085,Sunrise,"November 4, 1927",| Passed,95,tbd
+2086,Schindler's List,"December 15, 1993",| R,95,8.8
+2087,Pulp Fiction,"October 14, 1994",| R,95,9.0
+2088,WALL-E,"June 27, 2008",| G,95,8.8
+2089,Carol,"November 20, 2015",| R,94,7.9
+2090,Before Midnight,"May 24, 2013",| R,94,8.3
+2091,Amazing Grace,,"November 23, 2018",94,8.2
+2092,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+2093,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+2094,The Searchers,"May 26, 1956",| Passed,94,7.4
+2095,45 Years,"December 23, 2015",| Not Rated,94,7.3
+2096,Taxi Driver,"February 7, 1976",| R,94,7.7
+2097,The Servant,"March 16, 1964",| Unrated,94,7.5
+2098,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+2099,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+2100,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+2101,The Godfather,"March 24, 1972",| R,100,9.2
+2102,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+2103,Rear Window,"September 1, 1954",| TV-G,100,8.7
+2104,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+2105,Boyhood,"July 11, 2014",| R,100,7.4
+2106,Three Colors: Red,"November 23, 1994",| R,100,8.5
+2107,Vertigo,"May 28, 1958",| PG,100,8.6
+2108,Notorious,"September 6, 1946",| Approved,100,7.9
+2109,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+2110,Playtime,"June 27, 1973",| Not Rated,99,tbd
+2111,City Lights,"March 7, 1931",| Passed,99,8.7
+2112,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+2113,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+2114,Pinocchio,"February 23, 1940",| Passed,99,8.0
+2115,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+2116,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+2117,The Wild Bunch,"June 18, 1969",| R,98,7.6
+2118,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+2119,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+2120,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+2121,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+2122,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+2123,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+2124,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+2125,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+2126,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+2127,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+2128,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+2129,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+2130,My Left Foot,"November 10, 1989",| R,97,8.3
+2131,Ran,"December 20, 1985",| R,97,8.4
+2132,The Third Man,"September 3, 1949",| Approved,97,8.4
+2133,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+2134,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+2135,Psycho,"September 8, 1960",| M,97,8.8
+2136,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+2137,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+2138,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+2139,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+2140,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+2141,American Graffiti,"August 11, 1973",| PG,97,7.4
+2142,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+2143,Dumbo,"October 31, 1941",| Approved,96,7.7
+2144,Roma,"November 21, 2018",| Not Rated,96,7.7
+2145,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+2146,Parasite,"October 11, 2019",| Not Rated,96,8.7
+2147,Spirited Away,"September 20, 2002",| PG,96,8.9
+2148,Toy Story,"November 22, 1995",| TV-G,96,8.8
+2149,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+2150,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+2151,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+2152,12 Years a Slave,"October 18, 2013",| R,96,8.0
+2153,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+2154,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+2155,Nashville,"June 11, 1975",| R,96,8.0
+2156,Red River,"September 17, 1948",| Passed,96,tbd
+2157,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+2158,Ratatouille,"June 29, 2007",| G,96,8.6
+2159,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+2160,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+2161,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+2162,Mean Streets,"October 14, 1973",| R,96,7.3
+2163,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+2164,Gravity,"October 4, 2013",| PG-13,96,7.8
+2165,Fantasia,"November 13, 1940",| Approved,96,8.3
+2166,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+2167,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+2168,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+2169,Don't Look Now,"December 9, 1973",| R,95,6.8
+2170,The Social Network,"October 1, 2010",| PG-13,95,8.2
+2171,My Fair Lady,"December 25, 1964",| G,95,7.4
+2172,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+2173,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+2174,Woodstock,"March 26, 1970",| R,95,tbd
+2175,Past Lives,TBA,| PG-13,95,tbd
+2176,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+2177,Rocks,"February 1, 2021",| TV-MA,95,6.6
+2178,Amour,"December 19, 2012",| PG-13,95,8.1
+2179,The Hurt Locker,"June 26, 2009",| R,95,7.3
+2180,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+2181,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+2182,Collective,"November 20, 2020",| Not Rated,95,7.8
+2183,A Separation,"December 30, 2011",| PG-13,95,8.8
+2184,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+2185,Sunrise,"November 4, 1927",| Passed,95,tbd
+2186,Schindler's List,"December 15, 1993",| R,95,8.8
+2187,Pulp Fiction,"October 14, 1994",| R,95,9.0
+2188,WALL-E,"June 27, 2008",| G,95,8.8
+2189,Carol,"November 20, 2015",| R,94,7.9
+2190,Before Midnight,"May 24, 2013",| R,94,8.3
+2191,Amazing Grace,,"November 23, 2018",94,8.2
+2192,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+2193,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+2194,The Searchers,"May 26, 1956",| Passed,94,7.4
+2195,45 Years,"December 23, 2015",| Not Rated,94,7.3
+2196,Taxi Driver,"February 7, 1976",| R,94,7.7
+2197,The Servant,"March 16, 1964",| Unrated,94,7.5
+2198,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+2199,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+2200,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+2201,The Godfather,"March 24, 1972",| R,100,9.2
+2202,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+2203,Rear Window,"September 1, 1954",| TV-G,100,8.7
+2204,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+2205,Boyhood,"July 11, 2014",| R,100,7.4
+2206,Three Colors: Red,"November 23, 1994",| R,100,8.5
+2207,Vertigo,"May 28, 1958",| PG,100,8.6
+2208,Notorious,"September 6, 1946",| Approved,100,7.9
+2209,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+2210,Playtime,"June 27, 1973",| Not Rated,99,tbd
+2211,City Lights,"March 7, 1931",| Passed,99,8.7
+2212,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+2213,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+2214,Pinocchio,"February 23, 1940",| Passed,99,8.0
+2215,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+2216,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+2217,The Wild Bunch,"June 18, 1969",| R,98,7.6
+2218,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+2219,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+2220,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+2221,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+2222,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+2223,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+2224,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+2225,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+2226,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+2227,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+2228,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+2229,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+2230,My Left Foot,"November 10, 1989",| R,97,8.3
+2231,Ran,"December 20, 1985",| R,97,8.4
+2232,The Third Man,"September 3, 1949",| Approved,97,8.4
+2233,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+2234,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+2235,Psycho,"September 8, 1960",| M,97,8.8
+2236,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+2237,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+2238,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+2239,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+2240,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+2241,American Graffiti,"August 11, 1973",| PG,97,7.4
+2242,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+2243,Dumbo,"October 31, 1941",| Approved,96,7.7
+2244,Roma,"November 21, 2018",| Not Rated,96,7.7
+2245,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+2246,Parasite,"October 11, 2019",| Not Rated,96,8.7
+2247,Spirited Away,"September 20, 2002",| PG,96,8.9
+2248,Toy Story,"November 22, 1995",| TV-G,96,8.8
+2249,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+2250,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+2251,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+2252,12 Years a Slave,"October 18, 2013",| R,96,8.0
+2253,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+2254,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+2255,Nashville,"June 11, 1975",| R,96,8.0
+2256,Red River,"September 17, 1948",| Passed,96,tbd
+2257,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+2258,Ratatouille,"June 29, 2007",| G,96,8.6
+2259,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+2260,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+2261,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+2262,Mean Streets,"October 14, 1973",| R,96,7.3
+2263,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+2264,Gravity,"October 4, 2013",| PG-13,96,7.8
+2265,Fantasia,"November 13, 1940",| Approved,96,8.3
+2266,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+2267,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+2268,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+2269,Don't Look Now,"December 9, 1973",| R,95,6.8
+2270,The Social Network,"October 1, 2010",| PG-13,95,8.2
+2271,My Fair Lady,"December 25, 1964",| G,95,7.4
+2272,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+2273,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+2274,Woodstock,"March 26, 1970",| R,95,tbd
+2275,Past Lives,TBA,| PG-13,95,tbd
+2276,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+2277,Rocks,"February 1, 2021",| TV-MA,95,6.6
+2278,Amour,"December 19, 2012",| PG-13,95,8.1
+2279,The Hurt Locker,"June 26, 2009",| R,95,7.3
+2280,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+2281,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+2282,Collective,"November 20, 2020",| Not Rated,95,7.8
+2283,A Separation,"December 30, 2011",| PG-13,95,8.8
+2284,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+2285,Sunrise,"November 4, 1927",| Passed,95,tbd
+2286,Schindler's List,"December 15, 1993",| R,95,8.8
+2287,Pulp Fiction,"October 14, 1994",| R,95,9.0
+2288,WALL-E,"June 27, 2008",| G,95,8.8
+2289,Carol,"November 20, 2015",| R,94,7.9
+2290,Before Midnight,"May 24, 2013",| R,94,8.3
+2291,Amazing Grace,,"November 23, 2018",94,8.2
+2292,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+2293,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+2294,The Searchers,"May 26, 1956",| Passed,94,7.4
+2295,45 Years,"December 23, 2015",| Not Rated,94,7.3
+2296,Taxi Driver,"February 7, 1976",| R,94,7.7
+2297,The Servant,"March 16, 1964",| Unrated,94,7.5
+2298,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+2299,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+2300,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+2301,The Godfather,"March 24, 1972",| R,100,9.2
+2302,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+2303,Rear Window,"September 1, 1954",| TV-G,100,8.7
+2304,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+2305,Boyhood,"July 11, 2014",| R,100,7.4
+2306,Three Colors: Red,"November 23, 1994",| R,100,8.5
+2307,Vertigo,"May 28, 1958",| PG,100,8.6
+2308,Notorious,"September 6, 1946",| Approved,100,7.9
+2309,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+2310,Playtime,"June 27, 1973",| Not Rated,99,tbd
+2311,City Lights,"March 7, 1931",| Passed,99,8.7
+2312,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+2313,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+2314,Pinocchio,"February 23, 1940",| Passed,99,8.0
+2315,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+2316,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+2317,The Wild Bunch,"June 18, 1969",| R,98,7.6
+2318,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+2319,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+2320,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+2321,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+2322,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+2323,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+2324,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+2325,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+2326,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+2327,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+2328,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+2329,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+2330,My Left Foot,"November 10, 1989",| R,97,8.3
+2331,Ran,"December 20, 1985",| R,97,8.4
+2332,The Third Man,"September 3, 1949",| Approved,97,8.4
+2333,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+2334,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+2335,Psycho,"September 8, 1960",| M,97,8.8
+2336,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+2337,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+2338,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+2339,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+2340,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+2341,American Graffiti,"August 11, 1973",| PG,97,7.4
+2342,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+2343,Dumbo,"October 31, 1941",| Approved,96,7.7
+2344,Roma,"November 21, 2018",| Not Rated,96,7.7
+2345,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+2346,Parasite,"October 11, 2019",| Not Rated,96,8.7
+2347,Spirited Away,"September 20, 2002",| PG,96,8.9
+2348,Toy Story,"November 22, 1995",| TV-G,96,8.8
+2349,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+2350,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+2351,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+2352,12 Years a Slave,"October 18, 2013",| R,96,8.0
+2353,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+2354,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+2355,Nashville,"June 11, 1975",| R,96,8.0
+2356,Red River,"September 17, 1948",| Passed,96,tbd
+2357,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+2358,Ratatouille,"June 29, 2007",| G,96,8.6
+2359,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+2360,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+2361,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+2362,Mean Streets,"October 14, 1973",| R,96,7.3
+2363,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+2364,Gravity,"October 4, 2013",| PG-13,96,7.8
+2365,Fantasia,"November 13, 1940",| Approved,96,8.3
+2366,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+2367,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+2368,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+2369,Don't Look Now,"December 9, 1973",| R,95,6.8
+2370,The Social Network,"October 1, 2010",| PG-13,95,8.2
+2371,My Fair Lady,"December 25, 1964",| G,95,7.4
+2372,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+2373,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+2374,Woodstock,"March 26, 1970",| R,95,tbd
+2375,Past Lives,TBA,| PG-13,95,tbd
+2376,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+2377,Rocks,"February 1, 2021",| TV-MA,95,6.6
+2378,Amour,"December 19, 2012",| PG-13,95,8.1
+2379,The Hurt Locker,"June 26, 2009",| R,95,7.3
+2380,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+2381,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+2382,Collective,"November 20, 2020",| Not Rated,95,7.8
+2383,A Separation,"December 30, 2011",| PG-13,95,8.8
+2384,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+2385,Sunrise,"November 4, 1927",| Passed,95,tbd
+2386,Schindler's List,"December 15, 1993",| R,95,8.8
+2387,Pulp Fiction,"October 14, 1994",| R,95,9.0
+2388,WALL-E,"June 27, 2008",| G,95,8.8
+2389,Carol,"November 20, 2015",| R,94,7.9
+2390,Before Midnight,"May 24, 2013",| R,94,8.3
+2391,Amazing Grace,,"November 23, 2018",94,8.2
+2392,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+2393,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+2394,The Searchers,"May 26, 1956",| Passed,94,7.4
+2395,45 Years,"December 23, 2015",| Not Rated,94,7.3
+2396,Taxi Driver,"February 7, 1976",| R,94,7.7
+2397,The Servant,"March 16, 1964",| Unrated,94,7.5
+2398,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+2399,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+2400,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+2401,The Godfather,"March 24, 1972",| R,100,9.2
+2402,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+2403,Rear Window,"September 1, 1954",| TV-G,100,8.7
+2404,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+2405,Boyhood,"July 11, 2014",| R,100,7.4
+2406,Three Colors: Red,"November 23, 1994",| R,100,8.5
+2407,Vertigo,"May 28, 1958",| PG,100,8.6
+2408,Notorious,"September 6, 1946",| Approved,100,7.9
+2409,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+2410,Playtime,"June 27, 1973",| Not Rated,99,tbd
+2411,City Lights,"March 7, 1931",| Passed,99,8.7
+2412,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+2413,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+2414,Pinocchio,"February 23, 1940",| Passed,99,8.0
+2415,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+2416,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+2417,The Wild Bunch,"June 18, 1969",| R,98,7.6
+2418,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+2419,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+2420,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+2421,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+2422,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+2423,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+2424,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+2425,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+2426,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+2427,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+2428,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+2429,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+2430,My Left Foot,"November 10, 1989",| R,97,8.3
+2431,Ran,"December 20, 1985",| R,97,8.4
+2432,The Third Man,"September 3, 1949",| Approved,97,8.4
+2433,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+2434,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+2435,Psycho,"September 8, 1960",| M,97,8.8
+2436,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+2437,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+2438,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+2439,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+2440,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+2441,American Graffiti,"August 11, 1973",| PG,97,7.4
+2442,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+2443,Dumbo,"October 31, 1941",| Approved,96,7.7
+2444,Roma,"November 21, 2018",| Not Rated,96,7.7
+2445,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+2446,Parasite,"October 11, 2019",| Not Rated,96,8.7
+2447,Spirited Away,"September 20, 2002",| PG,96,8.9
+2448,Toy Story,"November 22, 1995",| TV-G,96,8.8
+2449,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+2450,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+2451,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+2452,12 Years a Slave,"October 18, 2013",| R,96,8.0
+2453,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+2454,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+2455,Nashville,"June 11, 1975",| R,96,8.0
+2456,Red River,"September 17, 1948",| Passed,96,tbd
+2457,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+2458,Ratatouille,"June 29, 2007",| G,96,8.6
+2459,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+2460,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+2461,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+2462,Mean Streets,"October 14, 1973",| R,96,7.3
+2463,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+2464,Gravity,"October 4, 2013",| PG-13,96,7.8
+2465,Fantasia,"November 13, 1940",| Approved,96,8.3
+2466,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+2467,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+2468,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+2469,Don't Look Now,"December 9, 1973",| R,95,6.8
+2470,The Social Network,"October 1, 2010",| PG-13,95,8.2
+2471,My Fair Lady,"December 25, 1964",| G,95,7.4
+2472,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+2473,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+2474,Woodstock,"March 26, 1970",| R,95,tbd
+2475,Past Lives,TBA,| PG-13,95,tbd
+2476,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+2477,Rocks,"February 1, 2021",| TV-MA,95,6.6
+2478,Amour,"December 19, 2012",| PG-13,95,8.1
+2479,The Hurt Locker,"June 26, 2009",| R,95,7.3
+2480,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+2481,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+2482,Collective,"November 20, 2020",| Not Rated,95,7.8
+2483,A Separation,"December 30, 2011",| PG-13,95,8.8
+2484,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+2485,Sunrise,"November 4, 1927",| Passed,95,tbd
+2486,Schindler's List,"December 15, 1993",| R,95,8.8
+2487,Pulp Fiction,"October 14, 1994",| R,95,9.0
+2488,WALL-E,"June 27, 2008",| G,95,8.8
+2489,Carol,"November 20, 2015",| R,94,7.9
+2490,Before Midnight,"May 24, 2013",| R,94,8.3
+2491,Amazing Grace,,"November 23, 2018",94,8.2
+2492,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+2493,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+2494,The Searchers,"May 26, 1956",| Passed,94,7.4
+2495,45 Years,"December 23, 2015",| Not Rated,94,7.3
+2496,Taxi Driver,"February 7, 1976",| R,94,7.7
+2497,The Servant,"March 16, 1964",| Unrated,94,7.5
+2498,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+2499,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+2500,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+2501,The Godfather,"March 24, 1972",| R,100,9.2
+2502,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+2503,Rear Window,"September 1, 1954",| TV-G,100,8.7
+2504,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+2505,Boyhood,"July 11, 2014",| R,100,7.4
+2506,Three Colors: Red,"November 23, 1994",| R,100,8.5
+2507,Vertigo,"May 28, 1958",| PG,100,8.6
+2508,Notorious,"September 6, 1946",| Approved,100,7.9
+2509,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+2510,Playtime,"June 27, 1973",| Not Rated,99,tbd
+2511,City Lights,"March 7, 1931",| Passed,99,8.7
+2512,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+2513,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+2514,Pinocchio,"February 23, 1940",| Passed,99,8.0
+2515,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+2516,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+2517,The Wild Bunch,"June 18, 1969",| R,98,7.6
+2518,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+2519,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+2520,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+2521,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+2522,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+2523,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+2524,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+2525,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+2526,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+2527,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+2528,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+2529,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+2530,My Left Foot,"November 10, 1989",| R,97,8.3
+2531,Ran,"December 20, 1985",| R,97,8.4
+2532,The Third Man,"September 3, 1949",| Approved,97,8.4
+2533,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+2534,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+2535,Psycho,"September 8, 1960",| M,97,8.8
+2536,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+2537,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+2538,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+2539,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+2540,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+2541,American Graffiti,"August 11, 1973",| PG,97,7.4
+2542,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+2543,Dumbo,"October 31, 1941",| Approved,96,7.7
+2544,Roma,"November 21, 2018",| Not Rated,96,7.7
+2545,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+2546,Parasite,"October 11, 2019",| Not Rated,96,8.7
+2547,Spirited Away,"September 20, 2002",| PG,96,8.9
+2548,Toy Story,"November 22, 1995",| TV-G,96,8.8
+2549,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+2550,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+2551,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+2552,12 Years a Slave,"October 18, 2013",| R,96,8.0
+2553,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+2554,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+2555,Nashville,"June 11, 1975",| R,96,8.0
+2556,Red River,"September 17, 1948",| Passed,96,tbd
+2557,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+2558,Ratatouille,"June 29, 2007",| G,96,8.6
+2559,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+2560,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+2561,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+2562,Mean Streets,"October 14, 1973",| R,96,7.3
+2563,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+2564,Gravity,"October 4, 2013",| PG-13,96,7.8
+2565,Fantasia,"November 13, 1940",| Approved,96,8.3
+2566,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+2567,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+2568,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+2569,Don't Look Now,"December 9, 1973",| R,95,6.8
+2570,The Social Network,"October 1, 2010",| PG-13,95,8.2
+2571,My Fair Lady,"December 25, 1964",| G,95,7.4
+2572,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+2573,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+2574,Woodstock,"March 26, 1970",| R,95,tbd
+2575,Past Lives,TBA,| PG-13,95,tbd
+2576,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+2577,Rocks,"February 1, 2021",| TV-MA,95,6.6
+2578,Amour,"December 19, 2012",| PG-13,95,8.1
+2579,The Hurt Locker,"June 26, 2009",| R,95,7.3
+2580,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+2581,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+2582,Collective,"November 20, 2020",| Not Rated,95,7.8
+2583,A Separation,"December 30, 2011",| PG-13,95,8.8
+2584,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+2585,Sunrise,"November 4, 1927",| Passed,95,tbd
+2586,Schindler's List,"December 15, 1993",| R,95,8.8
+2587,Pulp Fiction,"October 14, 1994",| R,95,9.0
+2588,WALL-E,"June 27, 2008",| G,95,8.8
+2589,Carol,"November 20, 2015",| R,94,7.9
+2590,Before Midnight,"May 24, 2013",| R,94,8.3
+2591,Amazing Grace,,"November 23, 2018",94,8.2
+2592,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+2593,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+2594,The Searchers,"May 26, 1956",| Passed,94,7.4
+2595,45 Years,"December 23, 2015",| Not Rated,94,7.3
+2596,Taxi Driver,"February 7, 1976",| R,94,7.7
+2597,The Servant,"March 16, 1964",| Unrated,94,7.5
+2598,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+2599,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+2600,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+2601,The Godfather,"March 24, 1972",| R,100,9.2
+2602,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+2603,Rear Window,"September 1, 1954",| TV-G,100,8.7
+2604,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+2605,Boyhood,"July 11, 2014",| R,100,7.4
+2606,Three Colors: Red,"November 23, 1994",| R,100,8.5
+2607,Vertigo,"May 28, 1958",| PG,100,8.6
+2608,Notorious,"September 6, 1946",| Approved,100,7.9
+2609,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+2610,Playtime,"June 27, 1973",| Not Rated,99,tbd
+2611,City Lights,"March 7, 1931",| Passed,99,8.7
+2612,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+2613,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+2614,Pinocchio,"February 23, 1940",| Passed,99,8.0
+2615,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+2616,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+2617,The Wild Bunch,"June 18, 1969",| R,98,7.6
+2618,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+2619,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+2620,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+2621,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+2622,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+2623,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+2624,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+2625,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+2626,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+2627,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+2628,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+2629,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+2630,My Left Foot,"November 10, 1989",| R,97,8.3
+2631,Ran,"December 20, 1985",| R,97,8.4
+2632,The Third Man,"September 3, 1949",| Approved,97,8.4
+2633,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+2634,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+2635,Psycho,"September 8, 1960",| M,97,8.8
+2636,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+2637,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+2638,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+2639,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+2640,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+2641,American Graffiti,"August 11, 1973",| PG,97,7.4
+2642,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+2643,Dumbo,"October 31, 1941",| Approved,96,7.7
+2644,Roma,"November 21, 2018",| Not Rated,96,7.7
+2645,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+2646,Parasite,"October 11, 2019",| Not Rated,96,8.7
+2647,Spirited Away,"September 20, 2002",| PG,96,8.9
+2648,Toy Story,"November 22, 1995",| TV-G,96,8.8
+2649,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+2650,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+2651,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+2652,12 Years a Slave,"October 18, 2013",| R,96,8.0
+2653,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+2654,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+2655,Nashville,"June 11, 1975",| R,96,8.0
+2656,Red River,"September 17, 1948",| Passed,96,tbd
+2657,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+2658,Ratatouille,"June 29, 2007",| G,96,8.6
+2659,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+2660,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+2661,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+2662,Mean Streets,"October 14, 1973",| R,96,7.3
+2663,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+2664,Gravity,"October 4, 2013",| PG-13,96,7.8
+2665,Fantasia,"November 13, 1940",| Approved,96,8.3
+2666,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+2667,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+2668,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+2669,Don't Look Now,"December 9, 1973",| R,95,6.8
+2670,The Social Network,"October 1, 2010",| PG-13,95,8.2
+2671,My Fair Lady,"December 25, 1964",| G,95,7.4
+2672,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+2673,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+2674,Woodstock,"March 26, 1970",| R,95,tbd
+2675,Past Lives,TBA,| PG-13,95,tbd
+2676,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+2677,Rocks,"February 1, 2021",| TV-MA,95,6.6
+2678,Amour,"December 19, 2012",| PG-13,95,8.1
+2679,The Hurt Locker,"June 26, 2009",| R,95,7.3
+2680,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+2681,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+2682,Collective,"November 20, 2020",| Not Rated,95,7.8
+2683,A Separation,"December 30, 2011",| PG-13,95,8.8
+2684,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+2685,Sunrise,"November 4, 1927",| Passed,95,tbd
+2686,Schindler's List,"December 15, 1993",| R,95,8.8
+2687,Pulp Fiction,"October 14, 1994",| R,95,9.0
+2688,WALL-E,"June 27, 2008",| G,95,8.8
+2689,Carol,"November 20, 2015",| R,94,7.9
+2690,Before Midnight,"May 24, 2013",| R,94,8.3
+2691,Amazing Grace,,"November 23, 2018",94,8.2
+2692,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+2693,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+2694,The Searchers,"May 26, 1956",| Passed,94,7.4
+2695,45 Years,"December 23, 2015",| Not Rated,94,7.3
+2696,Taxi Driver,"February 7, 1976",| R,94,7.7
+2697,The Servant,"March 16, 1964",| Unrated,94,7.5
+2698,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+2699,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+2700,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+2701,The Godfather,"March 24, 1972",| R,100,9.2
+2702,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+2703,Rear Window,"September 1, 1954",| TV-G,100,8.7
+2704,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+2705,Boyhood,"July 11, 2014",| R,100,7.4
+2706,Three Colors: Red,"November 23, 1994",| R,100,8.5
+2707,Vertigo,"May 28, 1958",| PG,100,8.6
+2708,Notorious,"September 6, 1946",| Approved,100,7.9
+2709,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+2710,Playtime,"June 27, 1973",| Not Rated,99,tbd
+2711,City Lights,"March 7, 1931",| Passed,99,8.7
+2712,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+2713,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+2714,Pinocchio,"February 23, 1940",| Passed,99,8.0
+2715,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+2716,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+2717,The Wild Bunch,"June 18, 1969",| R,98,7.6
+2718,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+2719,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+2720,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+2721,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+2722,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+2723,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+2724,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+2725,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+2726,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+2727,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+2728,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+2729,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+2730,My Left Foot,"November 10, 1989",| R,97,8.3
+2731,Ran,"December 20, 1985",| R,97,8.4
+2732,The Third Man,"September 3, 1949",| Approved,97,8.4
+2733,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+2734,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+2735,Psycho,"September 8, 1960",| M,97,8.8
+2736,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+2737,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+2738,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+2739,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+2740,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+2741,American Graffiti,"August 11, 1973",| PG,97,7.4
+2742,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+2743,Dumbo,"October 31, 1941",| Approved,96,7.7
+2744,Roma,"November 21, 2018",| Not Rated,96,7.7
+2745,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+2746,Parasite,"October 11, 2019",| Not Rated,96,8.7
+2747,Spirited Away,"September 20, 2002",| PG,96,8.9
+2748,Toy Story,"November 22, 1995",| TV-G,96,8.8
+2749,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+2750,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+2751,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+2752,12 Years a Slave,"October 18, 2013",| R,96,8.0
+2753,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+2754,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+2755,Nashville,"June 11, 1975",| R,96,8.0
+2756,Red River,"September 17, 1948",| Passed,96,tbd
+2757,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+2758,Ratatouille,"June 29, 2007",| G,96,8.6
+2759,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+2760,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+2761,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+2762,Mean Streets,"October 14, 1973",| R,96,7.3
+2763,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+2764,Gravity,"October 4, 2013",| PG-13,96,7.8
+2765,Fantasia,"November 13, 1940",| Approved,96,8.3
+2766,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+2767,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+2768,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+2769,Don't Look Now,"December 9, 1973",| R,95,6.8
+2770,The Social Network,"October 1, 2010",| PG-13,95,8.2
+2771,My Fair Lady,"December 25, 1964",| G,95,7.4
+2772,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+2773,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+2774,Woodstock,"March 26, 1970",| R,95,tbd
+2775,Past Lives,TBA,| PG-13,95,tbd
+2776,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+2777,Rocks,"February 1, 2021",| TV-MA,95,6.6
+2778,Amour,"December 19, 2012",| PG-13,95,8.1
+2779,The Hurt Locker,"June 26, 2009",| R,95,7.3
+2780,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+2781,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+2782,Collective,"November 20, 2020",| Not Rated,95,7.8
+2783,A Separation,"December 30, 2011",| PG-13,95,8.8
+2784,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+2785,Sunrise,"November 4, 1927",| Passed,95,tbd
+2786,Schindler's List,"December 15, 1993",| R,95,8.8
+2787,Pulp Fiction,"October 14, 1994",| R,95,9.0
+2788,WALL-E,"June 27, 2008",| G,95,8.8
+2789,Carol,"November 20, 2015",| R,94,7.9
+2790,Before Midnight,"May 24, 2013",| R,94,8.3
+2791,Amazing Grace,,"November 23, 2018",94,8.2
+2792,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+2793,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+2794,The Searchers,"May 26, 1956",| Passed,94,7.4
+2795,45 Years,"December 23, 2015",| Not Rated,94,7.3
+2796,Taxi Driver,"February 7, 1976",| R,94,7.7
+2797,The Servant,"March 16, 1964",| Unrated,94,7.5
+2798,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+2799,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+2800,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+2801,The Godfather,"March 24, 1972",| R,100,9.2
+2802,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+2803,Rear Window,"September 1, 1954",| TV-G,100,8.7
+2804,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+2805,Boyhood,"July 11, 2014",| R,100,7.4
+2806,Three Colors: Red,"November 23, 1994",| R,100,8.5
+2807,Vertigo,"May 28, 1958",| PG,100,8.6
+2808,Notorious,"September 6, 1946",| Approved,100,7.9
+2809,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+2810,Playtime,"June 27, 1973",| Not Rated,99,tbd
+2811,City Lights,"March 7, 1931",| Passed,99,8.7
+2812,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+2813,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+2814,Pinocchio,"February 23, 1940",| Passed,99,8.0
+2815,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+2816,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+2817,The Wild Bunch,"June 18, 1969",| R,98,7.6
+2818,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+2819,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+2820,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+2821,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+2822,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+2823,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+2824,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+2825,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+2826,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+2827,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+2828,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+2829,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+2830,My Left Foot,"November 10, 1989",| R,97,8.3
+2831,Ran,"December 20, 1985",| R,97,8.4
+2832,The Third Man,"September 3, 1949",| Approved,97,8.4
+2833,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+2834,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+2835,Psycho,"September 8, 1960",| M,97,8.8
+2836,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+2837,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+2838,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+2839,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+2840,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+2841,American Graffiti,"August 11, 1973",| PG,97,7.4
+2842,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+2843,Dumbo,"October 31, 1941",| Approved,96,7.7
+2844,Roma,"November 21, 2018",| Not Rated,96,7.7
+2845,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+2846,Parasite,"October 11, 2019",| Not Rated,96,8.7
+2847,Spirited Away,"September 20, 2002",| PG,96,8.9
+2848,Toy Story,"November 22, 1995",| TV-G,96,8.8
+2849,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+2850,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+2851,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+2852,12 Years a Slave,"October 18, 2013",| R,96,8.0
+2853,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+2854,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+2855,Nashville,"June 11, 1975",| R,96,8.0
+2856,Red River,"September 17, 1948",| Passed,96,tbd
+2857,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+2858,Ratatouille,"June 29, 2007",| G,96,8.6
+2859,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+2860,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+2861,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+2862,Mean Streets,"October 14, 1973",| R,96,7.3
+2863,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+2864,Gravity,"October 4, 2013",| PG-13,96,7.8
+2865,Fantasia,"November 13, 1940",| Approved,96,8.3
+2866,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+2867,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+2868,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+2869,Don't Look Now,"December 9, 1973",| R,95,6.8
+2870,The Social Network,"October 1, 2010",| PG-13,95,8.2
+2871,My Fair Lady,"December 25, 1964",| G,95,7.4
+2872,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+2873,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+2874,Woodstock,"March 26, 1970",| R,95,tbd
+2875,Past Lives,TBA,| PG-13,95,tbd
+2876,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+2877,Rocks,"February 1, 2021",| TV-MA,95,6.6
+2878,Amour,"December 19, 2012",| PG-13,95,8.1
+2879,The Hurt Locker,"June 26, 2009",| R,95,7.3
+2880,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+2881,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+2882,Collective,"November 20, 2020",| Not Rated,95,7.8
+2883,A Separation,"December 30, 2011",| PG-13,95,8.8
+2884,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+2885,Sunrise,"November 4, 1927",| Passed,95,tbd
+2886,Schindler's List,"December 15, 1993",| R,95,8.8
+2887,Pulp Fiction,"October 14, 1994",| R,95,9.0
+2888,WALL-E,"June 27, 2008",| G,95,8.8
+2889,Carol,"November 20, 2015",| R,94,7.9
+2890,Before Midnight,"May 24, 2013",| R,94,8.3
+2891,Amazing Grace,,"November 23, 2018",94,8.2
+2892,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+2893,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+2894,The Searchers,"May 26, 1956",| Passed,94,7.4
+2895,45 Years,"December 23, 2015",| Not Rated,94,7.3
+2896,Taxi Driver,"February 7, 1976",| R,94,7.7
+2897,The Servant,"March 16, 1964",| Unrated,94,7.5
+2898,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+2899,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+2900,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+2901,The Godfather,"March 24, 1972",| R,100,9.2
+2902,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+2903,Rear Window,"September 1, 1954",| TV-G,100,8.7
+2904,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+2905,Boyhood,"July 11, 2014",| R,100,7.4
+2906,Three Colors: Red,"November 23, 1994",| R,100,8.5
+2907,Vertigo,"May 28, 1958",| PG,100,8.6
+2908,Notorious,"September 6, 1946",| Approved,100,7.9
+2909,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+2910,Playtime,"June 27, 1973",| Not Rated,99,tbd
+2911,City Lights,"March 7, 1931",| Passed,99,8.7
+2912,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+2913,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+2914,Pinocchio,"February 23, 1940",| Passed,99,8.0
+2915,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+2916,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+2917,The Wild Bunch,"June 18, 1969",| R,98,7.6
+2918,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+2919,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+2920,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+2921,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+2922,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+2923,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+2924,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+2925,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+2926,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+2927,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+2928,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+2929,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+2930,My Left Foot,"November 10, 1989",| R,97,8.3
+2931,Ran,"December 20, 1985",| R,97,8.4
+2932,The Third Man,"September 3, 1949",| Approved,97,8.4
+2933,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+2934,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+2935,Psycho,"September 8, 1960",| M,97,8.8
+2936,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+2937,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+2938,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+2939,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+2940,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+2941,American Graffiti,"August 11, 1973",| PG,97,7.4
+2942,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+2943,Dumbo,"October 31, 1941",| Approved,96,7.7
+2944,Roma,"November 21, 2018",| Not Rated,96,7.7
+2945,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+2946,Parasite,"October 11, 2019",| Not Rated,96,8.7
+2947,Spirited Away,"September 20, 2002",| PG,96,8.9
+2948,Toy Story,"November 22, 1995",| TV-G,96,8.8
+2949,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+2950,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+2951,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+2952,12 Years a Slave,"October 18, 2013",| R,96,8.0
+2953,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+2954,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+2955,Nashville,"June 11, 1975",| R,96,8.0
+2956,Red River,"September 17, 1948",| Passed,96,tbd
+2957,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+2958,Ratatouille,"June 29, 2007",| G,96,8.6
+2959,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+2960,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+2961,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+2962,Mean Streets,"October 14, 1973",| R,96,7.3
+2963,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+2964,Gravity,"October 4, 2013",| PG-13,96,7.8
+2965,Fantasia,"November 13, 1940",| Approved,96,8.3
+2966,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+2967,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+2968,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+2969,Don't Look Now,"December 9, 1973",| R,95,6.8
+2970,The Social Network,"October 1, 2010",| PG-13,95,8.2
+2971,My Fair Lady,"December 25, 1964",| G,95,7.4
+2972,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+2973,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+2974,Woodstock,"March 26, 1970",| R,95,tbd
+2975,Past Lives,TBA,| PG-13,95,tbd
+2976,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+2977,Rocks,"February 1, 2021",| TV-MA,95,6.6
+2978,Amour,"December 19, 2012",| PG-13,95,8.1
+2979,The Hurt Locker,"June 26, 2009",| R,95,7.3
+2980,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+2981,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+2982,Collective,"November 20, 2020",| Not Rated,95,7.8
+2983,A Separation,"December 30, 2011",| PG-13,95,8.8
+2984,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+2985,Sunrise,"November 4, 1927",| Passed,95,tbd
+2986,Schindler's List,"December 15, 1993",| R,95,8.8
+2987,Pulp Fiction,"October 14, 1994",| R,95,9.0
+2988,WALL-E,"June 27, 2008",| G,95,8.8
+2989,Carol,"November 20, 2015",| R,94,7.9
+2990,Before Midnight,"May 24, 2013",| R,94,8.3
+2991,Amazing Grace,,"November 23, 2018",94,8.2
+2992,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+2993,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+2994,The Searchers,"May 26, 1956",| Passed,94,7.4
+2995,45 Years,"December 23, 2015",| Not Rated,94,7.3
+2996,Taxi Driver,"February 7, 1976",| R,94,7.7
+2997,The Servant,"March 16, 1964",| Unrated,94,7.5
+2998,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+2999,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+3000,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+3001,The Godfather,"March 24, 1972",| R,100,9.2
+3002,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+3003,Rear Window,"September 1, 1954",| TV-G,100,8.7
+3004,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+3005,Boyhood,"July 11, 2014",| R,100,7.4
+3006,Three Colors: Red,"November 23, 1994",| R,100,8.5
+3007,Vertigo,"May 28, 1958",| PG,100,8.6
+3008,Notorious,"September 6, 1946",| Approved,100,7.9
+3009,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+3010,Playtime,"June 27, 1973",| Not Rated,99,tbd
+3011,City Lights,"March 7, 1931",| Passed,99,8.7
+3012,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+3013,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+3014,Pinocchio,"February 23, 1940",| Passed,99,8.0
+3015,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+3016,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+3017,The Wild Bunch,"June 18, 1969",| R,98,7.6
+3018,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+3019,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+3020,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+3021,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+3022,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+3023,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+3024,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+3025,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+3026,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+3027,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+3028,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+3029,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+3030,My Left Foot,"November 10, 1989",| R,97,8.3
+3031,Ran,"December 20, 1985",| R,97,8.4
+3032,The Third Man,"September 3, 1949",| Approved,97,8.4
+3033,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+3034,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+3035,Psycho,"September 8, 1960",| M,97,8.8
+3036,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+3037,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+3038,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+3039,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+3040,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+3041,American Graffiti,"August 11, 1973",| PG,97,7.4
+3042,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+3043,Dumbo,"October 31, 1941",| Approved,96,7.7
+3044,Roma,"November 21, 2018",| Not Rated,96,7.7
+3045,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+3046,Parasite,"October 11, 2019",| Not Rated,96,8.7
+3047,Spirited Away,"September 20, 2002",| PG,96,8.9
+3048,Toy Story,"November 22, 1995",| TV-G,96,8.8
+3049,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+3050,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+3051,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+3052,12 Years a Slave,"October 18, 2013",| R,96,8.0
+3053,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+3054,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+3055,Nashville,"June 11, 1975",| R,96,8.0
+3056,Red River,"September 17, 1948",| Passed,96,tbd
+3057,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+3058,Ratatouille,"June 29, 2007",| G,96,8.6
+3059,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+3060,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+3061,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+3062,Mean Streets,"October 14, 1973",| R,96,7.3
+3063,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+3064,Gravity,"October 4, 2013",| PG-13,96,7.8
+3065,Fantasia,"November 13, 1940",| Approved,96,8.3
+3066,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+3067,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+3068,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+3069,Don't Look Now,"December 9, 1973",| R,95,6.8
+3070,The Social Network,"October 1, 2010",| PG-13,95,8.2
+3071,My Fair Lady,"December 25, 1964",| G,95,7.4
+3072,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+3073,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+3074,Woodstock,"March 26, 1970",| R,95,tbd
+3075,Past Lives,TBA,| PG-13,95,tbd
+3076,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+3077,Rocks,"February 1, 2021",| TV-MA,95,6.6
+3078,Amour,"December 19, 2012",| PG-13,95,8.1
+3079,The Hurt Locker,"June 26, 2009",| R,95,7.3
+3080,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+3081,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+3082,Collective,"November 20, 2020",| Not Rated,95,7.8
+3083,A Separation,"December 30, 2011",| PG-13,95,8.8
+3084,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+3085,Sunrise,"November 4, 1927",| Passed,95,tbd
+3086,Schindler's List,"December 15, 1993",| R,95,8.8
+3087,Pulp Fiction,"October 14, 1994",| R,95,9.0
+3088,WALL-E,"June 27, 2008",| G,95,8.8
+3089,Carol,"November 20, 2015",| R,94,7.9
+3090,Before Midnight,"May 24, 2013",| R,94,8.3
+3091,Amazing Grace,,"November 23, 2018",94,8.2
+3092,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+3093,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+3094,The Searchers,"May 26, 1956",| Passed,94,7.4
+3095,45 Years,"December 23, 2015",| Not Rated,94,7.3
+3096,Taxi Driver,"February 7, 1976",| R,94,7.7
+3097,The Servant,"March 16, 1964",| Unrated,94,7.5
+3098,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+3099,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+3100,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+3101,The Godfather,"March 24, 1972",| R,100,9.2
+3102,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+3103,Rear Window,"September 1, 1954",| TV-G,100,8.7
+3104,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+3105,Boyhood,"July 11, 2014",| R,100,7.4
+3106,Three Colors: Red,"November 23, 1994",| R,100,8.5
+3107,Vertigo,"May 28, 1958",| PG,100,8.6
+3108,Notorious,"September 6, 1946",| Approved,100,7.9
+3109,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+3110,Playtime,"June 27, 1973",| Not Rated,99,tbd
+3111,City Lights,"March 7, 1931",| Passed,99,8.7
+3112,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+3113,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+3114,Pinocchio,"February 23, 1940",| Passed,99,8.0
+3115,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+3116,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+3117,The Wild Bunch,"June 18, 1969",| R,98,7.6
+3118,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+3119,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+3120,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+3121,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+3122,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+3123,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+3124,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+3125,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+3126,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+3127,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+3128,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+3129,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+3130,My Left Foot,"November 10, 1989",| R,97,8.3
+3131,Ran,"December 20, 1985",| R,97,8.4
+3132,The Third Man,"September 3, 1949",| Approved,97,8.4
+3133,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+3134,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+3135,Psycho,"September 8, 1960",| M,97,8.8
+3136,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+3137,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+3138,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+3139,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+3140,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+3141,American Graffiti,"August 11, 1973",| PG,97,7.4
+3142,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+3143,Dumbo,"October 31, 1941",| Approved,96,7.7
+3144,Roma,"November 21, 2018",| Not Rated,96,7.7
+3145,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+3146,Parasite,"October 11, 2019",| Not Rated,96,8.7
+3147,Spirited Away,"September 20, 2002",| PG,96,8.9
+3148,Toy Story,"November 22, 1995",| TV-G,96,8.8
+3149,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+3150,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+3151,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+3152,12 Years a Slave,"October 18, 2013",| R,96,8.0
+3153,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+3154,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+3155,Nashville,"June 11, 1975",| R,96,8.0
+3156,Red River,"September 17, 1948",| Passed,96,tbd
+3157,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+3158,Ratatouille,"June 29, 2007",| G,96,8.6
+3159,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+3160,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+3161,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+3162,Mean Streets,"October 14, 1973",| R,96,7.3
+3163,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+3164,Gravity,"October 4, 2013",| PG-13,96,7.8
+3165,Fantasia,"November 13, 1940",| Approved,96,8.3
+3166,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+3167,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+3168,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+3169,Don't Look Now,"December 9, 1973",| R,95,6.8
+3170,The Social Network,"October 1, 2010",| PG-13,95,8.2
+3171,My Fair Lady,"December 25, 1964",| G,95,7.4
+3172,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+3173,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+3174,Woodstock,"March 26, 1970",| R,95,tbd
+3175,Past Lives,TBA,| PG-13,95,tbd
+3176,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+3177,Rocks,"February 1, 2021",| TV-MA,95,6.6
+3178,Amour,"December 19, 2012",| PG-13,95,8.1
+3179,The Hurt Locker,"June 26, 2009",| R,95,7.3
+3180,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+3181,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+3182,Collective,"November 20, 2020",| Not Rated,95,7.8
+3183,A Separation,"December 30, 2011",| PG-13,95,8.8
+3184,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+3185,Sunrise,"November 4, 1927",| Passed,95,tbd
+3186,Schindler's List,"December 15, 1993",| R,95,8.8
+3187,Pulp Fiction,"October 14, 1994",| R,95,9.0
+3188,WALL-E,"June 27, 2008",| G,95,8.8
+3189,Carol,"November 20, 2015",| R,94,7.9
+3190,Before Midnight,"May 24, 2013",| R,94,8.3
+3191,Amazing Grace,,"November 23, 2018",94,8.2
+3192,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+3193,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+3194,The Searchers,"May 26, 1956",| Passed,94,7.4
+3195,45 Years,"December 23, 2015",| Not Rated,94,7.3
+3196,Taxi Driver,"February 7, 1976",| R,94,7.7
+3197,The Servant,"March 16, 1964",| Unrated,94,7.5
+3198,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+3199,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+3200,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+3201,The Godfather,"March 24, 1972",| R,100,9.2
+3202,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+3203,Rear Window,"September 1, 1954",| TV-G,100,8.7
+3204,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+3205,Boyhood,"July 11, 2014",| R,100,7.4
+3206,Three Colors: Red,"November 23, 1994",| R,100,8.5
+3207,Vertigo,"May 28, 1958",| PG,100,8.6
+3208,Notorious,"September 6, 1946",| Approved,100,7.9
+3209,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+3210,Playtime,"June 27, 1973",| Not Rated,99,tbd
+3211,City Lights,"March 7, 1931",| Passed,99,8.7
+3212,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+3213,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+3214,Pinocchio,"February 23, 1940",| Passed,99,8.0
+3215,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+3216,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+3217,The Wild Bunch,"June 18, 1969",| R,98,7.6
+3218,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+3219,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+3220,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+3221,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+3222,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+3223,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+3224,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+3225,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+3226,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+3227,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+3228,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+3229,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+3230,My Left Foot,"November 10, 1989",| R,97,8.3
+3231,Ran,"December 20, 1985",| R,97,8.4
+3232,The Third Man,"September 3, 1949",| Approved,97,8.4
+3233,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+3234,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+3235,Psycho,"September 8, 1960",| M,97,8.8
+3236,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+3237,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+3238,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+3239,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+3240,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+3241,American Graffiti,"August 11, 1973",| PG,97,7.4
+3242,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+3243,Dumbo,"October 31, 1941",| Approved,96,7.7
+3244,Roma,"November 21, 2018",| Not Rated,96,7.7
+3245,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+3246,Parasite,"October 11, 2019",| Not Rated,96,8.7
+3247,Spirited Away,"September 20, 2002",| PG,96,8.9
+3248,Toy Story,"November 22, 1995",| TV-G,96,8.8
+3249,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+3250,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+3251,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+3252,12 Years a Slave,"October 18, 2013",| R,96,8.0
+3253,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+3254,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+3255,Nashville,"June 11, 1975",| R,96,8.0
+3256,Red River,"September 17, 1948",| Passed,96,tbd
+3257,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+3258,Ratatouille,"June 29, 2007",| G,96,8.6
+3259,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+3260,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+3261,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+3262,Mean Streets,"October 14, 1973",| R,96,7.3
+3263,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+3264,Gravity,"October 4, 2013",| PG-13,96,7.8
+3265,Fantasia,"November 13, 1940",| Approved,96,8.3
+3266,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+3267,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+3268,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+3269,Don't Look Now,"December 9, 1973",| R,95,6.8
+3270,The Social Network,"October 1, 2010",| PG-13,95,8.2
+3271,My Fair Lady,"December 25, 1964",| G,95,7.4
+3272,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+3273,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+3274,Woodstock,"March 26, 1970",| R,95,tbd
+3275,Past Lives,TBA,| PG-13,95,tbd
+3276,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+3277,Rocks,"February 1, 2021",| TV-MA,95,6.6
+3278,Amour,"December 19, 2012",| PG-13,95,8.1
+3279,The Hurt Locker,"June 26, 2009",| R,95,7.3
+3280,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+3281,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+3282,Collective,"November 20, 2020",| Not Rated,95,7.8
+3283,A Separation,"December 30, 2011",| PG-13,95,8.8
+3284,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+3285,Sunrise,"November 4, 1927",| Passed,95,tbd
+3286,Schindler's List,"December 15, 1993",| R,95,8.8
+3287,Pulp Fiction,"October 14, 1994",| R,95,9.0
+3288,WALL-E,"June 27, 2008",| G,95,8.8
+3289,Carol,"November 20, 2015",| R,94,7.9
+3290,Before Midnight,"May 24, 2013",| R,94,8.3
+3291,Amazing Grace,,"November 23, 2018",94,8.2
+3292,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+3293,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+3294,The Searchers,"May 26, 1956",| Passed,94,7.4
+3295,45 Years,"December 23, 2015",| Not Rated,94,7.3
+3296,Taxi Driver,"February 7, 1976",| R,94,7.7
+3297,The Servant,"March 16, 1964",| Unrated,94,7.5
+3298,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+3299,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
+3300,Tokyo Story,"March 13, 1972",| Not Rated,100,8.7
+3301,The Godfather,"March 24, 1972",| R,100,9.2
+3302,Citizen Kane,"September 4, 1941",| Approved,100,8.4
+3303,Rear Window,"September 1, 1954",| TV-G,100,8.7
+3304,Casablanca,"January 23, 1943",| TV-PG,100,8.8
+3305,Boyhood,"July 11, 2014",| R,100,7.4
+3306,Three Colors: Red,"November 23, 1994",| R,100,8.5
+3307,Vertigo,"May 28, 1958",| PG,100,8.6
+3308,Notorious,"September 6, 1946",| Approved,100,7.9
+3309,Singin' in the Rain,"April 11, 1952",| G,99,8.7
+3310,Playtime,"June 27, 1973",| Not Rated,99,tbd
+3311,City Lights,"March 7, 1931",| Passed,99,8.7
+3312,Moonlight,"October 21, 2016",| Not Rated,99,7.1
+3313,Intolerance,"September 5, 1916",| Not Rated,99,7.3
+3314,Pinocchio,"February 23, 1940",| Passed,99,8.0
+3315,Touch of Evil,"February 1, 1958",| PG-13,99,8.4
+3316,Seven Samurai,"November 19, 1956",| Not Rated,98,8.8
+3317,The Wild Bunch,"June 18, 1969",| R,98,7.6
+3318,Au hasard Balthazar,"September 16, 1966",| Not Rated,98,7.1
+3319,The Lady Vanishes,"November 1, 1938",| Approved,98,8.2
+3320,The Treasure of the Sierra Madre,"January 24, 1948",| TV-PG,98,8.0
+3321,Pan's Labyrinth,"December 29, 2006",| R,98,8.6
+3322,Some Like It Hot,"March 29, 1959",| Approved,98,8.3
+3323,North by Northwest,"August 6, 1959",| TV-G,98,8.0
+3324,The Rules of the Game,"April 8, 1950",| Not Rated,98,tbd
+3325,Hoop Dreams,"October 14, 1994",| PG-13,98,8.0
+3326,Rashomon,"December 26, 1951",| Not Rated,98,8.5
+3327,The Passion of Joan of Arc,"March 28, 1929",| Passed,98,tbd
+3328,All About Eve,"October 27, 1950",| TV-PG,98,8.7
+3329,Jules and Jim,"April 23, 1962",| Not Rated,97,6.5
+3330,My Left Foot,"November 10, 1989",| R,97,8.3
+3331,Ran,"December 20, 1985",| R,97,8.4
+3332,The Third Man,"September 3, 1949",| Approved,97,8.4
+3333,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",| GP,97,8.4
+3334,"Quo Vadis, Aida?","March 5, 2021",| Approved,97,8.0
+3335,Psycho,"September 8, 1960",| M,97,8.8
+3336,Gone with the Wind,"January 17, 1940",| TV-PG,97,8.3
+3337,"4 Months, 3 Weeks and 2 Days","January 23, 2008",| Not Rated,97,7.9
+3338,Battleship Potemkin,"December 5, 1926",| Not Rated,97,8.6
+3339,A Streetcar Named Desire,"September 19, 1951",| M/PG,97,8.2
+3340,The Maltese Falcon,"October 18, 1941",| TV-PG,97,8.0
+3341,American Graffiti,"August 11, 1973",| PG,97,7.4
+3342,12 Angry Men,"April 1, 1957",| Approved,97,8.8
+3343,Dumbo,"October 31, 1941",| Approved,96,7.7
+3344,Roma,"November 21, 2018",| Not Rated,96,7.7
+3345,Man with a Movie Camera,"May 12, 1929",| Not Rated,96,tbd
+3346,Parasite,"October 11, 2019",| Not Rated,96,8.7
+3347,Spirited Away,"September 20, 2002",| PG,96,8.9
+3348,Toy Story,"November 22, 1995",| TV-G,96,8.8
+3349,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","July 2, 2021",| Not Rated,96,7.1
+3350,The Shop Around the Corner,"January 12, 1940",| Passed,96,7.2
+3351,Rosemary's Baby,"June 12, 1968",| Approved,96,8.3
+3352,12 Years a Slave,"October 18, 2013",| R,96,8.0
+3353,Manchester by the Sea,"November 18, 2016",| R,96,8.2
+3354,Killer of Sheep,"March 30, 2007",| Not Rated,96,6.9
+3355,Nashville,"June 11, 1975",| R,96,8.0
+3356,Red River,"September 17, 1948",| Passed,96,tbd
+3357,Sansho the Bailiff,"January 1, 1955",| Not Rated,96,7.3
+3358,Ratatouille,"June 29, 2007",| G,96,8.6
+3359,The Grapes of Wrath,"March 15, 1940",| Approved,96,8.5
+3360,Snow White and the Seven Dwarfs,"February 4, 1938",| G,96,8.1
+3361,Children of Paradise (1945),"March 9, 2012",| Not Rated,96,7.8
+3362,Mean Streets,"October 14, 1973",| R,96,7.3
+3363,The Lady Eve,"March 21, 1941",| Passed,96,6.7
+3364,Gravity,"October 4, 2013",| PG-13,96,7.8
+3365,Fantasia,"November 13, 1940",| Approved,96,8.3
+3366,Beauty and the Beast,"November 22, 1991",| G,95,8.3
+3367,Small Axe: Lovers Rock,"November 27, 2020",| Not Rated,95,5.9
+3368,The Bride of Frankenstein,"May 6, 1935",| TV-PG,95,7.6
+3369,Don't Look Now,"December 9, 1973",| R,95,6.8
+3370,The Social Network,"October 1, 2010",| PG-13,95,8.2
+3371,My Fair Lady,"December 25, 1964",| G,95,7.4
+3372,Portrait of a Lady on Fire,"December 6, 2019",| R,95,8.6
+3373,I Am Not Your Negro,"December 9, 2016",| PG-13,95,5.3
+3374,Woodstock,"March 26, 1970",| R,95,tbd
+3375,Past Lives,TBA,| PG-13,95,tbd
+3376,Aftersun,"October 21, 2022",| Not Rated,95,7.8
+3377,Rocks,"February 1, 2021",| TV-MA,95,6.6
+3378,Amour,"December 19, 2012",| PG-13,95,8.1
+3379,The Hurt Locker,"June 26, 2009",| R,95,7.3
+3380,Anatomy of a Murder,"July 1, 1959",| TV-PG,95,8.1
+3381,Zero Dark Thirty,"December 19, 2012",| R,95,6.9
+3382,Collective,"November 20, 2020",| Not Rated,95,7.8
+3383,A Separation,"December 30, 2011",| PG-13,95,8.8
+3384,Double Indemnity,"July 6, 1944",| Passed,95,8.6
+3385,Sunrise,"November 4, 1927",| Passed,95,tbd
+3386,Schindler's List,"December 15, 1993",| R,95,8.8
+3387,Pulp Fiction,"October 14, 1994",| R,95,9.0
+3388,WALL-E,"June 27, 2008",| G,95,8.8
+3389,Carol,"November 20, 2015",| R,94,7.9
+3390,Before Midnight,"May 24, 2013",| R,94,8.3
+3391,Amazing Grace,,"November 23, 2018",94,8.2
+3392,Dunkirk,"July 21, 2017",| PG-13,94,8.3
+3393,The Man Who Shot Liberty Valance,"April 22, 1962",| Approved,94,8.6
+3394,The Searchers,"May 26, 1956",| Passed,94,7.4
+3395,45 Years,"December 23, 2015",| Not Rated,94,7.3
+3396,Taxi Driver,"February 7, 1976",| R,94,7.7
+3397,The Servant,"March 16, 1964",| Unrated,94,7.5
+3398,Yi Yi,"October 6, 2000",| Not Rated,94,8.4
+3399,The Manchurian Candidate,"October 24, 1962",| Approved,94,8.1
