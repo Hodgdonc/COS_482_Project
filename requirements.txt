@@ -1,0 +1,11 @@
+tensorflow
+
+pandas
+
+beautifulsoup4
+
+selenium
+
+matplotlib
+
+numpy
