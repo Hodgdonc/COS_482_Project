@@ -9,3 +9,5 @@ selenium
 matplotlib
 
 numpy
+
+scikit-learn
